@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "“서남권 반도체 산단 5년내 조성…기반시설 구축 정부 부담”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003730503"
+      "title": "6월 수출 사상 첫 1000억달러 돌파",
+      "url": "https://n.news.naver.com/mnews/article/016/0002664216"
     },
     {
-      "title": "\"단순 정비소가 아니네…부품 이송은 로봇이, 진단은 데이터가\"[르포]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006319003"
+      "title": "경총 \"노란봉투법 현장혼란 현실화\"…정점식 \"개정안 당론 발의\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016171081"
     },
     {
-      "title": "산업장관 “800조 반도체 투자…전남·광주 5년치 총생산 규모”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002663773"
+      "title": "‘1560원’ 턱밑까지 진격한 환율… 금융위기 이후 17년 만에 최고치",
+      "url": "https://n.news.naver.com/mnews/article/022/0004139712"
     },
     {
-      "title": "삼성, 호남에 425조원 투자…광주에 반도체 팹 2개 신설",
-      "url": "https://n.news.naver.com/mnews/article/277/0005783546"
+      "title": "테슬라코리아, 모델3·모델Y 판매가격 최대 700만 원 인상",
+      "url": "https://n.news.naver.com/mnews/article/055/0001368834"
     },
     {
-      "title": "보험 판매수수료 개편 본격화…GA도 1200%룰 적용",
-      "url": "https://n.news.naver.com/mnews/article/119/0003106255"
+      "title": "100억~300억원 공공 공사에 '기술형 적격심사' 도입",
+      "url": "https://n.news.naver.com/mnews/article/003/0014041019"
     },
     {
-      "title": "LG디스플레이, 온실가스 7년 전 대비 67% 감축… 2030년 목표 초과 달성",
-      "url": "https://n.news.naver.com/mnews/article/366/0001175558"
+      "title": "노동부, 삼성전자 성과급 합의 백지화설에 “사실 무근”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004636858"
     },
     {
-      "title": "동탄·기흥·구리 묶였다…내달부터 주담대 한도 ‘반토막’",
-      "url": "https://n.news.naver.com/mnews/article/029/0003034530"
+      "title": "안보 넘어 '일자리 동맹'으로...대한상의, '주한미군 채용 플랫폼' 으로 한미협력 강화",
+      "url": "https://n.news.naver.com/mnews/article/014/0005542344"
     },
     {
-      "title": "삼성 SSAFY 14기 수료…AI 실무형 인재 1만명 배출 눈앞",
-      "url": "https://n.news.naver.com/mnews/article/666/0000113320"
+      "title": "롯데시네마-메가박스 합병 결국 무산…롯데쇼핑 \"MOU 종료로 절차 중단\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005784282"
     },
     {
-      "title": "[속보] ‘집값 급등’ 동탄·기흥·구리, 규제지역·토지거래허가구역 지정",
-      "url": "https://n.news.naver.com/mnews/article/009/0005700471"
+      "title": "\"정부·법원, 홈플러스 지켜달라\"… 182개 협력사, 신문고에 탄원",
+      "url": "https://n.news.naver.com/mnews/article/469/0000939819"
     },
     {
-      "title": "작년 사업자 97만개, 평균 8531만원 빚지고 장사 접었다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005541734"
+      "title": "SK, 메가프로젝트 전력 셀프공급… 10GW 신재생에너지기업 세운다",
+      "url": "https://n.news.naver.com/mnews/article/021/0002801650"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8476.48,
-      "change": 81.83,
-      "change_pct": 0.97
+      "value": 8303.41,
+      "change": -173.07,
+      "change_pct": -2.04
     },
     "kosdaq": {
-      "value": 916.18,
-      "change": -4.39,
-      "change_pct": -0.48
+      "value": 929.35,
+      "change": 13.17,
+      "change_pct": 1.44
     },
     "nasdaq": {
-      "value": 25820.14,
-      "change": 522.52,
-      "change_pct": 2.07
+      "value": 26213.72,
+      "change": 393.58,
+      "change_pct": 1.52
     },
     "usdkrw": {
-      "value": 1552.4,
-      "change": 17.16,
-      "change_pct": 1.12
+      "value": 1557.64,
+      "change": 15.91,
+      "change_pct": 1.03
     }
   },
   "gold": {
-    "price_usd": 4036.8,
-    "price_krw": 6266728,
-    "change": 14.5,
-    "change_pct": 0.36
+    "price_usd": 4003.0,
+    "price_krw": 6235232,
+    "change": -19.9,
+    "change_pct": -0.49
   },
-  "updated": "2026-06-30 17:46",
+  "updated": "2026-07-01 19:49",
   "error": null
 }
