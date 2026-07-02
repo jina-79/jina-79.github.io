@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "6월 수출 사상 첫 1000억달러 돌파",
-      "url": "https://n.news.naver.com/mnews/article/016/0002664216"
+      "title": "동대문 현대아울렛 10년만에 리뉴얼",
+      "url": "https://n.news.naver.com/mnews/article/009/0005701845"
     },
     {
-      "title": "경총 \"노란봉투법 현장혼란 현실화\"…정점식 \"개정안 당론 발의\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016171081"
+      "title": "'K뷰티 놀이터' 올리브영 페스타, 내달 美 첫선",
+      "url": "https://n.news.naver.com/mnews/article/018/0006320537"
     },
     {
-      "title": "‘1560원’ 턱밑까지 진격한 환율… 금융위기 이후 17년 만에 최고치",
-      "url": "https://n.news.naver.com/mnews/article/022/0004139712"
+      "title": "LS일렉트릭, 세계 최초 100% 직류 배전 공장 본가동",
+      "url": "https://n.news.naver.com/mnews/article/016/0002664863"
     },
     {
-      "title": "테슬라코리아, 모델3·모델Y 판매가격 최대 700만 원 인상",
-      "url": "https://n.news.naver.com/mnews/article/055/0001368834"
+      "title": "전기차 주춤에 HEV로 돌격… 현대차·기아, 상반기 美 판매량 ‘역대 최대’",
+      "url": "https://n.news.naver.com/mnews/article/366/0001176205"
     },
     {
-      "title": "100억~300억원 공공 공사에 '기술형 적격심사' 도입",
-      "url": "https://n.news.naver.com/mnews/article/003/0014041019"
+      "title": "이찬진 금감원장, 가상자산업계에 \"내부통제부터 다시 세워야\"",
+      "url": "https://n.news.naver.com/mnews/article/629/0000512742"
     },
     {
-      "title": "노동부, 삼성전자 성과급 합의 백지화설에 “사실 무근”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004636858"
+      "title": "장인화 포스코그룹 회장 “과감한 사업 포트폴리오 혁신으로 성장 기회 창출해야”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002664905"
     },
     {
-      "title": "안보 넘어 '일자리 동맹'으로...대한상의, '주한미군 채용 플랫폼' 으로 한미협력 강화",
-      "url": "https://n.news.naver.com/mnews/article/014/0005542344"
+      "title": "하반기 산업 전망…반도체·車 ‘맑음’ 석유화학 ‘비’",
+      "url": "https://n.news.naver.com/mnews/article/011/0004637428"
     },
     {
-      "title": "롯데시네마-메가박스 합병 결국 무산…롯데쇼핑 \"MOU 종료로 절차 중단\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005784282"
+      "title": "6월 소비자 물가 3.2%↑…기름값에 채소값까지 올랐다(종합)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005784577"
     },
     {
-      "title": "\"정부·법원, 홈플러스 지켜달라\"… 182개 협력사, 신문고에 탄원",
-      "url": "https://n.news.naver.com/mnews/article/469/0000939819"
+      "title": "\"비만치료제 주사 후 이상 신고 급증…복통·발열 가장 많아\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016172428"
     },
     {
-      "title": "SK, 메가프로젝트 전력 셀프공급… 10GW 신재생에너지기업 세운다",
-      "url": "https://n.news.naver.com/mnews/article/021/0002801650"
+      "title": "구윤철 \"대미투자 과정서 외환시장 안정에도 만전\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002373872"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8303.41,
-      "change": -173.07,
-      "change_pct": -2.04
+      "value": 7648.09,
+      "change": -655.32,
+      "change_pct": -7.89
     },
     "kosdaq": {
-      "value": 929.35,
-      "change": 13.17,
-      "change_pct": 1.44
+      "value": 866.72,
+      "change": -62.63,
+      "change_pct": -6.74
     },
     "nasdaq": {
-      "value": 26213.72,
-      "change": 393.58,
-      "change_pct": 1.52
+      "value": 26040.03,
+      "change": -173.69,
+      "change_pct": -0.66
     },
     "usdkrw": {
-      "value": 1557.64,
-      "change": 15.91,
-      "change_pct": 1.03
+      "value": 1548.71,
+      "change": 0.1,
+      "change_pct": 0.01
     }
   },
   "gold": {
-    "price_usd": 4003.0,
-    "price_krw": 6235232,
-    "change": -19.9,
-    "change_pct": -0.49
+    "price_usd": 4084.3,
+    "price_krw": 6325396,
+    "change": 16.0,
+    "change_pct": 0.39
   },
-  "updated": "2026-07-01 19:49",
+  "updated": "2026-07-02 17:29",
   "error": null
 }
