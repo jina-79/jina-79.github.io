@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "6월 수입차 신규 등록 2대 중 1대 '전기차'",
-      "url": "https://n.news.naver.com/mnews/article/031/0001039541"
-    },
-    {
-      "title": "하루 걸러 하루 사이드카…지독한 레버리지의 저주",
-      "url": "https://n.news.naver.com/mnews/article/025/0003535280"
-    },
-    {
-      "title": "\"420만닉스 간다\"…반도체주 급락에도 증권가 '깜짝' 전망 [종목+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005305839"
-    },
-    {
-      "title": "소액주주 반발에…동양생명 주식매수청구권 10% 상향",
-      "url": "https://n.news.naver.com/mnews/article/009/0005702560"
-    },
-    {
-      "title": "상반기 FDI 9.1% 증가...\"반도체·디스플레이 신규 투자 유입\"",
-      "url": "https://n.news.naver.com/mnews/article/215/0001257482"
-    },
-    {
-      "title": "홈플러스 임금체불 피해자에 최대 2천100만원 지급…저금리 융자",
-      "url": "https://n.news.naver.com/mnews/article/001/0016174834"
-    },
-    {
-      "title": "도수치료 급여화 시작…병원은 '고용·운영' 더 걱정",
-      "url": "https://n.news.naver.com/mnews/article/421/0009038503"
+      "title": "24시간 거래되는 외환시장, 결제는 언제…시가·종가는 어떻게 산정되나 [Q&A]",
+      "url": "https://n.news.naver.com/mnews/article/421/0009040878"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000519815"
+      "url": "https://n.news.naver.com/mnews/article/052/0002374745"
     },
     {
-      "title": "李대통령 “우주항공도 ‘대체불가 대한민국’…잠재력 충분”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006321886"
+      "title": "언제까지 이런 일이…아파트 통합경비용역 입찰 담합 철퇴",
+      "url": "https://n.news.naver.com/mnews/article/029/0003035300"
     },
     {
-      "title": "KB금융 차기 회장 후보 6명 압축",
-      "url": "https://n.news.naver.com/mnews/article/015/0005306141"
+      "title": "LG전자, 美에 초프리미엄 브랜드 SKS 체험형 쇼룸 4호 개소",
+      "url": "https://n.news.naver.com/mnews/article/421/0009041049"
+    },
+    {
+      "title": "고신용자 카드론 금리만 올랐다…포용금융·총량규제가 만든 ‘금리 역전’",
+      "url": "https://n.news.naver.com/mnews/article/016/0002665818"
+    },
+    {
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002374928"
+    },
+    {
+      "title": "진옥동 신한금융 회장 \"야성으로 미래 금융혁신 주도\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016176200"
+    },
+    {
+      "title": "2분기 '빚투' 하루 평균 62조원…증권사 추정 이자수익 최대 1.4조원",
+      "url": "https://n.news.naver.com/mnews/article/374/0000519973"
+    },
+    {
+      "title": "8000선 사수한 코스피, 삼성전자 실적이 반등 ‘신호탄’ 될까[주간증시전망]",
+      "url": "https://n.news.naver.com/mnews/article/366/0001176793"
+    },
+    {
+      "title": "쿠팡 이용자 수 해킹 사태 이전보다 더 늘었다",
+      "url": "https://n.news.naver.com/mnews/article/023/0003985773"
     }
   ],
   "stocks": {
@@ -69,6 +69,6 @@
     "change": 74.6,
     "change_pct": 1.81
   },
-  "updated": "2026-07-04 16:31",
+  "updated": "2026-07-05 17:24",
   "error": null
 }
