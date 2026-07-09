@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "아파트 20억에 팔고 양도세 0원...다른 집 지인에 넘긴 척 세금 탈루",
-      "url": "https://n.news.naver.com/mnews/article/366/0001177264"
+      "title": "37조 조달 SK하이닉스, 나스닥 입성…최태원 AI 세일즈 나선다",
+      "url": "https://n.news.naver.com/mnews/article/082/0001389029"
     },
     {
-      "title": "\"성과급 빼면 영업익 100조 넘었다\"…삼성전자 '대기록'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005306969"
+      "title": "李대통령, IMF '韓 성장률 상향'에 \"모두의 성장 되도록 노력\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016184897"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001510128"
+      "title": "\"SK하이닉스 ADR 공모, '몇배' 초과청약\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016183753"
     },
     {
-      "title": "캐나다, 잠수함 사업 독일 TKMS로‥한화오션 수주 불발",
-      "url": "https://n.news.naver.com/mnews/article/214/0001509969"
+      "title": "“미래를 짓는 K-건설”, 국토부 ‘제36회 건설의 날’ 기념식 개최",
+      "url": "https://n.news.naver.com/mnews/article/011/0004639684"
     },
     {
-      "title": "현대차그룹, 협력사와 AI·로봇·SDV 전환 생태계 구축…협력 강화",
-      "url": "https://n.news.naver.com/mnews/article/015/0005307177"
+      "title": "노후한 빌라촌도 모아타운으로 고층 아파트 재건축 가능해진다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003536461"
     },
     {
-      "title": "이재용 회장, 세계 1위 찍고 美선밸리 출국…글로벌 빅테크 주목",
-      "url": "https://n.news.naver.com/mnews/article/421/0009045650"
+      "title": "미래에셋컨설팅, 가상자산 거래소 ‘코빗’ 품는다… 공정위 승인받아",
+      "url": "https://n.news.naver.com/mnews/article/366/0001177877"
     },
     {
-      "title": "'2배 수익' 꿈이 '원금 손실'로…단일종목 레버리지의 배신 [테마+]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005545117"
+      "title": "프로티나, 삼성바이오에피스와 AI 활용 항체 신약 개발 후속계약 체결",
+      "url": "https://n.news.naver.com/mnews/article/018/0006326250"
     },
     {
-      "title": "LG전자, 2개 분기 연속 영업익 1조대…전장·HVAC로 빛났다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004639085"
+      "title": "주담대·빚투 쌍끌이…6월 은행 가계대출 7.6조 증가",
+      "url": "https://n.news.naver.com/mnews/article/422/0000883262"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001370591"
+      "title": "CU, 몽골 진출 8년 만에 600호점 돌파",
+      "url": "https://n.news.naver.com/mnews/article/366/0001177859"
     },
     {
-      "title": "장금상선 자회사도 부산으로…국내 해운사 네번째",
-      "url": "https://n.news.naver.com/mnews/article/009/0005704034"
+      "title": "[속보] 동탄·영통 집값 1%대 급등…경기도까지 번진 매수세",
+      "url": "https://n.news.naver.com/mnews/article/009/0005705073"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7656.31,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 7291.91,
+      "change": 45.12,
+      "change_pct": 0.62
     },
     "kosdaq": {
-      "value": 831.23,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 794.0,
+      "change": 9.0,
+      "change_pct": 1.15
     },
     "nasdaq": {
-      "value": 25818.69,
-      "change": -302.47,
-      "change_pct": -1.16
+      "value": 25870.65,
+      "change": 51.96,
+      "change_pct": 0.2
     },
     "usdkrw": {
-      "value": 1518.28,
-      "change": -10.48,
-      "change_pct": -0.69
+      "value": 1512.02,
+      "change": -7.84,
+      "change_pct": -0.52
     }
   },
   "gold": {
-    "price_usd": 4112.3,
-    "price_krw": 6243622,
-    "change": -42.8,
-    "change_pct": -1.03
+    "price_usd": 4119.3,
+    "price_krw": 6228463,
+    "change": 48.4,
+    "change_pct": 1.19
   },
-  "updated": "2026-07-08 09:16",
+  "updated": "2026-07-09 17:56",
   "error": null
 }
