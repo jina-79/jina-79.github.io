@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "박홍근 \"청년 세대에 과감하게 투자할 골든타임\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002377661"
+      "title": "AI 반도체 패권 경쟁 '활활'…삼전닉스 필두 반도체 증설 각축전",
+      "url": "https://n.news.naver.com/mnews/article/421/0009053373"
     },
     {
-      "title": "이마트 노브랜드, 몽골 1호점 낸다…\"소상공인 수출 확대\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006327056"
+      "title": "삼성전자·SK하이닉스, 올해 年영업익 600조 돌파하나 [반도체 슈퍼 투톱①]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014060233"
     },
     {
-      "title": "최태원, SK하닉 나스닥 상장에 \"역사적인 순간…많은 재무적 선택지\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009053330"
+      "title": "국내 기름값 8주째 하락...휘발유, 18주 만에 1800원대",
+      "url": "https://n.news.naver.com/mnews/article/310/0000138273"
     },
     {
-      "title": "직원 사라진 홈플…물품 보충도, 화장실 청소도 멈췄다 [르포]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002668830"
+      "title": "340m 석가산부터 H컬처클럽까지…'디에이치 방배' 첫 공개",
+      "url": "https://n.news.naver.com/mnews/article/014/0005546744"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000500561"
+      "title": "'세계 4위' 中 CXMT, 6조원대 IPO 추진…삼성·SK 맹추격",
+      "url": "https://n.news.naver.com/mnews/article/422/0000883971"
     },
     {
-      "title": "SK하이닉스, 나스닥 데뷔 첫날 13% 급등…AI 투자 열기 재확인(종합)",
-      "url": "https://n.news.naver.com/mnews/article/018/0006327468"
+      "title": "“화려한 미국 데뷔” 외신들, SK하이닉스 뉴욕 상장 소식 호평…월가 “반도체 랠리 가능성”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012216230"
     },
     {
-      "title": "“갑자기3억 어디서”KB,주담대6억→3억 초강수",
-      "url": "https://n.news.naver.com/mnews/article/021/0002803684"
+      "title": "'2배 ETF' 후폭풍…1000억 반대매매 6번 중 5번이 상장 이후 [증시는 왜]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005546794"
     },
     {
-      "title": "성과급을 지역화폐로? 與, 법안 발의했다 논란 끝에 철회",
-      "url": "https://n.news.naver.com/mnews/article/011/0004640300"
+      "title": "분명 묶었는데…동탄·영통 1% '쑥', 구리·기흥도 '꿈틀'",
+      "url": "https://n.news.naver.com/mnews/article/648/0000048811"
     },
     {
-      "title": "코스피 5%·코스닥 6% 급반등…연이어 매수 사이드카",
-      "url": "https://n.news.naver.com/mnews/article/421/0009052448"
+      "title": "\"국민 볼펜 지켜\"…상폐 위기 모나미, 기사회생에 대표 감사문 공개",
+      "url": "https://n.news.naver.com/mnews/article/003/0014060792"
     },
     {
-      "title": "항고포기 수순 MBK·자금 전용 난색 메리츠…파산으로 가는 홈플러스",
-      "url": "https://n.news.naver.com/mnews/article/421/0009052854"
+      "title": "대통령 경고에 화들짝…이케아 “엄중히 받아들여”, 육휴 불이익 의혹 제기돼",
+      "url": "https://n.news.naver.com/mnews/article/021/0002804014"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 7475.94,
+      "change": 184.03,
+      "change_pct": 2.52
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 837.43,
+      "change": 43.43,
+      "change_pct": 5.47
     },
     "nasdaq": {
       "value": 26281.61,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4128.9,
-    "price_krw": 6188684,
-    "change": -1.7,
-    "change_pct": -0.04
+    "price_usd": 4104.1,
+    "price_krw": 6151512,
+    "change": -26.5,
+    "change_pct": -0.64
   },
-  "updated": "2026-07-11 09:13",
+  "updated": "2026-07-12 08:39",
   "error": null
 }
