@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "AI 반도체 패권 경쟁 '활활'…삼전닉스 필두 반도체 증설 각축전",
-      "url": "https://n.news.naver.com/mnews/article/421/0009053373"
+      "title": "계엄의 밤 153분간…사람들 미친듯이 ‘이것’ 사재기했다는데 [Book]",
+      "url": "https://n.news.naver.com/mnews/article/009/0005706051"
     },
     {
-      "title": "삼성전자·SK하이닉스, 올해 年영업익 600조 돌파하나 [반도체 슈퍼 투톱①]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014060233"
+      "title": "국세청장 “반도체 추가세수로 ‘미래대응기금’ 조성 필요…세수 쏠림 해소해야”",
+      "url": "https://n.news.naver.com/mnews/article/666/0000114857"
     },
     {
-      "title": "국내 기름값 8주째 하락...휘발유, 18주 만에 1800원대",
-      "url": "https://n.news.naver.com/mnews/article/310/0000138273"
+      "title": "에코프로, 인니 제련소 투자 확대…전기차 150만대분 니켈 확보 추진",
+      "url": "https://n.news.naver.com/mnews/article/421/0009054421"
     },
     {
-      "title": "340m 석가산부터 H컬처클럽까지…'디에이치 방배' 첫 공개",
-      "url": "https://n.news.naver.com/mnews/article/014/0005546744"
+      "title": "퇴출 위기 몰린 '국민 기업' 구하자… 개미들 '응원 매수' 릴레이에 상장폐지 탈출",
+      "url": "https://n.news.naver.com/mnews/article/014/0005547073"
     },
     {
-      "title": "'세계 4위' 中 CXMT, 6조원대 IPO 추진…삼성·SK 맹추격",
-      "url": "https://n.news.naver.com/mnews/article/422/0000883971"
+      "title": "\"먼저 돈 빼기 막는다\" 금융권, 홈플러스 임차점포 대주단 자율협약 추진",
+      "url": "https://n.news.naver.com/mnews/article/421/0009054477"
     },
     {
-      "title": "“화려한 미국 데뷔” 외신들, SK하이닉스 뉴욕 상장 소식 호평…월가 “반도체 랠리 가능성”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012216230"
+      "title": "한은 \"반도체 수요 증가보다 공급 확대 더뎌\"…고점론 일축",
+      "url": "https://n.news.naver.com/mnews/article/001/0016190004"
     },
     {
-      "title": "'2배 ETF' 후폭풍…1000억 반대매매 6번 중 5번이 상장 이후 [증시는 왜]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005546794"
+      "title": "오르면 레버리지, 내리면 곱버스…출렁이는 코스피에 단타 몰렸다",
+      "url": "https://n.news.naver.com/mnews/article/374/0000521158"
     },
     {
-      "title": "분명 묶었는데…동탄·영통 1% '쑥', 구리·기흥도 '꿈틀'",
-      "url": "https://n.news.naver.com/mnews/article/648/0000048811"
+      "title": "미국서 성공적 데뷔한 SK하이닉스 ADR…국내 증시 새 동력 될까",
+      "url": "https://n.news.naver.com/mnews/article/469/0000941847"
     },
     {
-      "title": "\"국민 볼펜 지켜\"…상폐 위기 모나미, 기사회생에 대표 감사문 공개",
-      "url": "https://n.news.naver.com/mnews/article/003/0014060792"
+      "title": "김종훈 한미글로벌 회장, 모란장 수훈[Biz & Now]",
+      "url": "https://n.news.naver.com/mnews/article/025/0003537044"
     },
     {
-      "title": "대통령 경고에 화들짝…이케아 “엄중히 받아들여”, 육휴 불이익 의혹 제기돼",
-      "url": "https://n.news.naver.com/mnews/article/021/0002804014"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000884237"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.29
     },
     "usdkrw": {
-      "value": 1498.87,
-      "change": -4.48,
-      "change_pct": -0.3
+      "value": 1499.11,
+      "change": -6.8,
+      "change_pct": -0.45
     }
   },
   "gold": {
-    "price_usd": 4104.1,
-    "price_krw": 6151512,
-    "change": -26.5,
-    "change_pct": -0.64
+    "price_usd": 4082.0,
+    "price_krw": 6119367,
+    "change": -22.1,
+    "change_pct": -0.54
   },
-  "updated": "2026-07-12 08:39",
+  "updated": "2026-07-13 08:38",
   "error": null
 }
