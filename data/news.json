@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "계엄의 밤 153분간…사람들 미친듯이 ‘이것’ 사재기했다는데 [Book]",
-      "url": "https://n.news.naver.com/mnews/article/009/0005706051"
+      "title": "정부, 내년 예산 첫 800조원대로 편성···2009년 이후 최고 수준",
+      "url": "https://n.news.naver.com/mnews/article/032/0003457815"
     },
     {
-      "title": "국세청장 “반도체 추가세수로 ‘미래대응기금’ 조성 필요…세수 쏠림 해소해야”",
-      "url": "https://n.news.naver.com/mnews/article/666/0000114857"
+      "title": "7월 수출 298억弗 ‘역대 최대’",
+      "url": "https://n.news.naver.com/mnews/article/016/0002669494"
     },
     {
-      "title": "에코프로, 인니 제련소 투자 확대…전기차 150만대분 니켈 확보 추진",
-      "url": "https://n.news.naver.com/mnews/article/421/0009054421"
-    },
-    {
-      "title": "퇴출 위기 몰린 '국민 기업' 구하자… 개미들 '응원 매수' 릴레이에 상장폐지 탈출",
-      "url": "https://n.news.naver.com/mnews/article/014/0005547073"
-    },
-    {
-      "title": "\"먼저 돈 빼기 막는다\" 금융권, 홈플러스 임차점포 대주단 자율협약 추진",
-      "url": "https://n.news.naver.com/mnews/article/421/0009054477"
-    },
-    {
-      "title": "한은 \"반도체 수요 증가보다 공급 확대 더뎌\"…고점론 일축",
-      "url": "https://n.news.naver.com/mnews/article/001/0016190004"
-    },
-    {
-      "title": "오르면 레버리지, 내리면 곱버스…출렁이는 코스피에 단타 몰렸다",
-      "url": "https://n.news.naver.com/mnews/article/374/0000521158"
-    },
-    {
-      "title": "미국서 성공적 데뷔한 SK하이닉스 ADR…국내 증시 새 동력 될까",
-      "url": "https://n.news.naver.com/mnews/article/469/0000941847"
-    },
-    {
-      "title": "김종훈 한미글로벌 회장, 모란장 수훈[Biz & Now]",
-      "url": "https://n.news.naver.com/mnews/article/025/0003537044"
+      "title": "뉴욕 하이닉스의 배신…7000마저 무너진 ‘블랙 먼데이’",
+      "url": "https://n.news.naver.com/mnews/article/025/0003537282"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000884237"
+      "url": "https://n.news.naver.com/mnews/article/422/0000884511"
+    },
+    {
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000884618"
+    },
+    {
+      "title": "대한항공, 2분기 매출 5조 돌파 '역대 최대' …고유가 탓 영업익은 34% 감소",
+      "url": "https://n.news.naver.com/mnews/article/448/0000626452"
+    },
+    {
+      "title": "국토부·우본, 물류기술 현장실증 기회 연다…전국 우편집중국 민간 개방",
+      "url": "https://n.news.naver.com/mnews/article/018/0006329515"
+    },
+    {
+      "title": "오뚜기, 2천억 투자해 라면 공장 신설",
+      "url": "https://n.news.naver.com/mnews/article/009/0005706856"
+    },
+    {
+      "title": "삼성전자 노조 “조합원 84%가 호남 반도체 프로젝트 반대…노사 교섭 대상”",
+      "url": "https://n.news.naver.com/mnews/article/032/0003457749"
+    },
+    {
+      "title": "하이닉스, 나스닥 상장에도 15% 폭락한 까닭은?",
+      "url": "https://n.news.naver.com/mnews/article/023/0003987394"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 7475.94,
-      "change": 184.03,
-      "change_pct": 2.52
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 837.43,
-      "change": 43.43,
-      "change_pct": 5.47
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26281.61,
-      "change": 74.72,
-      "change_pct": 0.29
+      "value": 25873.18,
+      "change": -408.43,
+      "change_pct": -1.55
     },
     "usdkrw": {
-      "value": 1499.11,
-      "change": -6.8,
-      "change_pct": -0.45
+      "value": 1497.06,
+      "change": -1.42,
+      "change_pct": -0.09
     }
   },
   "gold": {
-    "price_usd": 4082.0,
-    "price_krw": 6119367,
-    "change": -22.1,
-    "change_pct": -0.54
+    "price_usd": 4004.8,
+    "price_krw": 5995425,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-07-13 08:38",
+  "updated": "2026-07-14 08:39",
   "error": null
 }
