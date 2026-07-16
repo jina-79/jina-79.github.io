@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "농관원 강원지원, 휴가철 맞아 축산물 원산지 위반 집중 단속",
-      "url": "https://n.news.naver.com/mnews/article/421/0009059226"
+      "title": "'노봉법'이 초래한 총파업 시대…현대차 노조 \"전면전이 뭔지 보여주겠다\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006330990"
     },
     {
-      "title": "정부, 올해 성장률 목표 2% → 3% 상향... “반도체 호조에 무역 흑자 ‘사상 최대’ 전망”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001178982"
+      "title": "6월 자동차 수출 역대 최대…내수·생산도 '트리플' 증가",
+      "url": "https://n.news.naver.com/mnews/article/079/0004168591"
     },
     {
-      "title": "뉴욕증시, 물가우려 완화 속 반도체 랠리 재개…나스닥 1%↑(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016194806"
+      "title": "'삼전닉스 레버리지'에 개미들 대량살상 당했나…외신도 경악",
+      "url": "https://n.news.naver.com/mnews/article/018/0006330589"
     },
     {
-      "title": "뉴욕증시, SK하닉 27% 폭등…국내 SK하이닉스·삼성전자 영향은? [수민이가 궁금해요]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004143135"
+      "title": "\"문과생만 모십니다\"…창사 첫 인문계만 뽑는 대기업 '어디'",
+      "url": "https://n.news.naver.com/mnews/article/374/0000522027"
     },
     {
-      "title": "'300만닉스 빙고판' 등장…\"홍명보호보다 확률 낮다\" 투자자들 '자조'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009059908"
+      "title": "LG엔솔 배터리, 구글 최대 태양광·ESS 프로젝트에도 탑재된다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005548408"
     },
     {
-      "title": "국토부 주관 첫 부동산 토론회‥공공임대·비아파트 확대 목소리",
-      "url": "https://n.news.naver.com/mnews/article/214/0001511637"
+      "title": "신동빈 롯데 회장 “전통은 천장 아닌 출발선”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001861262"
     },
     {
-      "title": "MBK 만나는 홈플러스 노조…'회생 방안·고용 대책' 나올까",
-      "url": "https://n.news.naver.com/mnews/article/003/0014065144"
+      "title": "국민성장펀드 200조로 확대…초장기 기술투자 자산운용사도 신설",
+      "url": "https://n.news.naver.com/mnews/article/003/0014068117"
     },
     {
-      "title": "英 공주, HD현대중공업 찾았다…한-영 조선협력 확대 논의",
-      "url": "https://n.news.naver.com/mnews/article/448/0000626731"
+      "title": "한경협 \"내년 최저임금 1만700원 아쉬워…업종별 구분 적용 필요\"",
+      "url": "https://n.news.naver.com/mnews/article/119/0003111572"
     },
     {
-      "title": "SK 하이닉스 ADR 레버리지, 뉴욕 증시에 대거 상장",
-      "url": "https://n.news.naver.com/mnews/article/052/0002379557"
+      "title": "삼전닉스 억대 성과급 받아도 주담대 안 늘어난다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003537916"
     },
     {
-      "title": "관광새마을운동 13곳서 추진…지방우대 3종패키지 도입[하반기 경제]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014065402"
+      "title": "빅테크 AI 투자에 美 제조업 '활기'…연준 베이지북",
+      "url": "https://n.news.naver.com/mnews/article/014/0005548836"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6806.93,
+      "value": 7284.41,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 799.36,
+      "value": 829.43,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26107.01,
-      "change": 233.83,
-      "change_pct": 0.9
+      "value": 26269.23,
+      "change": 162.22,
+      "change_pct": 0.62
     },
     "usdkrw": {
-      "value": 1486.79,
-      "change": -10.91,
-      "change_pct": -0.73
+      "value": 1487.88,
+      "change": 0.0,
+      "change_pct": 0.0
     }
   },
   "gold": {
-    "price_usd": 4056.9,
-    "price_krw": 6031758,
-    "change": 59.9,
-    "change_pct": 1.5
+    "price_usd": 4064.8,
+    "price_krw": 6047934,
+    "change": 3.7,
+    "change_pct": 0.09
   },
-  "updated": "2026-07-15 08:38",
+  "updated": "2026-07-16 09:12",
   "error": null
 }
