@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "홈플러스 \"법원 회생 연장 결정되면 매장 영업 재개할 것\"",
-      "url": "https://n.news.naver.com/mnews/article/214/0001512135"
+      "title": "\"다음달 대출이자 벌써 겁난다\"...年주담대 이자만 1조 8천억원↑",
+      "url": "https://n.news.naver.com/mnews/article/215/0001259031"
     },
     {
-      "title": "대출 금리 0.25% 포인트 오르면 가계 이자 연 3조3000억 ‘눈덩이’",
-      "url": "https://n.news.naver.com/mnews/article/081/0003661647"
+      "title": "최태원 \"한국 AI, 미중 사이에서 틈새시장 만들어 지능 수출해야\"",
+      "url": "https://n.news.naver.com/mnews/article/214/0001512286"
     },
     {
-      "title": "햇반·만두·카레·참치캔… 밥상 물가 줄줄이 오른다",
-      "url": "https://n.news.naver.com/mnews/article/023/0003988004"
+      "title": "‘7조’ 빨아들인 삼전닉스 레버리지…보완책에 “증시 더 폭락” 왜",
+      "url": "https://n.news.naver.com/mnews/article/025/0003538310"
     },
     {
-      "title": "삼성전자 DX노조, 수원사업장서 '보상 격차 해소' 요구 집회",
-      "url": "https://n.news.naver.com/mnews/article/001/0016199902"
+      "title": "얼굴 결제, 누가 왕이 될 상인가",
+      "url": "https://n.news.naver.com/mnews/article/015/0005311123"
     },
     {
-      "title": "한은 금리 인상 여파…코스피 7% 폭락, 6700선 붕괴 '롤러코스터'",
-      "url": "https://n.news.naver.com/mnews/article/629/0000516621"
+      "title": "노동부, 최저임금 제도 개선 착수…플랫폼 ‘최저보수제’ 도입 방안도 연구",
+      "url": "https://n.news.naver.com/mnews/article/028/0002814561"
     },
     {
-      "title": "8월 말부터 북극항로 시범운항, 부산서 네덜란드 잇는다",
-      "url": "https://n.news.naver.com/mnews/article/020/0003734471"
+      "title": "박민준 뤼튼AX 대표 “AI가 컴퓨터 직접 쓰는 시대 내년에 온다”",
+      "url": "https://n.news.naver.com/mnews/article/030/0003448659"
     },
     {
-      "title": "청년들, 결혼하고 수도권 더 몰렸다…부부 중 누가 직장 옮겼나",
-      "url": "https://n.news.naver.com/mnews/article/028/0002814387"
+      "title": "美 대표 한국 ETF에 사상 최대 자금 유입…SK하이닉스 효과",
+      "url": "https://n.news.naver.com/mnews/article/293/0000087746"
     },
     {
-      "title": "아틀라스 속도내는 현대차…보스턴다이내믹스 100% 자회사 시동",
-      "url": "https://n.news.naver.com/mnews/article/009/0005708642"
+      "title": "\"삼성 추가 투자 원해\"...세종시, '러브콜'",
+      "url": "https://n.news.naver.com/mnews/article/050/0000108666"
     },
     {
-      "title": "서울 준공업지역에 ‘용적률 400%’…분담금 낮춰 2.7만호 공급(종합)",
-      "url": "https://n.news.naver.com/mnews/article/018/0006331705"
+      "title": "바다에 해상풍력 세웠더니 육지가 '들썩'…섬마을에 무슨 일이[르포]",
+      "url": "https://n.news.naver.com/mnews/article/008/0005387453"
     },
     {
-      "title": "이세돌 \"AI시대, 인간이 가진 신념·철학 무기로 삼아야\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006331569"
+      "title": "배달의민족 母회사 우버가 인수한다",
+      "url": "https://n.news.naver.com/mnews/article/023/0003988075"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6820.6,
+      "change": -463.81,
+      "change_pct": -6.37
     },
     "kosdaq": {
-      "value": 829.43,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 791.84,
+      "change": -37.59,
+      "change_pct": -4.53
     },
     "nasdaq": {
-      "value": 25881.95,
-      "change": -387.28,
-      "change_pct": -1.47
+      "value": 25520.24,
+      "change": -361.71,
+      "change_pct": -1.4
     },
     "usdkrw": {
-      "value": 1480.43,
-      "change": -5.77,
-      "change_pct": -0.39
+      "value": 1487.46,
+      "change": 1.26,
+      "change_pct": 0.08
     }
   },
   "gold": {
-    "price_usd": 3988.3,
-    "price_krw": 5904399,
-    "change": -55.7,
-    "change_pct": -1.38
+    "price_usd": 4023.0,
+    "price_krw": 5984051,
+    "change": 37.4,
+    "change_pct": 0.94
   },
-  "updated": "2026-07-17 09:15",
+  "updated": "2026-07-18 08:38",
   "error": null
 }
