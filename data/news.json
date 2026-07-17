@@ -1,51 +1,51 @@
 {
   "news": [
     {
-      "title": "'노봉법'이 초래한 총파업 시대…현대차 노조 \"전면전이 뭔지 보여주겠다\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006330990"
+      "title": "홈플러스 \"법원 회생 연장 결정되면 매장 영업 재개할 것\"",
+      "url": "https://n.news.naver.com/mnews/article/214/0001512135"
     },
     {
-      "title": "6월 자동차 수출 역대 최대…내수·생산도 '트리플' 증가",
-      "url": "https://n.news.naver.com/mnews/article/079/0004168591"
+      "title": "대출 금리 0.25% 포인트 오르면 가계 이자 연 3조3000억 ‘눈덩이’",
+      "url": "https://n.news.naver.com/mnews/article/081/0003661647"
     },
     {
-      "title": "'삼전닉스 레버리지'에 개미들 대량살상 당했나…외신도 경악",
-      "url": "https://n.news.naver.com/mnews/article/018/0006330589"
+      "title": "햇반·만두·카레·참치캔… 밥상 물가 줄줄이 오른다",
+      "url": "https://n.news.naver.com/mnews/article/023/0003988004"
     },
     {
-      "title": "\"문과생만 모십니다\"…창사 첫 인문계만 뽑는 대기업 '어디'",
-      "url": "https://n.news.naver.com/mnews/article/374/0000522027"
+      "title": "삼성전자 DX노조, 수원사업장서 '보상 격차 해소' 요구 집회",
+      "url": "https://n.news.naver.com/mnews/article/001/0016199902"
     },
     {
-      "title": "LG엔솔 배터리, 구글 최대 태양광·ESS 프로젝트에도 탑재된다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005548408"
+      "title": "한은 금리 인상 여파…코스피 7% 폭락, 6700선 붕괴 '롤러코스터'",
+      "url": "https://n.news.naver.com/mnews/article/629/0000516621"
     },
     {
-      "title": "신동빈 롯데 회장 “전통은 천장 아닌 출발선”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001861262"
+      "title": "8월 말부터 북극항로 시범운항, 부산서 네덜란드 잇는다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003734471"
     },
     {
-      "title": "국민성장펀드 200조로 확대…초장기 기술투자 자산운용사도 신설",
-      "url": "https://n.news.naver.com/mnews/article/003/0014068117"
+      "title": "청년들, 결혼하고 수도권 더 몰렸다…부부 중 누가 직장 옮겼나",
+      "url": "https://n.news.naver.com/mnews/article/028/0002814387"
     },
     {
-      "title": "한경협 \"내년 최저임금 1만700원 아쉬워…업종별 구분 적용 필요\"",
-      "url": "https://n.news.naver.com/mnews/article/119/0003111572"
+      "title": "아틀라스 속도내는 현대차…보스턴다이내믹스 100% 자회사 시동",
+      "url": "https://n.news.naver.com/mnews/article/009/0005708642"
     },
     {
-      "title": "삼전닉스 억대 성과급 받아도 주담대 안 늘어난다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003537916"
+      "title": "서울 준공업지역에 ‘용적률 400%’…분담금 낮춰 2.7만호 공급(종합)",
+      "url": "https://n.news.naver.com/mnews/article/018/0006331705"
     },
     {
-      "title": "빅테크 AI 투자에 美 제조업 '활기'…연준 베이지북",
-      "url": "https://n.news.naver.com/mnews/article/014/0005548836"
+      "title": "이세돌 \"AI시대, 인간이 가진 신념·철학 무기로 삼아야\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006331569"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7284.41,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
       "value": 829.43,
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26269.23,
-      "change": 162.22,
-      "change_pct": 0.62
+      "value": 25881.95,
+      "change": -387.28,
+      "change_pct": -1.47
     },
     "usdkrw": {
-      "value": 1487.88,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 1480.43,
+      "change": -5.77,
+      "change_pct": -0.39
     }
   },
   "gold": {
-    "price_usd": 4064.8,
-    "price_krw": 6047934,
-    "change": 3.7,
-    "change_pct": 0.09
+    "price_usd": 3988.3,
+    "price_krw": 5904399,
+    "change": -55.7,
+    "change_pct": -1.38
   },
-  "updated": "2026-07-16 09:12",
+  "updated": "2026-07-17 09:15",
   "error": null
 }
