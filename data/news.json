@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "\"다음달 대출이자 벌써 겁난다\"...年주담대 이자만 1조 8천억원↑",
-      "url": "https://n.news.naver.com/mnews/article/215/0001259031"
+      "title": "“냉감이불 사고 한우도 반값에”…주말 유통가 여름 할인 쏟아진다",
+      "url": "https://n.news.naver.com/mnews/article/022/0004143954"
     },
     {
-      "title": "최태원 \"한국 AI, 미중 사이에서 틈새시장 만들어 지능 수출해야\"",
-      "url": "https://n.news.naver.com/mnews/article/214/0001512286"
+      "title": "한화 필리조선소, 美 3조 규모 ‘미사일 계측함’ 건조 따냈다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003538405"
     },
     {
-      "title": "‘7조’ 빨아들인 삼전닉스 레버리지…보완책에 “증시 더 폭락” 왜",
-      "url": "https://n.news.naver.com/mnews/article/025/0003538310"
+      "title": "박홍근 \"반도체 호황기 급격히 안 꺼져…청년 정책에 대폭 투자\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016201251"
     },
     {
-      "title": "얼굴 결제, 누가 왕이 될 상인가",
-      "url": "https://n.news.naver.com/mnews/article/015/0005311123"
+      "title": "뉴욕증시, 반도체 매도세 지속에 하락…나스닥 1.4%↓",
+      "url": "https://n.news.naver.com/mnews/article/374/0000522268"
     },
     {
-      "title": "노동부, 최저임금 제도 개선 착수…플랫폼 ‘최저보수제’ 도입 방안도 연구",
-      "url": "https://n.news.naver.com/mnews/article/028/0002814561"
+      "title": "IPO 거품이었나...‘공모가 아래’ 스페이스X 시총 1500조원 증발",
+      "url": "https://n.news.naver.com/mnews/article/011/0004642618"
     },
     {
-      "title": "박민준 뤼튼AX 대표 “AI가 컴퓨터 직접 쓰는 시대 내년에 온다”",
-      "url": "https://n.news.naver.com/mnews/article/030/0003448659"
+      "title": "\"제헌절이 코스피 살렸다\"…美반도체 폭락에 \"월요일도 임시공휴일 해 달라\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005549531"
     },
     {
-      "title": "美 대표 한국 ETF에 사상 최대 자금 유입…SK하이닉스 효과",
-      "url": "https://n.news.naver.com/mnews/article/293/0000087746"
+      "title": "최태원 대한상의 회장 \"십시일반 힘 모으면 사회 바꾸는 원동력 될 것\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014073463"
     },
     {
-      "title": "\"삼성 추가 투자 원해\"...세종시, '러브콜'",
-      "url": "https://n.news.naver.com/mnews/article/050/0000108666"
+      "title": "\"성과 국민과 나누겠다\" 삼성에 움직였나…'4조 잭팟' 터졌다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005311190"
     },
     {
-      "title": "바다에 해상풍력 세웠더니 육지가 '들썩'…섬마을에 무슨 일이[르포]",
-      "url": "https://n.news.naver.com/mnews/article/008/0005387453"
+      "title": "겉도는 ‘삼전닉스’ 레버리지 대책…시장은 ‘글쎄’ [박진우의 개미수다]",
+      "url": "https://n.news.naver.com/mnews/article/029/0003037513"
     },
     {
-      "title": "배달의민족 母회사 우버가 인수한다",
-      "url": "https://n.news.naver.com/mnews/article/023/0003988075"
+      "title": "“화면비 4대3에 출고가 280만원”…갤럭시 폴더블폰 이렇게 나온다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004642643"
     }
   ],
   "stocks": {
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4023.0,
-    "price_krw": 5984051,
-    "change": 37.4,
-    "change_pct": 0.94
+    "price_usd": 4012.7,
+    "price_krw": 5968730,
+    "change": 27.1,
+    "change_pct": 0.68
   },
-  "updated": "2026-07-18 08:38",
+  "updated": "2026-07-19 08:38",
   "error": null
 }
