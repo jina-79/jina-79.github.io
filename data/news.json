@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "“냉감이불 사고 한우도 반값에”…주말 유통가 여름 할인 쏟아진다",
-      "url": "https://n.news.naver.com/mnews/article/022/0004143954"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001373701"
     },
     {
-      "title": "한화 필리조선소, 美 3조 규모 ‘미사일 계측함’ 건조 따냈다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003538405"
+      "title": "현대차 이어 현대중공업까지… 울산 ‘여름 파업’ 전운",
+      "url": "https://n.news.naver.com/mnews/article/005/0001861762"
     },
     {
-      "title": "박홍근 \"반도체 호황기 급격히 안 꺼져…청년 정책에 대폭 투자\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016201251"
+      "title": "“벌 만큼 벌어놨다, 환율 30원만 떨어지면”…1인당 GDP 4만달러 ‘눈앞’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005709029"
     },
     {
-      "title": "뉴욕증시, 반도체 매도세 지속에 하락…나스닥 1.4%↓",
-      "url": "https://n.news.naver.com/mnews/article/374/0000522268"
+      "title": "대출 한도 줄고, 금리는 오르고…실수요자 시름만 깊어진다",
+      "url": "https://n.news.naver.com/mnews/article/057/0001959204"
     },
     {
-      "title": "IPO 거품이었나...‘공모가 아래’ 스페이스X 시총 1500조원 증발",
-      "url": "https://n.news.naver.com/mnews/article/011/0004642618"
+      "title": "신세계百, 강남점 갤러리 개관…최명영 개인전 개최",
+      "url": "https://n.news.naver.com/mnews/article/277/0005791618"
     },
     {
-      "title": "\"제헌절이 코스피 살렸다\"…美반도체 폭락에 \"월요일도 임시공휴일 해 달라\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005549531"
+      "title": "금융당국이 내놓은 단일종목 레버리지 대책…증시 변동성 진정될까 [증시레이더]",
+      "url": "https://n.news.naver.com/mnews/article/138/0002234585"
     },
     {
-      "title": "최태원 대한상의 회장 \"십시일반 힘 모으면 사회 바꾸는 원동력 될 것\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014073463"
+      "title": "한화필리조선소, 3조 규모 美 '골든돔' 프로젝트 사업자 선정(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009066568"
     },
     {
-      "title": "\"성과 국민과 나누겠다\" 삼성에 움직였나…'4조 잭팟' 터졌다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005311190"
+      "title": "LG전자, 압구정 재건축 단지에 가전 구독 서비스 도입",
+      "url": "https://n.news.naver.com/mnews/article/031/0001043029"
     },
     {
-      "title": "겉도는 ‘삼전닉스’ 레버리지 대책…시장은 ‘글쎄’ [박진우의 개미수다]",
-      "url": "https://n.news.naver.com/mnews/article/029/0003037513"
+      "title": "최태원, 성과급 논란에 \"긍정적 영향도 있어…좀더 지켜봐야\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016201835"
     },
     {
-      "title": "“화면비 4대3에 출고가 280만원”…갤럭시 폴더블폰 이렇게 나온다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004642643"
+      "title": "中 ‘키미 K3’ 충격에 AI 반도체 급락… 월요일 코스피 시험대",
+      "url": "https://n.news.naver.com/mnews/article/023/0003988343"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6820.6,
-      "change": -463.81,
-      "change_pct": -6.37
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 791.84,
-      "change": -37.59,
-      "change_pct": -4.53
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
       "value": 25520.24,
@@ -58,17 +58,17 @@
       "change_pct": -1.4
     },
     "usdkrw": {
-      "value": 1487.46,
-      "change": 1.26,
-      "change_pct": 0.08
+      "value": 1488.08,
+      "change": 9.23,
+      "change_pct": 0.62
     }
   },
   "gold": {
-    "price_usd": 4012.7,
-    "price_krw": 5968730,
-    "change": 27.1,
-    "change_pct": 0.68
+    "price_usd": 3994.0,
+    "price_krw": 5943391,
+    "change": -18.7,
+    "change_pct": -0.47
   },
-  "updated": "2026-07-19 08:38",
+  "updated": "2026-07-20 09:16",
   "error": null
 }
