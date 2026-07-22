@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "풍산그룹 류진 회장 “부산 사업장 이전 곧 청사진 나올 것”",
-      "url": "https://n.news.naver.com/mnews/article/082/0001390498"
+      "title": "상상인證 \"미래에셋증권, 스페이스X 가치 하락에 평가손실 예상…목표가↓\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014079957"
     },
     {
-      "title": "은행권 \"3분기 '빚투' 늘지만…주택 대출 수요 감소 예상\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001373816"
+      "title": "7월 1∼20일 수출 549억달러, 전년 동기 대비 52.3% 증가…일평균 62.9%↑",
+      "url": "https://n.news.naver.com/mnews/article/437/0000502184"
     },
     {
-      "title": "반월시화산단, AI 제조혁신 거점 구축…2028년까지 280억 투입",
-      "url": "https://n.news.naver.com/mnews/article/016/0002672303"
+      "title": "노태문 삼성전자 대표, 자사주 상여금 57억…전영현 부회장 26억 수령",
+      "url": "https://n.news.naver.com/mnews/article/421/0009071261"
     },
     {
-      "title": "삼성바이오, 2.7조 규모 펩타이드 CDMO사 인수…국내 바이오 사상 최대 M&A 성사",
-      "url": "https://n.news.naver.com/mnews/article/016/0002672041"
+      "title": "ETF 아버지의 양심고백 \"단일종목 레버리지 투자 멈춰야\"",
+      "url": "https://n.news.naver.com/mnews/article/009/0005709842"
     },
     {
-      "title": "LG, 유네스코와 손잡고 AI 윤리 교육 나선다",
-      "url": "https://n.news.naver.com/mnews/article/469/0000943234"
+      "title": "코오롱티슈진, 두번째 임상 3상 결과 10월 발표",
+      "url": "https://n.news.naver.com/mnews/article/015/0005312192"
     },
     {
-      "title": "해외ETF 함께 규제해 자금유출 차단… 국내 복귀는 미지수 [레버리지 대책 '후폭풍']",
-      "url": "https://n.news.naver.com/mnews/article/014/0005550378"
+      "title": "반도체 다음은 로봇… 삼성전자, ‘휴머노이드’ 승부수 던졌다",
+      "url": "https://n.news.naver.com/mnews/article/005/0001862325"
     },
     {
-      "title": "카카오뱅크도 파업권 확보…카카오 노조, 오늘 사내 피켓 시위",
-      "url": "https://n.news.naver.com/mnews/article/003/0014077224"
+      "title": "이찬진 금감원장 “홈플러스 관련 위법사항 제재 절차 신속 진행”",
+      "url": "https://n.news.naver.com/mnews/article/032/0003459483"
     },
     {
-      "title": "\"서울 상위 1% 아파트 기준선은 46억 5천만 원\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002381864"
+      "title": "임협 결렬 카뱅노조, 31일 첫 파업 나서",
+      "url": "https://n.news.naver.com/mnews/article/020/0003735536"
     },
     {
-      "title": "구윤철 \"첫 대미 투자..상업적 합리성 면밀히 검토\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005549930"
+      "title": "정용진 승부수…7500억원 베팅, ‘아만’과 글로벌 호텔 개발",
+      "url": "https://n.news.naver.com/mnews/article/138/0002234740"
     },
     {
-      "title": "홈플러스, 법원에 즉시항고 제출…회생절차 재개 요청",
-      "url": "https://n.news.naver.com/mnews/article/448/0000628024"
+      "title": "JP모건 \"코스피, 강도 높은 차입 축소 막바지\"…목표치 1만2500p 유지",
+      "url": "https://n.news.naver.com/mnews/article/003/0014078821"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6516.27,
+      "value": 6747.95,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 749.64,
+      "value": 753.34,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25508.07,
-      "change": -12.17,
-      "change_pct": -0.05
+      "value": 25837.21,
+      "change": 329.14,
+      "change_pct": 1.29
     },
     "usdkrw": {
-      "value": 1476.72,
-      "change": -10.67,
-      "change_pct": -0.72
+      "value": 1480.48,
+      "change": 5.47,
+      "change_pct": 0.37
     }
   },
   "gold": {
-    "price_usd": 4012.2,
-    "price_krw": 5924895,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4083.9,
+    "price_krw": 6046132,
+    "change": 73.6,
+    "change_pct": 1.84
   },
-  "updated": "2026-07-21 09:15",
+  "updated": "2026-07-22 09:09",
   "error": null
 }
