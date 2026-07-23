@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "상상인證 \"미래에셋증권, 스페이스X 가치 하락에 평가손실 예상…목표가↓\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014079957"
+      "title": "삼성·LG ‘탠덤 패널’ 격돌…AI로 번진 디스플레이 전쟁",
+      "url": "https://n.news.naver.com/mnews/article/011/0004643889"
     },
     {
-      "title": "7월 1∼20일 수출 549억달러, 전년 동기 대비 52.3% 증가…일평균 62.9%↑",
-      "url": "https://n.news.naver.com/mnews/article/437/0000502184"
+      "title": "IBK기업은행, 변동형 주담대 판매 중단···고정형은 유지",
+      "url": "https://n.news.naver.com/mnews/article/032/0003459724"
     },
     {
-      "title": "노태문 삼성전자 대표, 자사주 상여금 57억…전영현 부회장 26억 수령",
-      "url": "https://n.news.naver.com/mnews/article/421/0009071261"
+      "title": "법원, 홈플러스 회생절차 재개… 9월 4일까지 연장",
+      "url": "https://n.news.naver.com/mnews/article/020/0003735585"
     },
     {
-      "title": "ETF 아버지의 양심고백 \"단일종목 레버리지 투자 멈춰야\"",
-      "url": "https://n.news.naver.com/mnews/article/009/0005709842"
+      "title": "이재용·최태원·이해진, 젠슨 황과 ‘미국판 깐부회동’ 추진",
+      "url": "https://n.news.naver.com/mnews/article/056/0012222726"
     },
     {
-      "title": "코오롱티슈진, 두번째 임상 3상 결과 10월 발표",
-      "url": "https://n.news.naver.com/mnews/article/015/0005312192"
+      "title": "‘알파벳 CAPEX 확대’ 훈풍…프리장서 삼전닉스 2% 강세 출발 [마켓시그널]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004644251"
     },
     {
-      "title": "반도체 다음은 로봇… 삼성전자, ‘휴머노이드’ 승부수 던졌다",
-      "url": "https://n.news.naver.com/mnews/article/005/0001862325"
+      "title": "KDI “AI, 10년간 생산성 최대 3.5% 높이지만 일자리 25.6만개↓”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003735683"
     },
     {
-      "title": "이찬진 금감원장 “홈플러스 관련 위법사항 제재 절차 신속 진행”",
-      "url": "https://n.news.naver.com/mnews/article/032/0003459483"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/214/0001513379"
     },
     {
-      "title": "임협 결렬 카뱅노조, 31일 첫 파업 나서",
-      "url": "https://n.news.naver.com/mnews/article/020/0003735536"
+      "title": "용인 반도체 산단 전력 인프라 구축 11년 앞당긴다…\"2042년까지 공급\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006334874"
     },
     {
-      "title": "정용진 승부수…7500억원 베팅, ‘아만’과 글로벌 호텔 개발",
-      "url": "https://n.news.naver.com/mnews/article/138/0002234740"
+      "title": "5년만 상반기 '흑자' LGD \"하반기 성과 나을 것...칩플레이션 감내 가능\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005389272"
     },
     {
-      "title": "JP모건 \"코스피, 강도 높은 차입 축소 막바지\"…목표치 1만2500p 유지",
-      "url": "https://n.news.naver.com/mnews/article/003/0014078821"
+      "title": "“지금 주식시장 들어가지 마라”…‘재테크 귀재’ 황현희가 던진 경고",
+      "url": "https://n.news.naver.com/mnews/article/009/0005710655"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6747.95,
+      "value": 6797.7,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 753.34,
+      "value": 751.09,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25837.21,
-      "change": 329.14,
-      "change_pct": 1.29
+      "value": 25690.9,
+      "change": -146.31,
+      "change_pct": -0.57
     },
     "usdkrw": {
-      "value": 1480.48,
-      "change": 5.47,
-      "change_pct": 0.37
+      "value": 1477.28,
+      "change": -2.44,
+      "change_pct": -0.16
     }
   },
   "gold": {
-    "price_usd": 4083.9,
-    "price_krw": 6046132,
-    "change": 73.6,
-    "change_pct": 1.84
+    "price_usd": 4136.1,
+    "price_krw": 6110177,
+    "change": 65.0,
+    "change_pct": 1.6
   },
-  "updated": "2026-07-22 09:09",
+  "updated": "2026-07-23 09:16",
   "error": null
 }
