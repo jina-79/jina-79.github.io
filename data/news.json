@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼성·LG ‘탠덤 패널’ 격돌…AI로 번진 디스플레이 전쟁",
-      "url": "https://n.news.naver.com/mnews/article/011/0004643889"
+      "title": "5년만 ‘3%대 성장’ 눈 앞… 한은, 기준금리 두달 연속 인상?",
+      "url": "https://n.news.naver.com/mnews/article/029/0003038429"
     },
     {
-      "title": "IBK기업은행, 변동형 주담대 판매 중단···고정형은 유지",
-      "url": "https://n.news.naver.com/mnews/article/032/0003459724"
+      "title": "한·미 조선협력센터 개소…‘마스가’ 프로젝트 본격 시동",
+      "url": "https://n.news.naver.com/mnews/article/032/0003460107"
     },
     {
-      "title": "법원, 홈플러스 회생절차 재개… 9월 4일까지 연장",
-      "url": "https://n.news.naver.com/mnews/article/020/0003735585"
+      "title": "판매 줄었지만 매출 '역대 최대'…현대차, 2분기 영업익 20.8% ↓",
+      "url": "https://n.news.naver.com/mnews/article/119/0003114191"
     },
     {
-      "title": "이재용·최태원·이해진, 젠슨 황과 ‘미국판 깐부회동’ 추진",
-      "url": "https://n.news.naver.com/mnews/article/056/0012222726"
+      "title": "삼성바이오로직스, 반기만에 영업익 1조 넘겨(상보)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005793381"
     },
     {
-      "title": "‘알파벳 CAPEX 확대’ 훈풍…프리장서 삼전닉스 2% 강세 출발 [마켓시그널]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004644251"
+      "title": "한화오션, 미국 함정 공동개발 협력…\"마스가 핵심 동력\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016212282"
     },
     {
-      "title": "KDI “AI, 10년간 생산성 최대 3.5% 높이지만 일자리 25.6만개↓”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003735683"
+      "title": "알파벳, 2분기 매출 177조원 ‘어닝 서프라이즈’…“내년 설비투자 상당히 더 클 것”",
+      "url": "https://n.news.naver.com/mnews/article/081/0003663832"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001513379"
+      "title": "나스닥 2.2%↓, 유가 100달러 충격에 급락…AI 투자 회의론까지 덮쳤다[월스트리트in]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006335837"
     },
     {
-      "title": "용인 반도체 산단 전력 인프라 구축 11년 앞당긴다…\"2042년까지 공급\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006334874"
+      "title": "은퇴 1주택자, 갈아타기 대비…\"취득가격·보유기간 고려한 과세 요구\"",
+      "url": "https://n.news.naver.com/mnews/article/417/0001152790"
     },
     {
-      "title": "5년만 상반기 '흑자' LGD \"하반기 성과 나을 것...칩플레이션 감내 가능\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005389272"
+      "title": "젠슨황 이끄는 'AI리더 자문단'에 이재용·정의선 합류",
+      "url": "https://n.news.naver.com/mnews/article/009/0005711519"
     },
     {
-      "title": "“지금 주식시장 들어가지 마라”…‘재테크 귀재’ 황현희가 던진 경고",
-      "url": "https://n.news.naver.com/mnews/article/009/0005710655"
+      "title": "4대 금융 실적 시즌 열려…가계 대출 둔화에도 반기 순이익 11조원 전망 ‘역대 최대’",
+      "url": "https://n.news.naver.com/mnews/article/023/0003989154"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6797.7,
+      "value": 7096.89,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 751.09,
+      "value": 790.28,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25690.9,
-      "change": -146.31,
-      "change_pct": -0.57
+      "value": 25137.69,
+      "change": -553.21,
+      "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1477.28,
-      "change": -2.44,
-      "change_pct": -0.16
+      "value": 1475.63,
+      "change": 0.0,
+      "change_pct": 0.0
     }
   },
   "gold": {
-    "price_usd": 4136.1,
-    "price_krw": 6110177,
-    "change": 65.0,
-    "change_pct": 1.6
+    "price_usd": 4050.8,
+    "price_krw": 5977482,
+    "change": -96.1,
+    "change_pct": -2.32
   },
-  "updated": "2026-07-23 09:16",
+  "updated": "2026-07-24 09:14",
   "error": null
 }
