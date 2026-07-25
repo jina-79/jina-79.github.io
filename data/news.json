@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "5년만 ‘3%대 성장’ 눈 앞… 한은, 기준금리 두달 연속 인상?",
-      "url": "https://n.news.naver.com/mnews/article/029/0003038429"
+      "title": "레버리지 광풍 꺾였다…삼전·닉스 단일종목 ETF 14종 자금유입 '뚝'",
+      "url": "https://n.news.naver.com/mnews/article/003/0014086043"
     },
     {
-      "title": "한·미 조선협력센터 개소…‘마스가’ 프로젝트 본격 시동",
-      "url": "https://n.news.naver.com/mnews/article/032/0003460107"
+      "title": "이재용 삼성 회장 \"미국 AI·한국 반도체 결합하면 더 빠른 혁신\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005552704"
     },
     {
-      "title": "판매 줄었지만 매출 '역대 최대'…현대차, 2분기 영업익 20.8% ↓",
-      "url": "https://n.news.naver.com/mnews/article/119/0003114191"
+      "title": "전승호 코오롱티슈진 대표 'TG-C' 정보 유출 의혹에…\"사실무근\"[화제의 바이오人]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006336657"
     },
     {
-      "title": "삼성바이오로직스, 반기만에 영업익 1조 넘겨(상보)",
-      "url": "https://n.news.naver.com/mnews/article/277/0005793381"
+      "title": "젠슨 황 “SK와 5000억달러 파트너십”…삼성·현대차·네이버와도 협력",
+      "url": "https://n.news.naver.com/mnews/article/366/0001181788"
     },
     {
-      "title": "한화오션, 미국 함정 공동개발 협력…\"마스가 핵심 동력\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016212282"
+      "title": "최태원 회장 \"국민 1인당 AI 에이전트 1개 보급 목표\"",
+      "url": "https://n.news.naver.com/mnews/article/654/0000192003"
     },
     {
-      "title": "알파벳, 2분기 매출 177조원 ‘어닝 서프라이즈’…“내년 설비투자 상당히 더 클 것”",
-      "url": "https://n.news.naver.com/mnews/article/081/0003663832"
+      "title": "“하이닉스와 두 글자 차이”…한달새 110%↑, 목표주가 넘었다 [나만없어]",
+      "url": "https://n.news.naver.com/mnews/article/081/0003664558"
     },
     {
-      "title": "나스닥 2.2%↓, 유가 100달러 충격에 급락…AI 투자 회의론까지 덮쳤다[월스트리트in]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006335837"
+      "title": "[속보] 삼성전자, 브로드컴 제품에 2nm 이하 첨단 파운드리 공정 적용",
+      "url": "https://n.news.naver.com/mnews/article/015/0005313764"
     },
     {
-      "title": "은퇴 1주택자, 갈아타기 대비…\"취득가격·보유기간 고려한 과세 요구\"",
-      "url": "https://n.news.naver.com/mnews/article/417/0001152790"
+      "title": "\"대단지였으면 완벽\"...역에서 집까지 신호등 하나 [권준호의 요·아·정]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005552673"
     },
     {
-      "title": "젠슨황 이끄는 'AI리더 자문단'에 이재용·정의선 합류",
-      "url": "https://n.news.naver.com/mnews/article/009/0005711519"
+      "title": "기아, 2분기 매출·판매 ‘역대 최대’…전동화 날개 달았다",
+      "url": "https://n.news.naver.com/mnews/article/022/0004145639"
     },
     {
-      "title": "4대 금융 실적 시즌 열려…가계 대출 둔화에도 반기 순이익 11조원 전망 ‘역대 최대’",
-      "url": "https://n.news.naver.com/mnews/article/023/0003989154"
+      "title": "비트코인, 클래리티 입법 기대감 약세에 6만5000달러선 후퇴 [크립토브리핑]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005552425"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7096.89,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 790.28,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 25137.69,
-      "change": -553.21,
-      "change_pct": -2.15
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "usdkrw": {
-      "value": 1475.63,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 1462.1,
+      "change": -11.94,
+      "change_pct": -0.81
     }
   },
   "gold": {
-    "price_usd": 4050.8,
-    "price_krw": 5977482,
-    "change": -96.1,
-    "change_pct": -2.32
+    "price_usd": 4067.6,
+    "price_krw": 5947238,
+    "change": 21.0,
+    "change_pct": 0.52
   },
-  "updated": "2026-07-24 09:14",
+  "updated": "2026-07-25 15:05",
   "error": null
 }
