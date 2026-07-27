@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "해외주식 팔았다고 끝 아니다…RIA 세제 혜택, ‘결제일’ 확인해야",
-      "url": "https://n.news.naver.com/mnews/article/023/0003989650"
+      "title": "한화오션, 2Q 영업익 '증권가 예상 38% 상회'…어닝 서프라이즈(종합2)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009081534"
     },
     {
-      "title": "“현대차그룹은 AI기업” 정의선, 美 빅테크와 피지컬AI 동맹 강화",
-      "url": "https://n.news.naver.com/mnews/article/025/0003540067"
+      "title": "HD현대重, 중대재해 잇따르자 전 사업장 생산 중단",
+      "url": "https://n.news.naver.com/mnews/article/023/0003989860"
     },
     {
-      "title": "롯데하이마트, 자체 알뜰폰 'Hi-mart 요금제' 출시…매장서 개통까지",
-      "url": "https://n.news.naver.com/mnews/article/030/0003450897"
+      "title": "중앙아시아 정상들 제네시스 탄다…현대차, 의전 차량 33대 지원",
+      "url": "https://n.news.naver.com/mnews/article/018/0006337624"
     },
     {
-      "title": "‘장특공제’ 혜택 90% 서울 쏠림…전국 5.3조원 중 강남·용산 3.5조원 차지",
-      "url": "https://n.news.naver.com/mnews/article/119/0003114921"
+      "title": "에스티팜, 상반기 매출 58.9% 증가...'올리고' 상업화 본격화에 실적 성장",
+      "url": "https://n.news.naver.com/mnews/article/014/0005553459"
     },
     {
-      "title": "급변하는 중동 정세…코트라, 수출기업 해상로 확보 총력",
-      "url": "https://n.news.naver.com/mnews/article/011/0004645209"
+      "title": "6월 외화예금 10.8억달러↑…3개월째 증가",
+      "url": "https://n.news.naver.com/mnews/article/277/0005795047"
     },
     {
-      "title": "국장 급락하자 미장으로… 서학개미 순매수 4배 늘었다",
-      "url": "https://n.news.naver.com/mnews/article/023/0003989632"
+      "title": "삼성카드, 상반기 당기 순이익 3105억…전년比 7.5% 감소",
+      "url": "https://n.news.naver.com/mnews/article/421/0009081016"
     },
     {
-      "title": "'마스가' 본격화…HD현대삼호, HMM 美 항만크레인 공급 계약",
-      "url": "https://n.news.naver.com/mnews/article/015/0005313835"
+      "title": "HD현대마린솔루션 2분기 영업이익, 17.6% 늘어난 976억",
+      "url": "https://n.news.naver.com/mnews/article/422/0000889338"
     },
     {
-      "title": "물류비 급등에도 수출기업 30%  가격 전가 없었다…수익성 악화 현실화",
-      "url": "https://n.news.naver.com/mnews/article/018/0006336976"
+      "title": "안철수 \"지금 가장 필요한 부동산 정책은 '닥치고 대출'\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005314082"
     },
     {
-      "title": "“‘궤도’가 알려주는 우주 상식”…한화, ‘한국판 스페이스X’ 인재 육성",
-      "url": "https://n.news.naver.com/mnews/article/029/0003038875"
+      "title": "홈플러스, 내달 10일쯤 영업 재개 전망…'식품 전문매장' 재편",
+      "url": "https://n.news.naver.com/mnews/article/422/0000889380"
     },
     {
-      "title": "삼성·SK, 美 빅테크와 9500억달러 'AI 동맹'…메모리·파운드리 전방위 구축",
-      "url": "https://n.news.naver.com/mnews/article/015/0005313775"
+      "title": "기업은행, 2분기 순이익 6,895억원…\"창립 이래 첫 분기배당 실시\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000889369"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6755.75,
+      "change": 65.13,
+      "change_pct": 0.97
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 764.86,
+      "change": 16.64,
+      "change_pct": 2.22
     },
     "nasdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 24975.82,
+      "change": -161.87,
+      "change_pct": -0.64
     },
     "usdkrw": {
-      "value": 1462.1,
-      "change": -11.94,
-      "change_pct": -0.81
+      "value": 1468.38,
+      "change": -5.66,
+      "change_pct": -0.38
     }
   },
   "gold": {
-    "price_usd": 4070.8,
-    "price_krw": 5951916,
+    "price_usd": 4094.8,
+    "price_krw": 6012722,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-07-26 16:13",
+  "updated": "2026-07-27 17:59",
   "error": null
 }
