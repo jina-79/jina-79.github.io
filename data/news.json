@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한화오션, 2Q 영업익 '증권가 예상 38% 상회'…어닝 서프라이즈(종합2)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009081534"
+      "title": "한화오션, 2분기 영업익 7361억원…전년比 98%↑ 깜짝실적",
+      "url": "https://n.news.naver.com/mnews/article/029/0003039135"
     },
     {
-      "title": "HD현대重, 중대재해 잇따르자 전 사업장 생산 중단",
-      "url": "https://n.news.naver.com/mnews/article/023/0003989860"
+      "title": "셀트리온 2분기 매출 1조 3,937억·영업이익 4,518억원…역대 최대",
+      "url": "https://n.news.naver.com/mnews/article/215/0001260040"
     },
     {
-      "title": "중앙아시아 정상들 제네시스 탄다…현대차, 의전 차량 33대 지원",
-      "url": "https://n.news.naver.com/mnews/article/018/0006337624"
+      "title": "“입주 일정 촉박한데”…정부 대책 예고에도 잔금대출 막힌 입주민 ‘발 동동’",
+      "url": "https://n.news.naver.com/mnews/article/119/0003115019"
     },
     {
-      "title": "에스티팜, 상반기 매출 58.9% 증가...'올리고' 상업화 본격화에 실적 성장",
-      "url": "https://n.news.naver.com/mnews/article/014/0005553459"
+      "title": "엔비디아, 네이버 3대 주주로…14조 ‘빅딜’ 성사",
+      "url": "https://n.news.naver.com/mnews/article/449/0000354442"
     },
     {
-      "title": "6월 외화예금 10.8억달러↑…3개월째 증가",
-      "url": "https://n.news.naver.com/mnews/article/277/0005795047"
+      "title": "유가 8% 급락에 다우 0.5% 상승…나스닥은 AI 불안에 0.2% 하락[뉴욕마감]",
+      "url": "https://n.news.naver.com/mnews/article/421/0009082087"
     },
     {
-      "title": "삼성카드, 상반기 당기 순이익 3105억…전년比 7.5% 감소",
-      "url": "https://n.news.naver.com/mnews/article/421/0009081016"
+      "title": "두산에너빌, 올 상반기 영업익 5478억...\"대형 원전·SMR로 안정적 성장\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005553490"
     },
     {
-      "title": "HD현대마린솔루션 2분기 영업이익, 17.6% 늘어난 976억",
-      "url": "https://n.news.naver.com/mnews/article/422/0000889338"
+      "title": "중기부, K뷰티 브라질 진출 지원…“아마존 천연원료 공동연구, 현지 플랫폼 연계”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001182300"
     },
     {
-      "title": "안철수 \"지금 가장 필요한 부동산 정책은 '닥치고 대출'\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005314082"
+      "title": "“가장 두려운 경쟁자”…상장날 466% 폭등, CXMT 공포",
+      "url": "https://n.news.naver.com/mnews/article/025/0003540571"
     },
     {
-      "title": "홈플러스, 내달 10일쯤 영업 재개 전망…'식품 전문매장' 재편",
-      "url": "https://n.news.naver.com/mnews/article/422/0000889380"
+      "title": "\"하루 3% 널뛰기에 멀미 난다\"…국장 손절하고 美 증시로 달아난 개미들",
+      "url": "https://n.news.naver.com/mnews/article/277/0005794723"
     },
     {
-      "title": "기업은행, 2분기 순이익 6,895억원…\"창립 이래 첫 분기배당 실시\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000889369"
+      "title": "젠슨황이 찜한 기술...LG전자, 액체냉각 솔루션 '엔비디아 인증'",
+      "url": "https://n.news.naver.com/mnews/article/008/0005391291"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6755.75,
-      "change": 65.13,
-      "change_pct": 0.97
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 764.86,
-      "change": 16.64,
-      "change_pct": 2.22
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24975.82,
-      "change": -161.87,
-      "change_pct": -0.64
+      "value": 24932.08,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "usdkrw": {
-      "value": 1468.38,
-      "change": -5.66,
-      "change_pct": -0.38
+      "value": 1469.67,
+      "change": 11.66,
+      "change_pct": 0.8
     }
   },
   "gold": {
-    "price_usd": 4094.8,
-    "price_krw": 6012722,
+    "price_usd": 4070.1,
+    "price_krw": 5981704,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-07-27 17:59",
+  "updated": "2026-07-28 09:13",
   "error": null
 }
