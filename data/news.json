@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한화오션, 2분기 영업익 7361억원…전년比 98%↑ 깜짝실적",
-      "url": "https://n.news.naver.com/mnews/article/029/0003039135"
+      "title": "BNK금융, 상반기 순이익 13.5% 감소…본업은 8.2% 성장",
+      "url": "https://n.news.naver.com/mnews/article/005/0001863597"
     },
     {
-      "title": "셀트리온 2분기 매출 1조 3,937억·영업이익 4,518억원…역대 최대",
-      "url": "https://n.news.naver.com/mnews/article/215/0001260040"
+      "title": "중기부, ‘K뷰티’ 브라질 진출 지원…남미 수출시장 다변화 시동",
+      "url": "https://n.news.naver.com/mnews/article/018/0006337904"
     },
     {
-      "title": "“입주 일정 촉박한데”…정부 대책 예고에도 잔금대출 막힌 입주민 ‘발 동동’",
-      "url": "https://n.news.naver.com/mnews/article/119/0003115019"
+      "title": "中 '가성비 공습'에 할인 전쟁…현대차·기아, 유럽 수익성 '비상'",
+      "url": "https://n.news.naver.com/mnews/article/119/0003115474"
     },
     {
-      "title": "엔비디아, 네이버 3대 주주로…14조 ‘빅딜’ 성사",
-      "url": "https://n.news.naver.com/mnews/article/449/0000354442"
+      "title": "르노코리아 그랑 콜레오스, 경찰청 순찰차 선정…\"공공 공급 확대\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014094457"
     },
     {
-      "title": "유가 8% 급락에 다우 0.5% 상승…나스닥은 AI 불안에 0.2% 하락[뉴욕마감]",
-      "url": "https://n.news.naver.com/mnews/article/421/0009082087"
+      "title": "‘대미 투자 1호’ 텍사스 가스복합화력발전소 유력",
+      "url": "https://n.news.naver.com/mnews/article/005/0001863663"
     },
     {
-      "title": "두산에너빌, 올 상반기 영업익 5478억...\"대형 원전·SMR로 안정적 성장\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005553490"
+      "title": "고령인구 20% 돌파 · 생산연령인구 70% 붕괴…'초고령사회' 진입",
+      "url": "https://n.news.naver.com/mnews/article/055/0001376000"
     },
     {
-      "title": "중기부, K뷰티 브라질 진출 지원…“아마존 천연원료 공동연구, 현지 플랫폼 연계”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001182300"
+      "title": "[단독] 1주택 종부세 세액공제 줄인다…천만원 이내로 한도 검토",
+      "url": "https://n.news.naver.com/mnews/article/028/0002816136"
     },
     {
-      "title": "“가장 두려운 경쟁자”…상장날 466% 폭등, CXMT 공포",
-      "url": "https://n.news.naver.com/mnews/article/025/0003540571"
+      "title": "SK하이닉스, 2분기 영업익 60조5426억원 ‘역대 최대’… 전년比 557% 증가",
+      "url": "https://n.news.naver.com/mnews/article/366/0001182643"
     },
     {
-      "title": "\"하루 3% 널뛰기에 멀미 난다\"…국장 손절하고 美 증시로 달아난 개미들",
-      "url": "https://n.news.naver.com/mnews/article/277/0005794723"
+      "title": "서울 주택가격전망 CSI 134로 ‘8년만에 최고치’",
+      "url": "https://n.news.naver.com/mnews/article/021/0002807498"
     },
     {
-      "title": "젠슨황이 찜한 기술...LG전자, 액체냉각 솔루션 '엔비디아 인증'",
-      "url": "https://n.news.naver.com/mnews/article/008/0005391291"
+      "title": "\"행동주의 펀드 BNK·JB 합병 제안, 지역금융 본질 훼손…즉각 중단하라\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009083716"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6755.75,
+      "value": 6023.66,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 764.86,
+      "value": 705.85,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24932.08,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 24876.91,
+      "change": -55.17,
+      "change_pct": -0.22
     },
     "usdkrw": {
-      "value": 1469.67,
-      "change": 11.66,
-      "change_pct": 0.8
+      "value": 1456.97,
+      "change": -7.47,
+      "change_pct": -0.51
     }
   },
   "gold": {
-    "price_usd": 4070.1,
-    "price_krw": 5981704,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4018.1,
+    "price_krw": 5854251,
+    "change": -56.4,
+    "change_pct": -1.38
   },
-  "updated": "2026-07-28 09:13",
+  "updated": "2026-07-29 09:11",
   "error": null
 }
