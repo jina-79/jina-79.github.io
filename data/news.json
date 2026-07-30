@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "BNK금융, 상반기 순이익 13.5% 감소…본업은 8.2% 성장",
-      "url": "https://n.news.naver.com/mnews/article/005/0001863597"
+      "title": "[단독]공정시장가액비율 60→80% 상향… 초고가 주택 종부세 ‘핀셋 증세’",
+      "url": "https://n.news.naver.com/mnews/article/020/0003737505"
     },
     {
-      "title": "중기부, ‘K뷰티’ 브라질 진출 지원…남미 수출시장 다변화 시동",
-      "url": "https://n.news.naver.com/mnews/article/018/0006337904"
+      "title": "금융당국 수장들, ‘대통령 근저당’에 “사인 거래, 규제대상 아냐”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001863876"
     },
     {
-      "title": "中 '가성비 공습'에 할인 전쟁…현대차·기아, 유럽 수익성 '비상'",
-      "url": "https://n.news.naver.com/mnews/article/119/0003115474"
+      "title": "차체에 초고강도 강판 적용해…대형세단 안부러운 '뉴아반떼'",
+      "url": "https://n.news.naver.com/mnews/article/009/0005713960"
     },
     {
-      "title": "르노코리아 그랑 콜레오스, 경찰청 순찰차 선정…\"공공 공급 확대\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014094457"
+      "title": "SK하이닉스, 2분기 영업이익 60.5조 원…영업이익률 76%",
+      "url": "https://n.news.naver.com/mnews/article/056/0012227137"
     },
     {
-      "title": "‘대미 투자 1호’ 텍사스 가스복합화력발전소 유력",
-      "url": "https://n.news.naver.com/mnews/article/005/0001863663"
+      "title": "폭락장에 놀란 與 \"레버리지 배율 낮추고 예탁금 더 올려라\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006339271"
     },
     {
-      "title": "고령인구 20% 돌파 · 생산연령인구 70% 붕괴…'초고령사회' 진입",
-      "url": "https://n.news.naver.com/mnews/article/055/0001376000"
+      "title": "DB증권 \"LG생건, 북미 매출 성장 지속 전망\" 목표가 50%↑",
+      "url": "https://n.news.naver.com/mnews/article/001/0016223113"
     },
     {
-      "title": "[단독] 1주택 종부세 세액공제 줄인다…천만원 이내로 한도 검토",
-      "url": "https://n.news.naver.com/mnews/article/028/0002816136"
+      "title": "기후동행카드 대신 ‘기후동행패스’ 9월 1일 출시",
+      "url": "https://n.news.naver.com/mnews/article/011/0004646694"
     },
     {
-      "title": "SK하이닉스, 2분기 영업익 60조5426억원 ‘역대 최대’… 전년比 557% 증가",
-      "url": "https://n.news.naver.com/mnews/article/366/0001182643"
+      "title": "미 금리 3.50∼3.75% 5연속 동결‥연준 의장 \"인플레 2% 목표\"",
+      "url": "https://n.news.naver.com/mnews/article/214/0001514772"
     },
     {
-      "title": "서울 주택가격전망 CSI 134로 ‘8년만에 최고치’",
-      "url": "https://n.news.naver.com/mnews/article/021/0002807498"
+      "title": "삼성물산 2분기 영업익 1조320억 원…건설·상사·바이오 동반 성장",
+      "url": "https://n.news.naver.com/mnews/article/020/0003737468"
     },
     {
-      "title": "\"행동주의 펀드 BNK·JB 합병 제안, 지역금융 본질 훼손…즉각 중단하라\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009083716"
+      "title": "SK하이닉스, 신입 채용에 ‘반나절 심층면접’ 도입…AI 역량 본다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006339668"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6023.66,
+      "value": 5663.24,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 705.85,
+      "value": 662.68,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24876.91,
-      "change": -55.17,
-      "change_pct": -0.22
+      "value": 24442.94,
+      "change": -433.97,
+      "change_pct": -1.74
     },
     "usdkrw": {
-      "value": 1456.97,
-      "change": -7.47,
-      "change_pct": -0.51
+      "value": 1437.18,
+      "change": -15.98,
+      "change_pct": -1.1
     }
   },
   "gold": {
-    "price_usd": 4018.1,
-    "price_krw": 5854251,
-    "change": -56.4,
-    "change_pct": -1.38
+    "price_usd": 4138.4,
+    "price_krw": 5947625,
+    "change": 102.1,
+    "change_pct": 2.53
   },
-  "updated": "2026-07-29 09:11",
+  "updated": "2026-07-30 09:14",
   "error": null
 }
