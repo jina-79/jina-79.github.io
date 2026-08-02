@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "사라진 절판본…열린 미술관은 무엇으로 신뢰를 지킬까[박현주 아트클럽]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014102253"
+      "title": "중동 긴장에 원유·가스 비상점검…정부 \"최악 상황까지 대비\"",
+      "url": "https://n.news.naver.com/mnews/article/654/0000193134"
     },
     {
-      "title": "7월 수출 989억 달러…반도체 호조에 역대 2위",
-      "url": "https://n.news.naver.com/mnews/article/079/0004174491"
+      "title": "KTX·SRT 통합…9월부터 함께 달린다",
+      "url": "https://n.news.naver.com/mnews/article/029/0003040189"
     },
     {
-      "title": "\"개인투자자 학살\"…국회 앞 근조화환에 외신도 '주목'",
-      "url": "https://n.news.naver.com/mnews/article/018/0006341790"
+      "title": "증시 불안 때 ‘레버리지 배율’ 낮춘다",
+      "url": "https://n.news.naver.com/mnews/article/032/0003461856"
     },
     {
-      "title": "W컨셉, 시즌 마지막 클리어런스…최대 87% 할인",
-      "url": "https://n.news.naver.com/mnews/article/003/0014102723"
+      "title": "신세계免-화해, 여름휴가철 K뷰티 제안",
+      "url": "https://n.news.naver.com/mnews/article/018/0006342293"
     },
     {
-      "title": "\"이제야 알겠다\"…270% 벌던 20대 투자 천재, 반도체주 급등락 원인이었나",
-      "url": "https://n.news.naver.com/mnews/article/277/0005797499"
+      "title": "하나금융, ‘청라 이전’ 그룹 캠페인…8% 적금에 항공상품권까지",
+      "url": "https://n.news.naver.com/mnews/article/138/0002236266"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000891110"
+      "title": "롯데마트, 베트남 17호점 박장에…\"산업도시 공략 속도\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005394321"
     },
     {
-      "title": "한화 '3형제 시대' 열렸다…김동관 중심 3세 경영 본격화 [헤비급브리핑]",
-      "url": "https://n.news.naver.com/mnews/article/138/0002236261"
+      "title": "정의선 회장이 직접 살핀 車 뭐길래…중국에 맞선 '초강수'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005316427"
     },
     {
-      "title": "롯데마트, 베트남 박장시에 17호점 개점…북부 공략 본격화",
-      "url": "https://n.news.naver.com/mnews/article/001/0016228562"
+      "title": "SK실트론 품은 두산…최태원 회장 남은 지분 29.4% 매각·현금화 속도 내나",
+      "url": "https://n.news.naver.com/mnews/article/003/0014102857"
     },
     {
-      "title": "맥도날드 충주찰옥수수버거, '돌 씹힌다' 민원에 판매 조기 종료",
-      "url": "https://n.news.naver.com/mnews/article/001/0016228469"
+      "title": "레버리지 규제로 발묶인 돈, 코스닥 향할까",
+      "url": "https://n.news.naver.com/mnews/article/014/0005556072"
     },
     {
-      "title": "SK하닉 '억대 성과급'에도 부글부글…\"적자 때 임금 조정\" 발칵",
-      "url": "https://n.news.naver.com/mnews/article/015/0005316197"
+      "title": "증시·상품·개미, 삼전닉스만 바라본다...아차 하는 순간 와르르",
+      "url": "https://n.news.naver.com/mnews/article/008/0005394532"
     }
   ],
   "stocks": {
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4049.1,
-    "price_krw": 5816937,
-    "change": -51.0,
-    "change_pct": -1.24
+    "price_usd": 4107.0,
+    "price_krw": 5900116,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-02 06:53",
+  "updated": "2026-08-03 06:53",
   "error": null
 }
