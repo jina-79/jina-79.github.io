@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "‘한국판 IRA’ 전기차 제외…주가 누른 기업, 상속가액 30% 할증 [2026 세제개편안]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004648123"
+      "title": "[속보]뉴욕증시, 호르무즈 재개방 기대에 일제히 상승 마감",
+      "url": "https://n.news.naver.com/mnews/article/277/0005798904"
     },
     {
-      "title": "신고만 잘해도 '초대박'…탈세 포상금 한도 없앤다",
-      "url": "https://n.news.naver.com/mnews/article/215/0001261002"
+      "title": "‘주가누르기 방지 정부안’에 고안자도 반발…與 이소영 “주가 더 낮출 것”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004648504"
     },
     {
-      "title": "한화에어로, 英 버티컬과 UAM 부품 계약 '조기 종료'... 4500억 규모",
-      "url": "https://n.news.naver.com/mnews/article/014/0005556545"
+      "title": "반도체 클러스터 기반시설비, 최대 100% 예산 지원",
+      "url": "https://n.news.naver.com/mnews/article/081/0003667561"
     },
     {
-      "title": "中 CXMT, 베이징에 두 번째 D램 공장 추진<로이터>",
-      "url": "https://n.news.naver.com/mnews/article/014/0005556723"
+      "title": "고려아연 주총 취소소송 … 영풍·MBK, 취하하기로",
+      "url": "https://n.news.naver.com/mnews/article/009/0005716599"
     },
     {
-      "title": "모건스탠리, 투자 의견 ‘비중 확대’로 상향…“36% 상승 여력”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001184051"
+      "title": "정부 지원에 물가 2%대 낮췄지만 무더위 속 채솟값 오름세 심상찮다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006344440"
     },
     {
-      "title": "“약발 먹혔나”…예탁금 3천만원 묶자 ‘삼전닉스’ 레버리지 90% 급감",
-      "url": "https://n.news.naver.com/mnews/article/029/0003040440"
+      "title": "中企 지원 중복·낭비 막아 4.2조원 절감한다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005716559"
     },
     {
-      "title": "가업상속공제 대상에 주차장·병원 등 배제...주가 누르기 적발 시 주식평가액 최소 30% 높여 세금 부과",
-      "url": "https://n.news.naver.com/mnews/article/023/0003991133"
+      "title": "금통위 “메가프로젝트로 재정 지출 늘면 채권 변동성 확대”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004648443"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002388332"
+      "title": "공정위, 담합 반복 기업에 '등록취소·영업정지' 추진",
+      "url": "https://n.news.naver.com/mnews/article/374/0000525597"
     },
     {
-      "title": "한은 13년 만에 金 다시 산다…“금 ETF는 이미 매입”",
-      "url": "https://n.news.naver.com/mnews/article/023/0003991138"
+      "title": "HD현대 정기선, 2대주주 된다…父 정몽준 지분 3.54％ 증여받아",
+      "url": "https://n.news.naver.com/mnews/article/016/0002679515"
     },
     {
-      "title": "뉴욕증시 일제히 상승·다우 최고치…트럼프 ‘이란 공격 취소’에 강세",
-      "url": "https://n.news.naver.com/mnews/article/016/0002678998"
+      "title": "IT·모바일 판매 호조...롯데하이마트, 2분기 매출 5911억원",
+      "url": "https://n.news.naver.com/mnews/article/008/0005395517"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6595.45,
+      "value": 6257.45,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 719.76,
+      "value": 737.35,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25913.9,
-      "change": 540.05,
-      "change_pct": 2.13
+      "value": 26584.99,
+      "change": 671.09,
+      "change_pct": 2.59
     },
     "usdkrw": {
-      "value": 1428.67,
-      "change": 8.07,
-      "change_pct": 0.57
+      "value": 1429.28,
+      "change": -6.42,
+      "change_pct": -0.45
     }
   },
   "gold": {
-    "price_usd": 4110.9,
-    "price_krw": 5873119,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4134.2,
+    "price_krw": 5908929,
+    "change": 100.5,
+    "change_pct": 2.49
   },
-  "updated": "2026-08-04 07:07",
+  "updated": "2026-08-05 07:09",
   "error": null
 }
