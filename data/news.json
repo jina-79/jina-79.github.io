@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "[속보]뉴욕증시, 호르무즈 재개방 기대에 일제히 상승 마감",
-      "url": "https://n.news.naver.com/mnews/article/277/0005798904"
+      "title": "삼성전자·하이닉스, 주주환원 확대 재확인…“조만간 공개”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006345406"
     },
     {
-      "title": "‘주가누르기 방지 정부안’에 고안자도 반발…與 이소영 “주가 더 낮출 것”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004648504"
+      "title": "증시 변동성 확대에 '빚투' 줄어…신용융자 잔고 올해 최저",
+      "url": "https://n.news.naver.com/mnews/article/629/0000522082"
     },
     {
-      "title": "반도체 클러스터 기반시설비, 최대 100% 예산 지원",
-      "url": "https://n.news.naver.com/mnews/article/081/0003667561"
+      "title": "고려아연, 상반기 영업익 1.3조…‘창사 이래 최대’",
+      "url": "https://n.news.naver.com/mnews/article/011/0004648857"
     },
     {
-      "title": "고려아연 주총 취소소송 … 영풍·MBK, 취하하기로",
-      "url": "https://n.news.naver.com/mnews/article/009/0005716599"
+      "title": "HD현대, 미국 최대 방산 조선사와 협력 속도…용접 시스템 전수",
+      "url": "https://n.news.naver.com/mnews/article/001/0016234662"
     },
     {
-      "title": "정부 지원에 물가 2%대 낮췄지만 무더위 속 채솟값 오름세 심상찮다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006344440"
+      "title": "\"HBM 다음은 zHBM, zNAND\" 삼성전자, 차세대 AI 메모리 기술 발표",
+      "url": "https://n.news.naver.com/mnews/article/014/0005557325"
     },
     {
-      "title": "中企 지원 중복·낭비 막아 4.2조원 절감한다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005716559"
+      "title": "\"관광객 수보다 체류·지출\"…日 수준 관광수출 땐 부가가치 6.3조원",
+      "url": "https://n.news.naver.com/mnews/article/018/0006345042"
     },
     {
-      "title": "금통위 “메가프로젝트로 재정 지출 늘면 채권 변동성 확대”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004648443"
+      "title": "삼성호암상 상금, 부문별 3억→5억 증액",
+      "url": "https://n.news.naver.com/mnews/article/025/0003542570"
     },
     {
-      "title": "공정위, 담합 반복 기업에 '등록취소·영업정지' 추진",
-      "url": "https://n.news.naver.com/mnews/article/374/0000525597"
+      "title": "‘송전탑 최소화, 지중화 확대’…정부, 피해 지역 주민에 제안",
+      "url": "https://n.news.naver.com/mnews/article/028/0002817267"
     },
     {
-      "title": "HD현대 정기선, 2대주주 된다…父 정몽준 지분 3.54％ 증여받아",
-      "url": "https://n.news.naver.com/mnews/article/016/0002679515"
+      "title": "연일 폭염에 제주도 냉방 수요 급증… 최대전력수요 역대 최대치 경신",
+      "url": "https://n.news.naver.com/mnews/article/023/0003991439"
     },
     {
-      "title": "IT·모바일 판매 호조...롯데하이마트, 2분기 매출 5911억원",
-      "url": "https://n.news.naver.com/mnews/article/008/0005395517"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002389324"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6257.45,
+      "value": 6358.95,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 737.35,
+      "value": 780.72,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26584.99,
-      "change": 671.09,
-      "change_pct": 2.59
+      "value": 26363.44,
+      "change": -221.55,
+      "change_pct": -0.83
     },
     "usdkrw": {
-      "value": 1429.28,
-      "change": -6.42,
+      "value": 1422.03,
+      "change": -6.47,
       "change_pct": -0.45
     }
   },
   "gold": {
-    "price_usd": 4134.2,
-    "price_krw": 5908929,
-    "change": 100.5,
-    "change_pct": 2.49
+    "price_usd": 4309.3,
+    "price_krw": 6127953,
+    "change": 213.9,
+    "change_pct": 5.22
   },
-  "updated": "2026-08-05 07:09",
+  "updated": "2026-08-06 07:11",
   "error": null
 }
