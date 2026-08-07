@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼성전자·하이닉스, 주주환원 확대 재확인…“조만간 공개”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006345406"
+      "title": "산업장관 “주 52시간제 손봐야…일하려는 의지 막아선 안 돼”",
+      "url": "https://n.news.naver.com/mnews/article/422/0000893024"
     },
     {
-      "title": "증시 변동성 확대에 '빚투' 줄어…신용융자 잔고 올해 최저",
-      "url": "https://n.news.naver.com/mnews/article/629/0000522082"
+      "title": "삼닉 레버리지 쏠림완화 속 증시 투자열기까지 식었다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005717722"
     },
     {
-      "title": "고려아연, 상반기 영업익 1.3조…‘창사 이래 최대’",
-      "url": "https://n.news.naver.com/mnews/article/011/0004648857"
+      "title": "전세사기 피해주택 매입 '1만호' 넘어…누적 피해자도 4만명",
+      "url": "https://n.news.naver.com/mnews/article/079/0004176376"
     },
     {
-      "title": "HD현대, 미국 최대 방산 조선사와 협력 속도…용접 시스템 전수",
-      "url": "https://n.news.naver.com/mnews/article/001/0016234662"
+      "title": "홈플러스, 오늘부터 영업재개…운명의 한 달 시작됐다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005800074"
     },
     {
-      "title": "\"HBM 다음은 zHBM, zNAND\" 삼성전자, 차세대 AI 메모리 기술 발표",
-      "url": "https://n.news.naver.com/mnews/article/014/0005557325"
+      "title": "중고차 판매 수수료 등 포함 총액 표시해야",
+      "url": "https://n.news.naver.com/mnews/article/020/0003739247"
     },
     {
-      "title": "\"관광객 수보다 체류·지출\"…日 수준 관광수출 땐 부가가치 6.3조원",
-      "url": "https://n.news.naver.com/mnews/article/018/0006345042"
+      "title": "엔화 살리기 미국…“변동성 과도” 원화도 콕 집었다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003542594"
     },
     {
-      "title": "삼성호암상 상금, 부문별 3억→5억 증액",
-      "url": "https://n.news.naver.com/mnews/article/025/0003542570"
+      "title": "실적 vs 유가 '줄다리기'…뉴욕증시 동반 하락[월스트리트in]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006346525"
     },
     {
-      "title": "‘송전탑 최소화, 지중화 확대’…정부, 피해 지역 주민에 제안",
-      "url": "https://n.news.naver.com/mnews/article/028/0002817267"
+      "title": "“빚투 얼마나 끔찍한지 전혀 몰라”…레버리지 사상 최대규모, 월가 황제 ‘경고’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005717850"
     },
     {
-      "title": "연일 폭염에 제주도 냉방 수요 급증… 최대전력수요 역대 최대치 경신",
-      "url": "https://n.news.naver.com/mnews/article/023/0003991439"
+      "title": "\"상품 특징 요약해줘\"...쿠팡, AI로 쇼핑 지원 강화",
+      "url": "https://n.news.naver.com/mnews/article/008/0005396904"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002389324"
+      "title": "삼성전자, ‘FMS 어워드’서 V낸드·AI 메모리로 2개 부문 수상",
+      "url": "https://n.news.naver.com/mnews/article/009/0005717324"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6358.95,
+      "value": 6281.18,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 780.72,
+      "value": 802.29,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26363.44,
-      "change": -221.55,
-      "change_pct": -0.83
+      "value": 26348.35,
+      "change": -15.09,
+      "change_pct": -0.06
     },
     "usdkrw": {
-      "value": 1422.03,
-      "change": -6.47,
-      "change_pct": -0.45
+      "value": 1421.08,
+      "change": -0.08,
+      "change_pct": -0.01
     }
   },
   "gold": {
-    "price_usd": 4309.3,
-    "price_krw": 6127953,
-    "change": 213.9,
-    "change_pct": 5.22
+    "price_usd": 4290.5,
+    "price_krw": 6097143,
+    "change": 44.7,
+    "change_pct": 1.05
   },
-  "updated": "2026-08-06 07:11",
+  "updated": "2026-08-07 10:00",
   "error": null
 }
