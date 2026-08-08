@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "코오롱인더, 2분기 영업익 전년比 118%↑…“산업자재 등 판매 확대”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002681003"
+      "title": "“롤러코스피 지쳤다” 예금 35.5조 몰렸는데, 금리 떨어진 이유",
+      "url": "https://n.news.naver.com/mnews/article/025/0003543062"
     },
     {
-      "title": "'메모리 3인방' 희비, 주주환원이 갈랐다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005718175"
+      "title": "블룸버그 \"SK하이닉스, 中 충칭 패키징 공장 지분 매각 검토\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005318734"
     },
     {
-      "title": "엔비디아도 인정했다…\"미래 AI 승부처는 '메모리 지휘' 능력\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000946796"
+      "title": "“민간 재건축·재개발 묶어둔 채 공공 공급만으론 역부족”",
+      "url": "https://n.news.naver.com/mnews/article/023/0003991923"
     },
     {
-      "title": "SK하이닉스, 용인·청주에 54조원 '승부수'…신규 팹 확충",
-      "url": "https://n.news.naver.com/mnews/article/277/0005800373"
+      "title": "농협, 폭염·가뭄 지원 확대…재해자금 3천억 긴급 지원",
+      "url": "https://n.news.naver.com/mnews/article/001/0016239783"
     },
     {
-      "title": "하나은행, 비대면 주담대도 막는다…가계대출 규제 '한층 강화'",
-      "url": "https://n.news.naver.com/mnews/article/469/0000946847"
+      "title": "'한 잔당 130원' 주세 인상 폭탄… 호프집 생맥주 1천 원 뛰어오르나",
+      "url": "https://n.news.naver.com/mnews/article/243/0000101387"
     },
     {
-      "title": "포스코홀딩스, 포스코인터·DX 지분 기반 PRS 체결…2.5조 조달",
-      "url": "https://n.news.naver.com/mnews/article/018/0006347287"
+      "title": "주주환원 외치고 7% 오른 마이크론…말 아끼고 17% 깎인 하이닉스",
+      "url": "https://n.news.naver.com/mnews/article/009/0005718230"
     },
     {
-      "title": "외국인 '팔자'에 코스피 0.6%↓…SK하이닉스 4.88%↓",
-      "url": "https://n.news.naver.com/mnews/article/018/0006346947"
+      "title": "구윤철 “非거주 1주택 예외규정 더 풀 수도”…세제개편 발표 4일만에 완화 시사[Pick코노미]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004649787"
     },
     {
-      "title": "LG ‘산업 특화 AI’ 구글·알리바바 제치고 최고 성능",
-      "url": "https://n.news.naver.com/mnews/article/082/0001392973"
+      "title": "中 광물 의존 끊겠다는 美, 4조원 투자 발표… 고려아연 제련소도 언급",
+      "url": "https://n.news.naver.com/mnews/article/023/0003991952"
     },
     {
-      "title": "구윤철 부총리 \"대출규제 대신 핀셋 지원 검토\"",
-      "url": "https://n.news.naver.com/mnews/article/088/0001022602"
+      "title": "거래소 “‘삼전닉스’ 레버리지 ETF 예비심사에 13일 소요”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006347296"
     },
     {
-      "title": "롯데케미칼, 2Q 영업익 1101억 '흑자 전환' 성공…\"첨단소재가 실적 견인\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014114864"
+      "title": "\"폭락 충격 가시기도 전에...\" 개미들 또 '빚투', 신용융자잔고 하루 만에 1조 불어났다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005558802"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6258.77,
+      "change": -37.61,
+      "change_pct": -0.6
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 798.81,
+      "change": -2.86,
+      "change_pct": -0.36
     },
     "nasdaq": {
       "value": 26690.62,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4401.3,
-    "price_krw": 6194609,
-    "change": 159.3,
-    "change_pct": 3.76
+    "price_usd": 4340.7,
+    "price_krw": 6109318,
+    "change": 98.7,
+    "change_pct": 2.33
   },
-  "updated": "2026-08-08 06:36",
+  "updated": "2026-08-09 06:27",
   "error": null
 }
