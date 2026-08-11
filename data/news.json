@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "강릉 교동, 로컬 내수·관광 결합 ‘영동권 앵커상권’ 부상",
-      "url": "https://n.news.naver.com/mnews/article/087/0001210554"
+      "title": "서학개미, 레버리지 매수세 ‘뚝’… 규제 후 순매수 상위권서 전멸",
+      "url": "https://n.news.naver.com/mnews/article/366/0001185430"
     },
     {
-      "title": "늘어나는 AI 컴퓨팅 수요에…인텔, 150억달러 유증 '승부수'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005319383"
+      "title": "\"넥센타이어, 하반기 비용 부담 확대 전망에 목표가 하향\"-키움증권",
+      "url": "https://n.news.naver.com/mnews/article/014/0005559720"
     },
     {
-      "title": "로봇이 주차하는 시대 성큼… 현대차그룹, 국내 최초 아파트 주차로봇 실증",
-      "url": "https://n.news.naver.com/mnews/article/469/0000947228"
+      "title": "한화, 美 해군함정 만드는 ‘오스탈 USA’ 인수 나섰다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003740002"
     },
     {
-      "title": "코스닥, 오늘도 달린다…코스피 1% 오를 때 코스닥 4%대 상승, 매수 사이드카[투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002681544"
+      "title": "주병기 공정위원장 “쿠팡이라고 해서 차별적 법 집행 하지 않아”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003543740"
     },
     {
-      "title": "한화, KAI 지분 15% 넘겨…'우주·항공·방산' 협력 기대",
-      "url": "https://n.news.naver.com/mnews/article/055/0001379514"
+      "title": "호르무즈 해협 불확실성에 뉴욕증시 하락…IT 업종 약세",
+      "url": "https://n.news.naver.com/mnews/article/138/0002237465"
     },
     {
-      "title": "SK하이닉스, 中 충칭공장 매각설에 “다양한 방안 검토…확정된 바 없어”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003543424"
+      "title": "GS, 2분기 영업익 1.7조..전년 대비 253%↑",
+      "url": "https://n.news.naver.com/mnews/article/008/0005398494"
     },
     {
-      "title": "교보생명 신창재 “보험산업 ‘머니게임’으로 전락…‘농부형’ 설계사 양성해야”",
-      "url": "https://n.news.naver.com/mnews/article/032/0003463288"
+      "title": "코스닥, 단일종목 레버리지 규제 ‘날개’에 급등세…돈 몰린다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002682322"
     },
     {
-      "title": "HD현대중공업, 미국 데이터센터 대규모 발전 설비 수주",
-      "url": "https://n.news.naver.com/mnews/article/422/0000894212"
+      "title": "결격 요건 완화… 가상자산사업자 대주주 심사 숨통",
+      "url": "https://n.news.naver.com/mnews/article/008/0005398699"
     },
     {
-      "title": "메디톡스, 신약 '뉴비쥬' 안착에 2분기 매출 687억…전년비 11.4%↑",
-      "url": "https://n.news.naver.com/mnews/article/277/0005801114"
+      "title": "레버리지에 크게 덴 당국… ‘애프터마켓’ 불허 가닥",
+      "url": "https://n.news.naver.com/mnews/article/021/0002810592"
     },
     {
-      "title": "청년미래적금 138.5만명 가입…9월 추가 모집 검토",
-      "url": "https://n.news.naver.com/mnews/article/018/0006349038"
+      "title": "오세훈, 서울역 옆 서계·청파 방문…“멸실 빼도 1695가구 순증”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004650533"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6258.77,
+      "value": 6299.66,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 798.81,
+      "value": 854.47,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26605.36,
-      "change": -85.26,
-      "change_pct": -0.32
+      "value": 26445.45,
+      "change": -159.91,
+      "change_pct": -0.6
     },
     "usdkrw": {
-      "value": 1417.67,
-      "change": -4.63,
-      "change_pct": -0.33
+      "value": 1412.46,
+      "change": 5.46,
+      "change_pct": 0.39
     }
   },
   "gold": {
-    "price_usd": 4448.6,
-    "price_krw": 6306646,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4427.8,
+    "price_krw": 6254090,
+    "change": 66.0,
+    "change_pct": 1.51
   },
-  "updated": "2026-08-11 06:39",
+  "updated": "2026-08-12 06:43",
   "error": null
 }
