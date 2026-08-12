@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "서학개미, 레버리지 매수세 ‘뚝’… 규제 후 순매수 상위권서 전멸",
-      "url": "https://n.news.naver.com/mnews/article/366/0001185430"
+      "title": "KAI 노조, 한화 기업결합 불허 요구…\"경쟁 업체가 경영 참여하는 구조\"",
+      "url": "https://n.news.naver.com/mnews/article/119/0003121033"
     },
     {
-      "title": "\"넥센타이어, 하반기 비용 부담 확대 전망에 목표가 하향\"-키움증권",
-      "url": "https://n.news.naver.com/mnews/article/014/0005559720"
+      "title": "“분기 최대 실적” 한국콜마 22% 급등…장중 14만 원 육박[코주부]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004650983"
     },
     {
-      "title": "한화, 美 해군함정 만드는 ‘오스탈 USA’ 인수 나섰다",
-      "url": "https://n.news.naver.com/mnews/article/020/0003740002"
+      "title": "‘호남권 반도체 메가프로젝트’ 전력 적기 공급한다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002682987"
     },
     {
-      "title": "주병기 공정위원장 “쿠팡이라고 해서 차별적 법 집행 하지 않아”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003543740"
+      "title": "개미 수익률 ‘-62%’ 찍었는데…삼전닉스 레버리지 교육 수강료 44억 번 금투협",
+      "url": "https://n.news.naver.com/mnews/article/011/0004651074"
     },
     {
-      "title": "호르무즈 해협 불확실성에 뉴욕증시 하락…IT 업종 약세",
-      "url": "https://n.news.naver.com/mnews/article/138/0002237465"
+      "title": "홈플러스, 13일 정식 재개장...온·오프라인 대규모 할인행사 진행",
+      "url": "https://n.news.naver.com/mnews/article/008/0005398885"
     },
     {
-      "title": "GS, 2분기 영업익 1.7조..전년 대비 253%↑",
-      "url": "https://n.news.naver.com/mnews/article/008/0005398494"
+      "title": "SK하이닉스·삼성전자 노조 손잡는다…반도체 '성과급 전선' 확대",
+      "url": "https://n.news.naver.com/mnews/article/421/0009110919"
     },
     {
-      "title": "코스닥, 단일종목 레버리지 규제 ‘날개’에 급등세…돈 몰린다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002682322"
+      "title": "환율 내려가자 불붙는 달러예금, 4대 은행 열흘새 30억달러↑",
+      "url": "https://n.news.naver.com/mnews/article/031/0001049136"
     },
     {
-      "title": "결격 요건 완화… 가상자산사업자 대주주 심사 숨통",
-      "url": "https://n.news.naver.com/mnews/article/008/0005398699"
+      "title": "“버스 개조가 주거 대책인가”… 오세훈, 청년안심주택서 황희 ‘버스 하우스’ 직격",
+      "url": "https://n.news.naver.com/mnews/article/022/0004150522"
     },
     {
-      "title": "레버리지에 크게 덴 당국… ‘애프터마켓’ 불허 가닥",
-      "url": "https://n.news.naver.com/mnews/article/021/0002810592"
+      "title": "김정관, 호남권 반도체 클러스터 부지 ‘팔비틀기’ 주장에 “기업이 최종 결정”",
+      "url": "https://n.news.naver.com/mnews/article/032/0003463798"
     },
     {
-      "title": "오세훈, 서울역 옆 서계·청파 방문…“멸실 빼도 1695가구 순증”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004650533"
+      "title": "국세청, 서울청 조사4국 등에 고액체납자 전담팀 만든다",
+      "url": "https://n.news.naver.com/mnews/article/003/0014122436"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6299.66,
+      "value": 6345.53,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 854.47,
+      "value": 858.91,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26445.45,
-      "change": -159.91,
-      "change_pct": -0.6
+      "value": 26588.49,
+      "change": 143.04,
+      "change_pct": 0.54
     },
     "usdkrw": {
-      "value": 1412.46,
-      "change": 5.46,
-      "change_pct": 0.39
+      "value": 1416.78,
+      "change": -0.53,
+      "change_pct": -0.04
     }
   },
   "gold": {
-    "price_usd": 4427.8,
-    "price_krw": 6254090,
-    "change": 66.0,
-    "change_pct": 1.51
+    "price_usd": 4469.0,
+    "price_krw": 6331589,
+    "change": 86.0,
+    "change_pct": 1.96
   },
-  "updated": "2026-08-12 06:43",
+  "updated": "2026-08-13 06:42",
   "error": null
 }
