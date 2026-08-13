@@ -1,49 +1,49 @@
 {
   "news": [
     {
-      "title": "KAI 노조, 한화 기업결합 불허 요구…\"경쟁 업체가 경영 참여하는 구조\"",
-      "url": "https://n.news.naver.com/mnews/article/119/0003121033"
+      "title": "美 관세 영향에 이른 성수기 맞은 HMM, 2분기 영업이익 전년比 52%↑",
+      "url": "https://n.news.naver.com/mnews/article/366/0001186093"
     },
     {
-      "title": "“분기 최대 실적” 한국콜마 22% 급등…장중 14만 원 육박[코주부]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004650983"
+      "title": "재개발 동의율 75%→70%…정부가 직접 공사비 갈등 중재",
+      "url": "https://n.news.naver.com/mnews/article/015/0005320676"
     },
     {
-      "title": "‘호남권 반도체 메가프로젝트’ 전력 적기 공급한다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002682987"
+      "title": "빌 게이츠 1년 만에 방한…SK 최태원·HD현대 정기선과 'SMR·AI 전력' 협력 가속화",
+      "url": "https://n.news.naver.com/mnews/article/003/0014126861"
     },
     {
-      "title": "개미 수익률 ‘-62%’ 찍었는데…삼전닉스 레버리지 교육 수강료 44억 번 금투협",
-      "url": "https://n.news.naver.com/mnews/article/011/0004651074"
+      "title": "KB證 “삼전·하이닉스, 2027년 영업익 1000조 육박…지금은 극단적 저평가”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001185929"
     },
     {
-      "title": "홈플러스, 13일 정식 재개장...온·오프라인 대규모 할인행사 진행",
-      "url": "https://n.news.naver.com/mnews/article/008/0005398885"
+      "title": "\"혼인신고 미뤄야 하나\" 고민했는데…'결혼 페널티' 개선에 엇갈린 반응",
+      "url": "https://n.news.naver.com/mnews/article/018/0006351139"
     },
     {
-      "title": "SK하이닉스·삼성전자 노조 손잡는다…반도체 '성과급 전선' 확대",
-      "url": "https://n.news.naver.com/mnews/article/421/0009110919"
+      "title": "비거주 1주택자 전세대출 문턱 높인다... 기준은 '거주 경험'",
+      "url": "https://n.news.naver.com/mnews/article/469/0000947793"
     },
     {
-      "title": "환율 내려가자 불붙는 달러예금, 4대 은행 열흘새 30억달러↑",
-      "url": "https://n.news.naver.com/mnews/article/031/0001049136"
+      "title": "고액체납자 꼼짝 마… 국세청 전담팀 신설",
+      "url": "https://n.news.naver.com/mnews/article/081/0003669958"
     },
     {
-      "title": "“버스 개조가 주거 대책인가”… 오세훈, 청년안심주택서 황희 ‘버스 하우스’ 직격",
-      "url": "https://n.news.naver.com/mnews/article/022/0004150522"
+      "title": "F&F '디스커버리 익스페디션', 글로벌 상표권 1100억에 인수",
+      "url": "https://n.news.naver.com/mnews/article/015/0005320616"
     },
     {
-      "title": "김정관, 호남권 반도체 클러스터 부지 ‘팔비틀기’ 주장에 “기업이 최종 결정”",
-      "url": "https://n.news.naver.com/mnews/article/032/0003463798"
+      "title": "대출 ‘오픈런’ 숨통 트이나…금융권 가계대출 30조 더 푼다",
+      "url": "https://n.news.naver.com/mnews/article/666/0000119073"
     },
     {
-      "title": "국세청, 서울청 조사4국 등에 고액체납자 전담팀 만든다",
-      "url": "https://n.news.naver.com/mnews/article/003/0014122436"
+      "title": "‘탱크데이’ 후폭풍 맞은 스타벅스, 27년 만에 첫 분기 적자…477억 빠져",
+      "url": "https://n.news.naver.com/mnews/article/028/0002818410"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6345.53,
+      "value": 6579.04,
       "change": 0.0,
       "change_pct": 0.0
     },
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26588.49,
-      "change": 143.04,
-      "change_pct": 0.54
+      "value": 26803.03,
+      "change": 214.54,
+      "change_pct": 0.81
     },
     "usdkrw": {
-      "value": 1416.78,
-      "change": -0.53,
-      "change_pct": -0.04
+      "value": 1418.27,
+      "change": 6.09,
+      "change_pct": 0.43
     }
   },
   "gold": {
-    "price_usd": 4469.0,
-    "price_krw": 6331589,
-    "change": 86.0,
-    "change_pct": 1.96
+    "price_usd": 4407.1,
+    "price_krw": 6250457,
+    "change": -1.8,
+    "change_pct": -0.04
   },
-  "updated": "2026-08-13 06:42",
+  "updated": "2026-08-14 06:41",
   "error": null
 }
