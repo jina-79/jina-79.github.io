@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "美 관세 영향에 이른 성수기 맞은 HMM, 2분기 영업이익 전년比 52%↑",
-      "url": "https://n.news.naver.com/mnews/article/366/0001186093"
+      "title": "코리아세븐, 2분기 영업익 41억원… 11개 분기 만에 흑자 전환",
+      "url": "https://n.news.naver.com/mnews/article/366/0001186426"
     },
     {
-      "title": "재개발 동의율 75%→70%…정부가 직접 공사비 갈등 중재",
-      "url": "https://n.news.naver.com/mnews/article/015/0005320676"
+      "title": "'불장' 상반기 증권사 임직원 보수는…이종석 유안타 이사 227억",
+      "url": "https://n.news.naver.com/mnews/article/001/0016252593"
     },
     {
-      "title": "빌 게이츠 1년 만에 방한…SK 최태원·HD현대 정기선과 'SMR·AI 전력' 협력 가속화",
-      "url": "https://n.news.naver.com/mnews/article/003/0014126861"
+      "title": "LG, 엔비디아와 전방위적 협력… 휴머노이드 로봇 내년 1분기 공개",
+      "url": "https://n.news.naver.com/mnews/article/449/0000356844"
     },
     {
-      "title": "KB證 “삼전·하이닉스, 2027년 영업익 1000조 육박…지금은 극단적 저평가”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001185929"
+      "title": "가계부채 총량 증가율 2배로… 30조 더 풀어 대출절벽 해소",
+      "url": "https://n.news.naver.com/mnews/article/020/0003740850"
     },
     {
-      "title": "\"혼인신고 미뤄야 하나\" 고민했는데…'결혼 페널티' 개선에 엇갈린 반응",
-      "url": "https://n.news.naver.com/mnews/article/018/0006351139"
+      "title": "국민연금 2분기 美 주식 평가액 33조↑…알파벳 25% 올라",
+      "url": "https://n.news.naver.com/mnews/article/005/0001866932"
     },
     {
-      "title": "비거주 1주택자 전세대출 문턱 높인다... 기준은 '거주 경험'",
-      "url": "https://n.news.naver.com/mnews/article/469/0000947793"
+      "title": "빌 게이츠 만난 김정관 \"韓기업이 '테라파워 SMR' 최적 파트너\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005803386"
     },
     {
-      "title": "고액체납자 꼼짝 마… 국세청 전담팀 신설",
-      "url": "https://n.news.naver.com/mnews/article/081/0003669958"
+      "title": "LS, 2분기 영업익 5956억…전년比 153%↑",
+      "url": "https://n.news.naver.com/mnews/article/421/0009114625"
     },
     {
-      "title": "F&F '디스커버리 익스페디션', 글로벌 상표권 1100억에 인수",
-      "url": "https://n.news.naver.com/mnews/article/015/0005320616"
+      "title": "금융위 “청년 비아파트 정책 대출, 아파트 구입 기회 축소 아냐”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012238087"
     },
     {
-      "title": "대출 ‘오픈런’ 숨통 트이나…금융권 가계대출 30조 더 푼다",
-      "url": "https://n.news.naver.com/mnews/article/666/0000119073"
+      "title": "\"불닭 앞세워 해외 매출 6000억 첫 돌파\"…삼양식품 영업익 46.7% 증가",
+      "url": "https://n.news.naver.com/mnews/article/015/0005321154"
     },
     {
-      "title": "‘탱크데이’ 후폭풍 맞은 스타벅스, 27년 만에 첫 분기 적자…477억 빠져",
-      "url": "https://n.news.naver.com/mnews/article/028/0002818410"
+      "title": "삼성전자 노태문 상반기 보수 74.5억…직원 평균 6300만원",
+      "url": "https://n.news.naver.com/mnews/article/018/0006352157"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6579.04,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 858.91,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26803.03,
-      "change": 214.54,
-      "change_pct": 0.81
+      "value": 26729.16,
+      "change": -73.87,
+      "change_pct": -0.28
     },
     "usdkrw": {
-      "value": 1418.27,
-      "change": 6.09,
-      "change_pct": 0.43
+      "value": 1416.48,
+      "change": 0.02,
+      "change_pct": 0.0
     }
   },
   "gold": {
-    "price_usd": 4407.1,
-    "price_krw": 6250457,
-    "change": -1.8,
-    "change_pct": -0.04
+    "price_usd": 4432.0,
+    "price_krw": 6277839,
+    "change": 68.4,
+    "change_pct": 1.57
   },
-  "updated": "2026-08-14 06:41",
+  "updated": "2026-08-15 06:22",
   "error": null
 }
