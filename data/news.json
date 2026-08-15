@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "코리아세븐, 2분기 영업익 41억원… 11개 분기 만에 흑자 전환",
-      "url": "https://n.news.naver.com/mnews/article/366/0001186426"
+      "title": "며칠 전엔 2조원 던지더니 ‘대반전’…서학개미 9000억 쓸어담은 ‘이것’",
+      "url": "https://n.news.naver.com/mnews/article/011/0004652110"
     },
     {
-      "title": "'불장' 상반기 증권사 임직원 보수는…이종석 유안타 이사 227억",
-      "url": "https://n.news.naver.com/mnews/article/001/0016252593"
+      "title": "외국인 3조 순매수에 코스피 2% 넘게 올랐다…닷새째 상승세",
+      "url": "https://n.news.naver.com/mnews/article/448/0000633600"
     },
     {
-      "title": "LG, 엔비디아와 전방위적 협력… 휴머노이드 로봇 내년 1분기 공개",
-      "url": "https://n.news.naver.com/mnews/article/449/0000356844"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012238172"
     },
     {
-      "title": "가계부채 총량 증가율 2배로… 30조 더 풀어 대출절벽 해소",
-      "url": "https://n.news.naver.com/mnews/article/020/0003740850"
+      "title": "‘3대 메가 프로젝트’ 반영한 신규 전력수요 잠정치, 20일 공개",
+      "url": "https://n.news.naver.com/mnews/article/022/0004151152"
     },
     {
-      "title": "국민연금 2분기 美 주식 평가액 33조↑…알파벳 25% 올라",
-      "url": "https://n.news.naver.com/mnews/article/005/0001866932"
+      "title": "美 7월 소매판매 0.6%↓…14개월來 최대 낙폭",
+      "url": "https://n.news.naver.com/mnews/article/018/0006352235"
     },
     {
-      "title": "빌 게이츠 만난 김정관 \"韓기업이 '테라파워 SMR' 최적 파트너\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005803386"
+      "title": "신규 대출여력 30조 금융권 배분 본격 착수…19일 첫 실무회의",
+      "url": "https://n.news.naver.com/mnews/article/001/0016253450"
     },
     {
-      "title": "LS, 2분기 영업익 5956억…전년比 153%↑",
-      "url": "https://n.news.naver.com/mnews/article/421/0009114625"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000896205"
     },
     {
-      "title": "금융위 “청년 비아파트 정책 대출, 아파트 구입 기회 축소 아냐”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012238087"
+      "title": "비트코인 거래 말라간다…현물 거래대금 7년 만에 최저",
+      "url": "https://n.news.naver.com/mnews/article/018/0006352336"
     },
     {
-      "title": "\"불닭 앞세워 해외 매출 6000억 첫 돌파\"…삼양식품 영업익 46.7% 증가",
-      "url": "https://n.news.naver.com/mnews/article/015/0005321154"
+      "title": "상반기 평균급여 하닉 1억4천, 작년 대비 23%↑…삼전 ‘개미’ 800만명",
+      "url": "https://n.news.naver.com/mnews/article/028/0002818634"
     },
     {
-      "title": "삼성전자 노태문 상반기 보수 74.5억…직원 평균 6300만원",
-      "url": "https://n.news.naver.com/mnews/article/018/0006352157"
+      "title": "삼성전자 상반기 D램 점유율 39.4%…스마트폰도 22%로 상승",
+      "url": "https://n.news.naver.com/mnews/article/055/0001380778"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6977.94,
+      "change": 164.6,
+      "change_pct": 2.42
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 864.65,
+      "change": 3.28,
+      "change_pct": 0.38
     },
     "nasdaq": {
       "value": 26729.16,
@@ -58,17 +58,17 @@
       "change_pct": -0.28
     },
     "usdkrw": {
-      "value": 1416.48,
-      "change": 0.02,
-      "change_pct": 0.0
+      "value": 1412.0,
+      "change": -4.85,
+      "change_pct": -0.34
     }
   },
   "gold": {
-    "price_usd": 4432.0,
-    "price_krw": 6277839,
-    "change": 68.4,
-    "change_pct": 1.57
+    "price_usd": 4380.4,
+    "price_krw": 6185124,
+    "change": 16.8,
+    "change_pct": 0.39
   },
-  "updated": "2026-08-15 06:22",
+  "updated": "2026-08-16 06:18",
   "error": null
 }
