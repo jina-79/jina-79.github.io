@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "AI가 키운 낸드 시장…삼성·SK 1·2위, 마이크론 3위로",
-      "url": "https://n.news.naver.com/mnews/article/031/0001050479"
+      "title": "‘더 플라자’, 50년 만에 전면 리모델링… '7성급 호텔' 옥상은 전망대로",
+      "url": "https://n.news.naver.com/mnews/article/243/0000101873"
     },
     {
-      "title": "AI가 걷어찬 청년 ‘경력 사다리’…4년간 일자리 27만개 증발",
-      "url": "https://n.news.naver.com/mnews/article/029/0003042828"
+      "title": "HD현대중공업, 페루 신형 상륙지원함 1번함 ‘침보테함’ 진수",
+      "url": "https://n.news.naver.com/mnews/article/009/0005722839"
     },
     {
-      "title": "9월 발권 국제선 유류할증료 7단계 '껑충'…뉴욕 왕복 19만 원↑",
-      "url": "https://n.news.naver.com/mnews/article/055/0001381387"
+      "title": "‘탱크데이’ 논란에 “안간다”던 탈벅족, 결국 돌아갔다?···스타벅스 앱사용자 지난달 반등",
+      "url": "https://n.news.naver.com/mnews/article/032/0003465118"
     },
     {
-      "title": "코스피, 6800선 마감…7000선 안착은 실패",
-      "url": "https://n.news.naver.com/mnews/article/277/0005804258"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000897384"
     },
     {
-      "title": "현대건설, 테라파워 원전 우선권 확보",
-      "url": "https://n.news.naver.com/mnews/article/081/0003671476"
+      "title": "로이터 \"삼성전자, 수요 폭증에 파운드리 가격 최대 15% 인상\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000897362"
     },
     {
-      "title": "현대차 노사 재교섭도 ‘빈손’…노조 21일 전면파업",
-      "url": "https://n.news.naver.com/mnews/article/082/0001394431"
+      "title": "홈플러스 납품업체 \"7900억 구체적 변제 계획 회생안에 담아야\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014136178"
     },
     {
-      "title": "‘용산 반대’ 오세훈 겨눈 李… “집값 폭등 가능성 높이면 안돼”",
-      "url": "https://n.news.naver.com/mnews/article/081/0003671413"
+      "title": "현대차 노조, 21일 8시간 전면파업…2016년 이후 처음",
+      "url": "https://n.news.naver.com/mnews/article/005/0001867589"
     },
     {
-      "title": "김윤 \"스페셜티 중심 전환\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005322058"
+      "title": "은행권, 예보료 9000억 더낸다...손보업계 3.3배 인상",
+      "url": "https://n.news.naver.com/mnews/article/011/0004653260"
     },
     {
-      "title": "서산 '천하일품' 쌀, 농협쌀 10대 대표브랜드에 선정",
-      "url": "https://n.news.naver.com/mnews/article/001/0016256921"
+      "title": "SK하이닉스 40조 자사주 소각…상장사 역대 최대규모",
+      "url": "https://n.news.naver.com/mnews/article/025/0003545467"
     },
     {
-      "title": "이란 전쟁으로 미 국채 30년물 금리 5.31%...19년 만에 최고",
-      "url": "https://n.news.naver.com/mnews/article/052/0002394493"
+      "title": "기준금리 인상 한 달, 초장기채만 무너졌다…\"정책보다 수급\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016257506"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6977.94,
+      "value": 6869.83,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 864.65,
+      "value": 834.2,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26289.71,
-      "change": -355.2,
-      "change_pct": -1.33
+      "value": 26331.09,
+      "change": 41.38,
+      "change_pct": 0.16
     },
     "usdkrw": {
-      "value": 1412.34,
-      "change": -3.03,
-      "change_pct": -0.21
+      "value": 1386.22,
+      "change": -28.51,
+      "change_pct": -2.02
     }
   },
   "gold": {
-    "price_usd": 4389.5,
-    "price_krw": 6199466,
-    "change": -28.3,
-    "change_pct": -0.64
+    "price_usd": 4580.7,
+    "price_krw": 6349858,
+    "change": 214.7,
+    "change_pct": 4.92
   },
-  "updated": "2026-08-19 06:21",
+  "updated": "2026-08-20 06:22",
   "error": null
 }
