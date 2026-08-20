@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "‘더 플라자’, 50년 만에 전면 리모델링… '7성급 호텔' 옥상은 전망대로",
-      "url": "https://n.news.naver.com/mnews/article/243/0000101873"
+      "title": "한국은행 신임 부총재에 권민수 부총재보 임명",
+      "url": "https://n.news.naver.com/mnews/article/003/0014139359"
     },
     {
-      "title": "HD현대중공업, 페루 신형 상륙지원함 1번함 ‘침보테함’ 진수",
-      "url": "https://n.news.naver.com/mnews/article/009/0005722839"
-    },
-    {
-      "title": "‘탱크데이’ 논란에 “안간다”던 탈벅족, 결국 돌아갔다?···스타벅스 앱사용자 지난달 반등",
-      "url": "https://n.news.naver.com/mnews/article/032/0003465118"
+      "title": "“이때다, 뒤도 안돌아본다”…삼전닉스 레버리지 거래대금 이틀만에 1조 넘어",
+      "url": "https://n.news.naver.com/mnews/article/009/0005723605"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000897384"
+      "url": "https://n.news.naver.com/mnews/article/056/0012241364"
     },
     {
-      "title": "로이터 \"삼성전자, 수요 폭증에 파운드리 가격 최대 15% 인상\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000897362"
+      "title": "경기 부천시, 토지거래허가구역 신규 지정...\"투기 차단\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002395832"
     },
     {
-      "title": "홈플러스 납품업체 \"7900억 구체적 변제 계획 회생안에 담아야\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014136178"
+      "title": "100세 이상 8604명, 10년새 약 3배로",
+      "url": "https://n.news.naver.com/mnews/article/020/0003742322"
     },
     {
-      "title": "현대차 노조, 21일 8시간 전면파업…2016년 이후 처음",
-      "url": "https://n.news.naver.com/mnews/article/005/0001867589"
+      "title": "‘손님을 모시는 차’ 제네시스 GV90…세계 최초 기술까지, 어떤 기능 담았나",
+      "url": "https://n.news.naver.com/mnews/article/022/0004152381"
     },
     {
-      "title": "은행권, 예보료 9000억 더낸다...손보업계 3.3배 인상",
-      "url": "https://n.news.naver.com/mnews/article/011/0004653260"
+      "title": "시가 대신 공정가액으로 합병가액…'주가누르기' 유인 차단",
+      "url": "https://n.news.naver.com/mnews/article/001/0016262378"
     },
     {
-      "title": "SK하이닉스 40조 자사주 소각…상장사 역대 최대규모",
-      "url": "https://n.news.naver.com/mnews/article/025/0003545467"
+      "title": "투자·301조·조선 얽힌 대미전선…통상수장 공백 속 김정관 '협상 전면에'",
+      "url": "https://n.news.naver.com/mnews/article/003/0014136798"
     },
     {
-      "title": "기준금리 인상 한 달, 초장기채만 무너졌다…\"정책보다 수급\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016257506"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002395486"
+    },
+    {
+      "title": "'7억 성과급' SK하닉, 60% 자사주 지급 합의",
+      "url": "https://n.news.naver.com/mnews/article/018/0006355166"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6869.83,
+      "value": 6471.17,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 834.2,
+      "value": 824.46,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26331.09,
-      "change": 41.38,
-      "change_pct": 0.16
+      "value": 26067.17,
+      "change": -263.92,
+      "change_pct": -1.0
     },
     "usdkrw": {
-      "value": 1386.22,
-      "change": -28.51,
-      "change_pct": -2.02
+      "value": 1393.98,
+      "change": -19.6,
+      "change_pct": -1.39
     }
   },
   "gold": {
-    "price_usd": 4580.7,
-    "price_krw": 6349858,
-    "change": 214.7,
-    "change_pct": 4.92
+    "price_usd": 4575.1,
+    "price_krw": 6377598,
+    "change": 85.7,
+    "change_pct": 1.91
   },
-  "updated": "2026-08-20 06:22",
+  "updated": "2026-08-21 06:25",
   "error": null
 }
