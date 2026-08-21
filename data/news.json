@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한국은행 신임 부총재에 권민수 부총재보 임명",
-      "url": "https://n.news.naver.com/mnews/article/003/0014139359"
+      "title": "진에어·에어부산·에어서울 합병…내년 3월 ‘통합 진에어’ 출범",
+      "url": "https://n.news.naver.com/mnews/article/016/0002686868"
     },
     {
-      "title": "“이때다, 뒤도 안돌아본다”…삼전닉스 레버리지 거래대금 이틀만에 1조 넘어",
-      "url": "https://n.news.naver.com/mnews/article/009/0005723605"
+      "title": "LGU+ 'Simply. U+', 레드닷 디자인 어워드 본상",
+      "url": "https://n.news.naver.com/mnews/article/001/0016262874"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012241364"
+      "title": "뉴욕증시, 국채금리 상승·월마트 실적 부진에 동반 하락 마감",
+      "url": "https://n.news.naver.com/mnews/article/366/0001187448"
     },
     {
-      "title": "경기 부천시, 토지거래허가구역 신규 지정...\"투기 차단\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002395832"
+      "title": "\"용산공원 말고 국회부터 밀자\"…성난 민심에 떠오른 제안",
+      "url": "https://n.news.naver.com/mnews/article/015/0005323219"
     },
     {
-      "title": "100세 이상 8604명, 10년새 약 3배로",
-      "url": "https://n.news.naver.com/mnews/article/020/0003742322"
+      "title": "‘바이백 약발’ 하루 만에 끝…베선트 “재정건전화책 내놓겠다”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003545945"
     },
     {
-      "title": "‘손님을 모시는 차’ 제네시스 GV90…세계 최초 기술까지, 어떤 기능 담았나",
-      "url": "https://n.news.naver.com/mnews/article/022/0004152381"
-    },
-    {
-      "title": "시가 대신 공정가액으로 합병가액…'주가누르기' 유인 차단",
-      "url": "https://n.news.naver.com/mnews/article/001/0016262378"
-    },
-    {
-      "title": "투자·301조·조선 얽힌 대미전선…통상수장 공백 속 김정관 '협상 전면에'",
-      "url": "https://n.news.naver.com/mnews/article/003/0014136798"
+      "title": "하닉 역대급 주주환원에 시장 환호… 삼전이 릴레이 이어가나",
+      "url": "https://n.news.naver.com/mnews/article/005/0001868134"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002395486"
+      "url": "https://n.news.naver.com/mnews/article/422/0000897800"
     },
     {
-      "title": "'7억 성과급' SK하닉, 60% 자사주 지급 합의",
-      "url": "https://n.news.naver.com/mnews/article/018/0006355166"
+      "title": "비트코인 불 뿜었다…두달 만에 1억원 돌파",
+      "url": "https://n.news.naver.com/mnews/article/015/0005323348"
+    },
+    {
+      "title": "제네시스, 美 판매량 45만대 돌파…\"SUV로 현지 수요 공략\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005564633"
+    },
+    {
+      "title": "‘보유’보다 ‘거주’…절세 방안 혼란 커져",
+      "url": "https://n.news.naver.com/mnews/article/024/0000107708"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6471.17,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 824.46,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26067.17,
-      "change": -263.92,
-      "change_pct": -1.0
+      "value": 26180.46,
+      "change": 113.29,
+      "change_pct": 0.43
     },
     "usdkrw": {
-      "value": 1393.98,
-      "change": -19.6,
-      "change_pct": -1.39
+      "value": 1385.98,
+      "change": -3.42,
+      "change_pct": -0.25
     }
   },
   "gold": {
-    "price_usd": 4575.1,
-    "price_krw": 6377598,
-    "change": 85.7,
-    "change_pct": 1.91
+    "price_usd": 4661.6,
+    "price_krw": 6460884,
+    "change": 145.3,
+    "change_pct": 3.22
   },
-  "updated": "2026-08-21 06:25",
+  "updated": "2026-08-22 06:21",
   "error": null
 }
