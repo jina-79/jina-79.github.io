@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "진에어·에어부산·에어서울 합병…내년 3월 ‘통합 진에어’ 출범",
-      "url": "https://n.news.naver.com/mnews/article/016/0002686868"
+      "title": "비트코인 1억 원 재돌파…하락장 종료 신호 뚜렷",
+      "url": "https://n.news.naver.com/mnews/article/448/0000635046"
     },
     {
-      "title": "LGU+ 'Simply. U+', 레드닷 디자인 어워드 본상",
-      "url": "https://n.news.naver.com/mnews/article/001/0016262874"
+      "title": "“美 부채위기 1~5년 내 온다”…헤지펀드 거물이 금·비트코인 찍은 이유",
+      "url": "https://n.news.naver.com/mnews/article/123/0002388840"
     },
     {
-      "title": "뉴욕증시, 국채금리 상승·월마트 실적 부진에 동반 하락 마감",
-      "url": "https://n.news.naver.com/mnews/article/366/0001187448"
+      "title": "단일레버리지 '2차 풍선효과' 없었다…서학개미 '3배 베팅' 꺾여",
+      "url": "https://n.news.naver.com/mnews/article/008/0005403246"
     },
     {
-      "title": "\"용산공원 말고 국회부터 밀자\"…성난 민심에 떠오른 제안",
-      "url": "https://n.news.naver.com/mnews/article/015/0005323219"
+      "title": "“매출 14.6배·기업가치 2조 달러” 앤트로픽, 이달 IPO 신청",
+      "url": "https://n.news.naver.com/mnews/article/011/0004654084"
     },
     {
-      "title": "‘바이백 약발’ 하루 만에 끝…베선트 “재정건전화책 내놓겠다”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003545945"
-    },
-    {
-      "title": "하닉 역대급 주주환원에 시장 환호… 삼전이 릴레이 이어가나",
-      "url": "https://n.news.naver.com/mnews/article/005/0001868134"
+      "title": "삼성SDI, 삼성D 지분 매각해 4.4조 확보…“투자 재원 마련”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001868253"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000897800"
+      "url": "https://n.news.naver.com/mnews/article/052/0002396524"
     },
     {
-      "title": "비트코인 불 뿜었다…두달 만에 1억원 돌파",
-      "url": "https://n.news.naver.com/mnews/article/015/0005323348"
+      "title": "전국 휘발유 가격 14주 연속 하락…휘발유 1860원대",
+      "url": "https://n.news.naver.com/mnews/article/016/0002686970"
     },
     {
-      "title": "제네시스, 美 판매량 45만대 돌파…\"SUV로 현지 수요 공략\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005564633"
+      "title": "정부, 석유 최고가격 동결…휘발유 1784원·경유 1773원·등유 1380원",
+      "url": "https://n.news.naver.com/mnews/article/032/0003465651"
     },
     {
-      "title": "‘보유’보다 ‘거주’…절세 방안 혼란 커져",
-      "url": "https://n.news.naver.com/mnews/article/024/0000107708"
+      "title": "삼성 올해 최대 110조 주주환원… 韓 기업 역대 최대",
+      "url": "https://n.news.naver.com/mnews/article/005/0001868257"
+    },
+    {
+      "title": "소폭 상승 지속…브렌트유, 95달러 육박[국제유가]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005564861"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6912.95,
+      "change": 60.37,
+      "change_pct": 0.88
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 801.94,
+      "change": -38.95,
+      "change_pct": -4.63
     },
     "nasdaq": {
       "value": 26180.46,
@@ -58,17 +58,17 @@
       "change_pct": 0.43
     },
     "usdkrw": {
-      "value": 1385.98,
-      "change": -3.42,
-      "change_pct": -0.25
+      "value": 1383.9,
+      "change": -6.89,
+      "change_pct": -0.5
     }
   },
   "gold": {
-    "price_usd": 4661.6,
-    "price_krw": 6460884,
-    "change": 145.3,
-    "change_pct": 3.22
+    "price_usd": 4624.1,
+    "price_krw": 6399292,
+    "change": 107.8,
+    "change_pct": 2.39
   },
-  "updated": "2026-08-22 06:21",
+  "updated": "2026-08-23 06:19",
   "error": null
 }
