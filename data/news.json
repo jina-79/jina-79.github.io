@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "현대차 파업에 벌써 '2.3조' 날아갔다…24일 협상서 극적 타결할까",
-      "url": "https://n.news.naver.com/mnews/article/008/0005403350"
+      "title": "디지털엑스 “거래수수료 전면 무료” 코인판 흔들까",
+      "url": "https://n.news.naver.com/mnews/article/021/0002813476"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002397092"
+      "title": "달러·미국채 불신에 대안 찾는 투자자들…비트코인과 금으로",
+      "url": "https://n.news.naver.com/mnews/article/469/0000949782"
     },
     {
-      "title": "1위끼리 뭉쳤다…시몬스, 포스코·고려제강과 협력 ‘업계 최초’",
-      "url": "https://n.news.naver.com/mnews/article/082/0001395055"
+      "title": "삼성전자 8%대 급락에 코스피 6700선 밑으로…외국인 3.9조 ‘팔자’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005725023"
     },
     {
-      "title": "금감원, 5년간 481명 떠났다…올해 퇴직자 절반이 20~40대",
-      "url": "https://n.news.naver.com/mnews/article/029/0003043660"
+      "title": "110조 내놨는데 부족?",
+      "url": "https://n.news.naver.com/mnews/article/025/0003546192"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000898528"
+      "title": "주병기 \"가맹사업자단체 등록요건 완화 검토…30~300개 과도 강화\"",
+      "url": "https://n.news.naver.com/mnews/article/031/0001051978"
     },
     {
-      "title": "메모리값 폭등에…엔비디아도 AI 서버 가격 15% 이상 올린다",
-      "url": "https://n.news.naver.com/mnews/article/032/0003465803"
+      "title": "호불호 갈렸던 페라리 첫 전기차 '루체' 韓상륙",
+      "url": "https://n.news.naver.com/mnews/article/092/0002434873"
     },
     {
-      "title": "서울시, 모아타운 ‘쾌속통합’…2031년까지 4만호 착공 목표",
-      "url": "https://n.news.naver.com/mnews/article/016/0002687140"
+      "title": "금감원·예금보험공사 노조 \"지방이전 반대...금융안전망 공백 초래\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002397326"
     },
     {
-      "title": "‘스페이스X 주식 왜 샀을까’ 아직도 밤잠 설치는데…앤트로픽 IPO에 또 들썩 [투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002687166"
+      "title": "위고비·마운자로 ‘해외 직구’ 기승…불법 반입 1년 새 폭증",
+      "url": "https://n.news.naver.com/mnews/article/025/0003546269"
     },
     {
-      "title": "한화, 경남 수해복구·취약계층 지원에 30억 원 기부",
-      "url": "https://n.news.naver.com/mnews/article/021/0002813168"
+      "title": "中반도체 도전에…韓, 초격차 응전",
+      "url": "https://n.news.naver.com/mnews/article/009/0005725161"
     },
     {
-      "title": "1300원대 내려온 원·달러 환율…저점 더 낮출까[주간외환전망]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006356264"
+      "title": "'베센트 풋'도 못 막은 美 국채금리…뒤에는 1000조 AI '쩐의 전쟁'",
+      "url": "https://n.news.naver.com/mnews/article/025/0003546379"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6912.95,
-      "change": 60.37,
-      "change_pct": 0.88
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 801.94,
-      "change": -38.95,
-      "change_pct": -4.63
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26180.46,
-      "change": 113.29,
-      "change_pct": 0.43
+      "value": 25980.19,
+      "change": -200.27,
+      "change_pct": -0.76
     },
     "usdkrw": {
-      "value": 1385.89,
-      "change": -4.9,
-      "change_pct": -0.35
+      "value": 1383.12,
+      "change": -7.67,
+      "change_pct": -0.55
     }
   },
   "gold": {
-    "price_usd": 4680.6,
-    "price_krw": 6486796,
+    "price_usd": 4710.0,
+    "price_krw": 6514495,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-08-24 06:19",
+  "updated": "2026-08-25 06:25",
   "error": null
 }
