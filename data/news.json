@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "디지털엑스 “거래수수료 전면 무료” 코인판 흔들까",
-      "url": "https://n.news.naver.com/mnews/article/021/0002813476"
+      "title": "李정부 기초연금 개편안에 시민단체 반발…“줬다 뺏는 연금 해결해야”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003546669"
     },
     {
-      "title": "달러·미국채 불신에 대안 찾는 투자자들…비트코인과 금으로",
-      "url": "https://n.news.naver.com/mnews/article/469/0000949782"
+      "title": "'맏형' 현대차 임금협상 잠정합의…기아, 오늘 오후 '파업' 여부 결정",
+      "url": "https://n.news.naver.com/mnews/article/003/0014145939"
     },
     {
-      "title": "삼성전자 8%대 급락에 코스피 6700선 밑으로…외국인 3.9조 ‘팔자’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005725023"
+      "title": "\"이제 금겹살됐다고?\"…집에서 삼겹살 구워도 4만원대, 물가 12% 올라",
+      "url": "https://n.news.naver.com/mnews/article/277/0005807103"
     },
     {
-      "title": "110조 내놨는데 부족?",
-      "url": "https://n.news.naver.com/mnews/article/025/0003546192"
+      "title": "에스원 \"AI 보안 혁신…야간·주말 학교 안전 챙긴다\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005324573"
     },
     {
-      "title": "주병기 \"가맹사업자단체 등록요건 완화 검토…30~300개 과도 강화\"",
-      "url": "https://n.news.naver.com/mnews/article/031/0001051978"
+      "title": "용산공원, 내달 공개할 7만3000가구 택지서 빠져",
+      "url": "https://n.news.naver.com/mnews/article/023/0003994930"
     },
     {
-      "title": "호불호 갈렸던 페라리 첫 전기차 '루체' 韓상륙",
-      "url": "https://n.news.naver.com/mnews/article/092/0002434873"
+      "title": "“다른 지역 업체는 안돼”…폐기물 수거시장 빗장 풀린다 [Pick코노미]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004655160"
     },
     {
-      "title": "금감원·예금보험공사 노조 \"지방이전 반대...금융안전망 공백 초래\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002397326"
+      "title": "골드만 “中 첨단 반도체 공급 격차 10년 내 급감”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004655112"
     },
     {
-      "title": "위고비·마운자로 ‘해외 직구’ 기승…불법 반입 1년 새 폭증",
-      "url": "https://n.news.naver.com/mnews/article/025/0003546269"
+      "title": "\"단 25표 차이\" SK하이닉스 노조 '주식 성과급' 여론 왜 양분됐나",
+      "url": "https://n.news.naver.com/mnews/article/003/0014146280"
     },
     {
-      "title": "中반도체 도전에…韓, 초격차 응전",
-      "url": "https://n.news.naver.com/mnews/article/009/0005725161"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001383346"
     },
     {
-      "title": "'베센트 풋'도 못 막은 美 국채금리…뒤에는 1000조 AI '쩐의 전쟁'",
-      "url": "https://n.news.naver.com/mnews/article/025/0003546379"
+      "title": "현대차, 2027 팰리세이드 출시…SUV 첫 '하이루프' 나왔다",
+      "url": "https://n.news.naver.com/mnews/article/215/0001263478"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6912.95,
+      "value": 6696.96,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 801.94,
+      "value": 813.33,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25980.19,
-      "change": -200.27,
-      "change_pct": -0.76
+      "value": 26151.3,
+      "change": 171.11,
+      "change_pct": 0.66
     },
     "usdkrw": {
-      "value": 1383.12,
-      "change": -7.67,
-      "change_pct": -0.55
+      "value": 1380.0,
+      "change": -4.98,
+      "change_pct": -0.36
     }
   },
   "gold": {
-    "price_usd": 4710.0,
-    "price_krw": 6514495,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4715.9,
+    "price_krw": 6507941,
+    "change": 75.1,
+    "change_pct": 1.62
   },
-  "updated": "2026-08-25 06:25",
+  "updated": "2026-08-26 06:25",
   "error": null
 }
