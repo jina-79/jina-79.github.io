@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "李정부 기초연금 개편안에 시민단체 반발…“줬다 뺏는 연금 해결해야”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003546669"
+      "title": "K뷰티·K푸드 열풍 타고…中企 140곳 美시장 공략",
+      "url": "https://n.news.naver.com/mnews/article/014/0005566708"
     },
     {
-      "title": "'맏형' 현대차 임금협상 잠정합의…기아, 오늘 오후 '파업' 여부 결정",
-      "url": "https://n.news.naver.com/mnews/article/003/0014145939"
-    },
-    {
-      "title": "\"이제 금겹살됐다고?\"…집에서 삼겹살 구워도 4만원대, 물가 12% 올라",
-      "url": "https://n.news.naver.com/mnews/article/277/0005807103"
-    },
-    {
-      "title": "에스원 \"AI 보안 혁신…야간·주말 학교 안전 챙긴다\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005324573"
-    },
-    {
-      "title": "용산공원, 내달 공개할 7만3000가구 택지서 빠져",
-      "url": "https://n.news.naver.com/mnews/article/023/0003994930"
-    },
-    {
-      "title": "“다른 지역 업체는 안돼”…폐기물 수거시장 빗장 풀린다 [Pick코노미]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004655160"
-    },
-    {
-      "title": "골드만 “中 첨단 반도체 공급 격차 10년 내 급감”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004655112"
-    },
-    {
-      "title": "\"단 25표 차이\" SK하이닉스 노조 '주식 성과급' 여론 왜 양분됐나",
-      "url": "https://n.news.naver.com/mnews/article/003/0014146280"
+      "title": "“적자 자회사를 왜 합병시키나”…주가 급락한 SK이노, 이유가 있습니다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005726357"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001383346"
+      "url": "https://n.news.naver.com/mnews/article/052/0002398610"
     },
     {
-      "title": "현대차, 2027 팰리세이드 출시…SUV 첫 '하이루프' 나왔다",
-      "url": "https://n.news.naver.com/mnews/article/215/0001263478"
+      "title": "용산공원 대신 탄천 1.3만가구 꺼낸 오세훈…김윤덕 \"자료 분석부터\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005807613"
+    },
+    {
+      "title": "7년 만에 가장 큰 아이 울음소리…상반기 14만6천명 출생",
+      "url": "https://n.news.naver.com/mnews/article/001/0016271575"
+    },
+    {
+      "title": "쿠팡, 공정위 현장조사 거부…“초법적 조사 최소” 소송에 법원 판단 ‘주목’[백브리핑]",
+      "url": "https://n.news.naver.com/mnews/article/021/0002814042"
+    },
+    {
+      "title": "종부세 세 부담 상한도 150%로 원복 수순… 누더기 된 세제개편안",
+      "url": "https://n.news.naver.com/mnews/article/469/0000950337"
+    },
+    {
+      "title": "SK바이오팜, 최대 1조1000억원 투자해 뇌전증 신약 도입",
+      "url": "https://n.news.naver.com/mnews/article/023/0003995015"
+    },
+    {
+      "title": "엔비디아 실적 발표 앞두고 하락…팔란티어, 2.9% 상승[뉴욕증시]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005567045"
+    },
+    {
+      "title": "재생에너지 2040년까지 6배로...‘전원 믹스’ 논의 본격화",
+      "url": "https://n.news.naver.com/mnews/article/032/0003466600"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6696.96,
+      "value": 6982.82,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 813.33,
+      "value": 831.04,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26151.3,
-      "change": 171.11,
-      "change_pct": 0.66
+      "value": 26130.2,
+      "change": -21.1,
+      "change_pct": -0.08
     },
     "usdkrw": {
-      "value": 1380.0,
-      "change": -4.98,
-      "change_pct": -0.36
+      "value": 1382.18,
+      "change": 0.69,
+      "change_pct": 0.05
     }
   },
   "gold": {
-    "price_usd": 4715.9,
-    "price_krw": 6507941,
-    "change": 75.1,
-    "change_pct": 1.62
+    "price_usd": 4669.6,
+    "price_krw": 6454227,
+    "change": 31.5,
+    "change_pct": 0.68
   },
-  "updated": "2026-08-26 06:25",
+  "updated": "2026-08-27 09:26",
   "error": null
 }
