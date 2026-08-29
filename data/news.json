@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "상반기 코스피 급등에 국민연금 수익률 27% 넘어…적립금 1800조 돌파",
-      "url": "https://n.news.naver.com/mnews/article/437/0000508325"
+      "title": "美 매체 “MBK, 中 네트워크 깊이 편입…고려아연 경영권 확보 막아야”",
+      "url": "https://n.news.naver.com/mnews/article/081/0003674646"
     },
     {
-      "title": "비틀스부터 스마트링까지…주말 팝업 풍성[위클리 쇼핑]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014155815"
+      "title": "中창신메모리, AI붐에 상반기 매출 10배↑…'깜짝 실적' 발표",
+      "url": "https://n.news.naver.com/mnews/article/374/0000530047"
     },
     {
-      "title": "현금 3000만원 장벽 통했지만…소 잃고 외양간 고친 레버리지, 과제는?",
-      "url": "https://n.news.naver.com/mnews/article/008/0005406028"
+      "title": "\"삼성전자 주가 끝난 거 아냐?\"...증권가가 아직도 \"사자\" 주장하는 이유",
+      "url": "https://n.news.naver.com/mnews/article/014/0005567988"
     },
     {
-      "title": "\"청년 희망월급 350만 원, 실제 230만 원\"…정부가 월급 갭 채운다",
-      "url": "https://n.news.naver.com/mnews/article/079/0004183608"
+      "title": "중국 창신메모리 '깜짝 실적'…삼전·하닉 주가 영향 주목",
+      "url": "https://n.news.naver.com/mnews/article/422/0000900710"
     },
     {
-      "title": "국민 10명 중 8명 “12차 전기본에 신규 원전 반영해야”…SMR 필요성도 87%",
-      "url": "https://n.news.naver.com/mnews/article/011/0004656304"
+      "title": "상처 난 ‘C급’ 샤넬백 압류품도 1101만원…한국인 ‘명품 사랑’ 못 말려",
+      "url": "https://n.news.naver.com/mnews/article/029/0003044915"
     },
     {
-      "title": "\"SK하이닉스가 7000개 일자리 만든대\"…인구 4.5만 美도시 ‘들썩’",
-      "url": "https://n.news.naver.com/mnews/article/018/0006359362"
+      "title": "박정원 두산그룹 회장, 사고현장 수색 구조지원위해 29일 네팔로 출국",
+      "url": "https://n.news.naver.com/mnews/article/658/0000153840"
     },
     {
-      "title": "잭슨홀 회의 연준 의장 연설 앞두고 보합세[뉴욕증시]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005567958"
+      "title": "어뮤즈, 미국 오프라인 시장 본격 공략…노드스트롬·타겟 입점",
+      "url": "https://n.news.naver.com/mnews/article/001/0016278244"
     },
     {
-      "title": "비만약 시장 정조준한 삼성바이오로직스…3조원 베팅 승부수",
-      "url": "https://n.news.naver.com/mnews/article/421/0009137540"
+      "title": "“틱톡·유튜브도 청소년 보호하라” 메타, 신문 광고 낸 사연은?",
+      "url": "https://n.news.naver.com/mnews/article/243/0000102331"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000529906"
+      "title": "워시 충격…블룸버그 “연말 비트코인·주식·금 동반 하락”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006360059"
     },
     {
-      "title": "소상공인 코로나 빚 탕감해준다…장기연체 6.3조 달해",
-      "url": "https://n.news.naver.com/mnews/article/020/0003744193"
+      "title": "한국 학습효과? 日 정부, 단일 종목 레버리지 ETF 판매 사실상 금지",
+      "url": "https://n.news.naver.com/mnews/article/023/0003995591"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6788.88,
+      "change": -123.49,
+      "change_pct": -1.79
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 838.41,
+      "change": 0.76,
+      "change_pct": 0.09
     },
     "nasdaq": {
       "value": 26402.42,
@@ -58,9 +58,9 @@
       "change_pct": -0.52
     },
     "usdkrw": {
-      "value": 1375.67,
-      "change": -7.82,
-      "change_pct": -0.57
+      "value": 1371.5,
+      "change": -8.95,
+      "change_pct": -0.65
     }
   },
   "gold": {
@@ -69,6 +69,6 @@
     "change": -105.6,
     "change_pct": -2.29
   },
-  "updated": "2026-08-29 12:04",
+  "updated": "2026-08-30 07:58",
   "error": null
 }
