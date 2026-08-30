@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "美 매체 “MBK, 中 네트워크 깊이 편입…고려아연 경영권 확보 막아야”",
-      "url": "https://n.news.naver.com/mnews/article/081/0003674646"
+      "title": "워시, '금리 인하' 압박 트럼프에 맞설까…시장은 '인상' 베팅",
+      "url": "https://n.news.naver.com/mnews/article/015/0005326247"
     },
     {
-      "title": "中창신메모리, AI붐에 상반기 매출 10배↑…'깜짝 실적' 발표",
-      "url": "https://n.news.naver.com/mnews/article/374/0000530047"
+      "title": "필수소비인 식비 부담, 저소득층이 고소득층보다 훨씬 높아",
+      "url": "https://n.news.naver.com/mnews/article/082/0001396003"
     },
     {
-      "title": "\"삼성전자 주가 끝난 거 아냐?\"...증권가가 아직도 \"사자\" 주장하는 이유",
-      "url": "https://n.news.naver.com/mnews/article/014/0005567988"
+      "title": "5대 은행 정기예금, 사상 첫 '1000조 돌파'…\"주식 대신 예금으로\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014156441"
     },
     {
-      "title": "중국 창신메모리 '깜짝 실적'…삼전·하닉 주가 영향 주목",
-      "url": "https://n.news.naver.com/mnews/article/422/0000900710"
+      "title": "‘삼전·닉스 2배 베팅’ 열풍 꺾였다…개미, 한달 새 1.7조 이탈 [마켓시그널]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004656503"
     },
     {
-      "title": "상처 난 ‘C급’ 샤넬백 압류품도 1101만원…한국인 ‘명품 사랑’ 못 말려",
-      "url": "https://n.news.naver.com/mnews/article/029/0003044915"
+      "title": "국토부, 23조 투입 전국 환승거점 65곳 만든다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005568296"
     },
     {
-      "title": "박정원 두산그룹 회장, 사고현장 수색 구조지원위해 29일 네팔로 출국",
-      "url": "https://n.news.naver.com/mnews/article/658/0000153840"
+      "title": "채권시장 '신중'…삼전 목표주가 주목하라? [백투백 인상]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003126899"
     },
     {
-      "title": "어뮤즈, 미국 오프라인 시장 본격 공략…노드스트롬·타겟 입점",
-      "url": "https://n.news.naver.com/mnews/article/001/0016278244"
+      "title": "삼성·SK하이닉스 상반기 법인세 11.2조원, 역대 두 번째",
+      "url": "https://n.news.naver.com/mnews/article/138/0002239469"
     },
     {
-      "title": "“틱톡·유튜브도 청소년 보호하라” 메타, 신문 광고 낸 사연은?",
-      "url": "https://n.news.naver.com/mnews/article/243/0000102331"
+      "title": "한국ESG기준원, 고려아연 감사에 박유경 후보 찬성 권고[마켓인]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006360337"
     },
     {
-      "title": "워시 충격…블룸버그 “연말 비트코인·주식·금 동반 하락”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006360059"
+      "title": "취업해도 불안하다…고용 한파에 소득 후퇴까지 겹친 2030",
+      "url": "https://n.news.naver.com/mnews/article/025/0003547678"
     },
     {
-      "title": "한국 학습효과? 日 정부, 단일 종목 레버리지 ETF 판매 사실상 금지",
-      "url": "https://n.news.naver.com/mnews/article/023/0003995591"
+      "title": "우주사관학교 [김태훈의 의미 또는 재미]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004154738"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.52
     },
     "usdkrw": {
-      "value": 1371.5,
-      "change": -8.95,
-      "change_pct": -0.65
+      "value": 1377.65,
+      "change": -2.8,
+      "change_pct": -0.2
     }
   },
   "gold": {
-    "price_usd": 4504.1,
-    "price_krw": 6196155,
-    "change": -105.6,
-    "change_pct": -2.29
+    "price_usd": 4510.4,
+    "price_krw": 6213752,
+    "change": 32.3,
+    "change_pct": 0.72
   },
-  "updated": "2026-08-30 07:58",
+  "updated": "2026-08-31 08:09",
   "error": null
 }
