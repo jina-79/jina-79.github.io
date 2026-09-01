@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "워시, '금리 인하' 압박 트럼프에 맞설까…시장은 '인상' 베팅",
-      "url": "https://n.news.naver.com/mnews/article/015/0005326247"
+      "title": "메타플래닛 CEO \"비트코인 이미 바닥, 亞자본이 향후 랠리 주도\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006361263"
     },
     {
-      "title": "필수소비인 식비 부담, 저소득층이 고소득층보다 훨씬 높아",
-      "url": "https://n.news.naver.com/mnews/article/082/0001396003"
+      "title": "SK온, 美 네오볼타 파워와 9GWh 배터리 셀 공급계약…1.5조원 규모",
+      "url": "https://n.news.naver.com/mnews/article/014/0005568413"
     },
     {
-      "title": "5대 은행 정기예금, 사상 첫 '1000조 돌파'…\"주식 대신 예금으로\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014156441"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000901416"
     },
     {
-      "title": "‘삼전·닉스 2배 베팅’ 열풍 꺾였다…개미, 한달 새 1.7조 이탈 [마켓시그널]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004656503"
+      "title": "내년 韓 가상자산 과세대상 15조 육박",
+      "url": "https://n.news.naver.com/mnews/article/009/0005728271"
     },
     {
-      "title": "국토부, 23조 투입 전국 환승거점 65곳 만든다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005568296"
+      "title": "166만명 개인정보 유출한 GS리테일, 128억원 과징금 제재",
+      "url": "https://n.news.naver.com/mnews/article/014/0005568599"
     },
     {
-      "title": "채권시장 '신중'…삼전 목표주가 주목하라? [백투백 인상]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003126899"
+      "title": "2028년 상반기까지 전국 42.5만가구 입주…서울 4만9668가구",
+      "url": "https://n.news.naver.com/mnews/article/421/0009141937"
     },
     {
-      "title": "삼성·SK하이닉스 상반기 법인세 11.2조원, 역대 두 번째",
-      "url": "https://n.news.naver.com/mnews/article/138/0002239469"
+      "title": "홈플러스 “재개장 18일간 매출 1164억원…전월比 57% 늘어”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002690727"
     },
     {
-      "title": "한국ESG기준원, 고려아연 감사에 박유경 후보 찬성 권고[마켓인]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006360337"
+      "title": "LG전자, 샌프란시스코서 해외인재 확보전",
+      "url": "https://n.news.naver.com/mnews/article/025/0003548088"
     },
     {
-      "title": "취업해도 불안하다…고용 한파에 소득 후퇴까지 겹친 2030",
-      "url": "https://n.news.naver.com/mnews/article/025/0003547678"
+      "title": "홍지선 “지자체 근무 경험 살려 서울시와 충분한 공급 협의”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005727971"
     },
     {
-      "title": "우주사관학교 [김태훈의 의미 또는 재미]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004154738"
+      "title": "\"45만전자 간다\"…목표가 12.5% 올린 배경엔 HBM4",
+      "url": "https://n.news.naver.com/mnews/article/018/0006360662"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6788.88,
-      "change": -123.49,
-      "change_pct": -1.79
+      "value": 6759.3,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 838.41,
-      "change": 0.76,
-      "change_pct": 0.09
+      "value": 829.35,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26402.42,
-      "change": -138.93,
-      "change_pct": -0.52
+      "value": 26370.89,
+      "change": -31.53,
+      "change_pct": -0.12
     },
     "usdkrw": {
-      "value": 1377.65,
-      "change": -2.8,
-      "change_pct": -0.2
+      "value": 1364.98,
+      "change": 0.0,
+      "change_pct": 0.0
     }
   },
   "gold": {
-    "price_usd": 4510.4,
-    "price_krw": 6213752,
-    "change": 32.3,
-    "change_pct": 0.72
+    "price_usd": 4502.0,
+    "price_krw": 6145139,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-31 08:09",
+  "updated": "2026-09-01 09:22",
   "error": null
 }
