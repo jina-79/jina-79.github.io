@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "메타플래닛 CEO \"비트코인 이미 바닥, 亞자본이 향후 랠리 주도\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006361263"
-    },
-    {
-      "title": "SK온, 美 네오볼타 파워와 9GWh 배터리 셀 공급계약…1.5조원 규모",
-      "url": "https://n.news.naver.com/mnews/article/014/0005568413"
-    },
-    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000901416"
+      "url": "https://n.news.naver.com/mnews/article/422/0000901472"
     },
     {
-      "title": "내년 韓 가상자산 과세대상 15조 육박",
-      "url": "https://n.news.naver.com/mnews/article/009/0005728271"
+      "title": "삼성전기, 美 빅테크와 MLCC 1조 계약",
+      "url": "https://n.news.naver.com/mnews/article/015/0005327329"
     },
     {
-      "title": "166만명 개인정보 유출한 GS리테일, 128억원 과징금 제재",
-      "url": "https://n.news.naver.com/mnews/article/014/0005568599"
+      "title": "글로벌 21개 은행 컨소시엄, 내년 달러 스테이블 코인 발행...골드만삭스·BofA 등 참여",
+      "url": "https://n.news.naver.com/mnews/article/052/0002401514"
     },
     {
-      "title": "2028년 상반기까지 전국 42.5만가구 입주…서울 4만9668가구",
-      "url": "https://n.news.naver.com/mnews/article/421/0009141937"
+      "title": "고려아연 \"사실 왜곡·업무방해\"…영풍·MBK 고소",
+      "url": "https://n.news.naver.com/mnews/article/050/0000110354"
     },
     {
-      "title": "홈플러스 “재개장 18일간 매출 1164억원…전월比 57% 늘어”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002690727"
+      "title": "치폴레, 아시아 최초 한국 상륙…'강남점' 2일 오픈",
+      "url": "https://n.news.naver.com/mnews/article/448/0000636812"
     },
     {
-      "title": "LG전자, 샌프란시스코서 해외인재 확보전",
-      "url": "https://n.news.naver.com/mnews/article/025/0003548088"
+      "title": "중동 긴장·유가 급등에 채권 매도세까지…뉴욕증시 일제히 하락",
+      "url": "https://n.news.naver.com/mnews/article/056/0012249145"
     },
     {
-      "title": "홍지선 “지자체 근무 경험 살려 서울시와 충분한 공급 협의”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005727971"
+      "title": "CES는 알고 IFA는 몰라? 하나만 알고 둘을 모르면 안되는 이유",
+      "url": "https://n.news.naver.com/mnews/article/079/0004184934"
     },
     {
-      "title": "\"45만전자 간다\"…목표가 12.5% 올린 배경엔 HBM4",
-      "url": "https://n.news.naver.com/mnews/article/018/0006360662"
+      "title": "'9억 축소 철회·150% 상한 유지' 등 세법 개정 정부안 확정…주가누르기는 빠져",
+      "url": "https://n.news.naver.com/mnews/article/277/0005810307"
+    },
+    {
+      "title": "공정위 '빈손 철수' 일주일 만에 쿠팡 현장조사…가처분 심문 하루 전 10년 치 자료 요구(종합)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005810336"
+    },
+    {
+      "title": "3·4인 가족 맞춤 공간으로 채운 GS건설 '목동윤슬자이'[르포]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005810209"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6759.3,
+      "value": 6820.02,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 829.35,
+      "value": 834.29,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26370.89,
-      "change": -31.53,
-      "change_pct": -0.12
+      "value": 26099.77,
+      "change": -271.12,
+      "change_pct": -1.03
     },
     "usdkrw": {
-      "value": 1364.98,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 1374.35,
+      "change": 7.73,
+      "change_pct": 0.57
     }
   },
   "gold": {
-    "price_usd": 4502.0,
-    "price_krw": 6145139,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4374.2,
+    "price_krw": 6011682,
+    "change": -56.9,
+    "change_pct": -1.28
   },
-  "updated": "2026-09-01 09:22",
+  "updated": "2026-09-02 08:00",
   "error": null
 }
