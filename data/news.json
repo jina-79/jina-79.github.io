@@ -1,74 +1,74 @@
 {
   "news": [
     {
+      "title": "호주서 ‘민간 자원외교관’ 변신한 포스코 장인화",
+      "url": "https://n.news.naver.com/mnews/article/021/0002815758"
+    },
+    {
+      "title": "공항 리뉴얼의 힘 '스히폴공항에 가다'...16조원 투자한다는데",
+      "url": "https://n.news.naver.com/mnews/article/015/0005328152"
+    },
+    {
+      "title": "해진공, CJ대한통운과 북미 물류망 구축…시카고 물류센터 가동",
+      "url": "https://n.news.naver.com/mnews/article/119/0003128249"
+    },
+    {
+      "title": "지난달 소비자물가 3.1% 올라 두달만에 3%대로 반등",
+      "url": "https://n.news.naver.com/mnews/article/020/0003745359"
+    },
+    {
+      "title": "글로벌 채권금리 동시다발 최고치...10년물 미국채 금리 4.8%",
+      "url": "https://n.news.naver.com/mnews/article/029/0003045687"
+    },
+    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000901472"
+      "url": "https://n.news.naver.com/mnews/article/422/0000902144"
     },
     {
-      "title": "삼성전기, 美 빅테크와 MLCC 1조 계약",
-      "url": "https://n.news.naver.com/mnews/article/015/0005327329"
+      "title": "금융당국, 금양에 감사인지정 3년 조치…대표이사 검찰고발",
+      "url": "https://n.news.naver.com/mnews/article/018/0006362586"
     },
     {
-      "title": "글로벌 21개 은행 컨소시엄, 내년 달러 스테이블 코인 발행...골드만삭스·BofA 등 참여",
-      "url": "https://n.news.naver.com/mnews/article/052/0002401514"
+      "title": "신용점수 낮아도 ‘성장가능성’ 높으면 대출…소상공인 은행 문턱 낮춘다",
+      "url": "https://n.news.naver.com/mnews/article/032/0003468160"
     },
     {
-      "title": "고려아연 \"사실 왜곡·업무방해\"…영풍·MBK 고소",
-      "url": "https://n.news.naver.com/mnews/article/050/0000110354"
+      "title": "알테오젠, 노바티스와 피하주사 개발 계약…최대 4.4조 규모",
+      "url": "https://n.news.naver.com/mnews/article/421/0009146567"
     },
     {
-      "title": "치폴레, 아시아 최초 한국 상륙…'강남점' 2일 오픈",
-      "url": "https://n.news.naver.com/mnews/article/448/0000636812"
-    },
-    {
-      "title": "중동 긴장·유가 급등에 채권 매도세까지…뉴욕증시 일제히 하락",
-      "url": "https://n.news.naver.com/mnews/article/056/0012249145"
-    },
-    {
-      "title": "CES는 알고 IFA는 몰라? 하나만 알고 둘을 모르면 안되는 이유",
-      "url": "https://n.news.naver.com/mnews/article/079/0004184934"
-    },
-    {
-      "title": "'9억 축소 철회·150% 상한 유지' 등 세법 개정 정부안 확정…주가누르기는 빠져",
-      "url": "https://n.news.naver.com/mnews/article/277/0005810307"
-    },
-    {
-      "title": "공정위 '빈손 철수' 일주일 만에 쿠팡 현장조사…가처분 심문 하루 전 10년 치 자료 요구(종합)",
-      "url": "https://n.news.naver.com/mnews/article/277/0005810336"
-    },
-    {
-      "title": "3·4인 가족 맞춤 공간으로 채운 GS건설 '목동윤슬자이'[르포]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005810209"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012249820"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6820.02,
+      "value": 6835.8,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 834.29,
+      "value": 821.25,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26099.77,
-      "change": -271.12,
-      "change_pct": -1.03
+      "value": 26217.83,
+      "change": 118.06,
+      "change_pct": 0.45
     },
     "usdkrw": {
-      "value": 1374.35,
-      "change": 7.73,
-      "change_pct": 0.57
+      "value": 1372.86,
+      "change": 6.24,
+      "change_pct": 0.46
     }
   },
   "gold": {
-    "price_usd": 4374.2,
-    "price_krw": 6011682,
-    "change": -56.9,
-    "change_pct": -1.28
+    "price_usd": 4430.1,
+    "price_krw": 6081907,
+    "change": 82.1,
+    "change_pct": 1.89
   },
-  "updated": "2026-09-02 08:00",
+  "updated": "2026-09-03 07:58",
   "error": null
 }
