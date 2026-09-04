@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "'메뚜기 입찰'한 산불카르텔 업체들 수백억 탈루혐의 조사",
-      "url": "https://n.news.naver.com/mnews/article/079/0004185605"
+      "title": "불꽃축제 보며 치맥? 배달은 '불가'…배달앱 멈춘다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005328776"
     },
     {
-      "title": "보험 ‘불완전 판매 0’…생보협, 최우수 설계사 1000명 선정",
-      "url": "https://n.news.naver.com/mnews/article/032/0003468375"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000509533"
     },
     {
-      "title": "금융노조, 오늘 광화문서 '국책은행 지방이전 저지' 총파업 집회",
-      "url": "https://n.news.naver.com/mnews/article/055/0001385817"
+      "title": "에이피알, 메디큐브 '수단레드' 의혹에…\"국내 공인시험기관서도 불검출\"",
+      "url": "https://n.news.naver.com/mnews/article/629/0000530949"
     },
     {
-      "title": "LH 2개 기관 분리안 발표에…노조 \"일방적·졸속·밀실 개혁\" 반발",
-      "url": "https://n.news.naver.com/mnews/article/421/0009148834"
+      "title": "\"석유·가스 통합본사 최적지 울산\"…울산시, 에너지자원공사 유치 도전",
+      "url": "https://n.news.naver.com/mnews/article/421/0009151150"
     },
     {
-      "title": "\"이번 주말부터 낮에 충전하면 최대 50% 할인\" 기후부, 전기차 충전료 할인",
-      "url": "https://n.news.naver.com/mnews/article/656/0000185802"
+      "title": "코스피·코스닥 '상폐 기준' 강화 6개월 미룬다…내년 7월부터",
+      "url": "https://n.news.naver.com/mnews/article/469/0000952119"
     },
     {
-      "title": "현대모비스, 슬로바키아 신공장 본격 가동",
-      "url": "https://n.news.naver.com/mnews/article/032/0003468374"
+      "title": "첫 등판 샤오미, 독자 칩·접는 폰 앞세워 ‘2027년 유럽 전기차 진출’ 공식 선언[IFA 2026]",
+      "url": "https://n.news.naver.com/mnews/article/138/0002240149"
     },
     {
-      "title": "경쟁하라며 쪼갠 발전 5사…25년 만에 다시 합친다",
-      "url": "https://n.news.naver.com/mnews/article/079/0004185754"
+      "title": "LG전자, 에너지 절감에 공간 효율까지 잡는다…유럽시장 공략[IFA 2026][현장]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014168898"
     },
     {
-      "title": "\"의미 없는 베껴 쓰기 이제 그만하세요\"...금감원, 투자상품 가입절차 간소화 추진",
-      "url": "https://n.news.naver.com/mnews/article/014/0005570700"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012251241"
     },
     {
-      "title": "LH 개발-주거복지 기능 쪼갠다…인천·지방공항 통합은 '유보'",
-      "url": "https://n.news.naver.com/mnews/article/003/0014166600"
+      "title": "7월 경상수지 421억弗… 韓銀 \"中이어 세계 2위\"",
+      "url": "https://n.news.naver.com/mnews/article/009/0005730685"
     },
     {
-      "title": "LG전자, IFA 2026서 확장된 AI홈 생태계 선봬",
-      "url": "https://n.news.naver.com/mnews/article/082/0001396704"
+      "title": "“떨어지는 칼날을 잡지 말라”…재정 불안에 외면받는 日국채",
+      "url": "https://n.news.naver.com/mnews/article/011/0004658465"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6562.72,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 803.98,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26584.06,
-      "change": 366.23,
-      "change_pct": 1.4
+      "value": 26506.99,
+      "change": -77.07,
+      "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1358.39,
-      "change": -14.47,
-      "change_pct": -1.05
+      "value": 1345.99,
+      "change": -12.4,
+      "change_pct": -0.91
     }
   },
   "gold": {
-    "price_usd": 4520.1,
-    "price_krw": 6140058,
-    "change": 153.8,
-    "change_pct": 3.52
+    "price_usd": 4477.2,
+    "price_krw": 6026266,
+    "change": -14.5,
+    "change_pct": -0.32
   },
-  "updated": "2026-09-04 07:58",
+  "updated": "2026-09-05 07:46",
   "error": null
 }
