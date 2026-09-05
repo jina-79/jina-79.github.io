@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "불꽃축제 보며 치맥? 배달은 '불가'…배달앱 멈춘다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005328776"
+      "title": "정용진, 美 ‘파운드리 스쿨’ 출범식 참석",
+      "url": "https://n.news.naver.com/mnews/article/020/0003745915"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000509533"
+      "title": "LG전자 “AI홈 에이전트 ‘씽큐 클로’ 연내 출시”…커머스·구독도 검토",
+      "url": "https://n.news.naver.com/mnews/article/018/0006364078"
     },
     {
-      "title": "에이피알, 메디큐브 '수단레드' 의혹에…\"국내 공인시험기관서도 불검출\"",
-      "url": "https://n.news.naver.com/mnews/article/629/0000530949"
+      "title": "\"미대륙 사탕수수밭이 K철강 생산거점으로\" 현대-포스코 美제철소 부지 미리 가보니[르포]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014171540"
     },
     {
-      "title": "\"석유·가스 통합본사 최적지 울산\"…울산시, 에너지자원공사 유치 도전",
-      "url": "https://n.news.naver.com/mnews/article/421/0009151150"
+      "title": "\"100만명 위해 130억원 투입\"…20년 넘게 축제 여는 한화",
+      "url": "https://n.news.naver.com/mnews/article/448/0000637641"
     },
     {
-      "title": "코스피·코스닥 '상폐 기준' 강화 6개월 미룬다…내년 7월부터",
-      "url": "https://n.news.naver.com/mnews/article/469/0000952119"
+      "title": "LG전자, IFA 최고 브랜드상…올레드TV·오디오도 최우수상",
+      "url": "https://n.news.naver.com/mnews/article/018/0006363969"
     },
     {
-      "title": "첫 등판 샤오미, 독자 칩·접는 폰 앞세워 ‘2027년 유럽 전기차 진출’ 공식 선언[IFA 2026]",
-      "url": "https://n.news.naver.com/mnews/article/138/0002240149"
+      "title": "\"고맙다 반도체\"  9월 초 누적수출액 7094억달러…작년 실적 넘었다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005571396"
     },
     {
-      "title": "LG전자, 에너지 절감에 공간 효율까지 잡는다…유럽시장 공략[IFA 2026][현장]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014168898"
+      "title": "주유소 기름값 16주째 하락…휘발유 1천860원·경유 1천845원",
+      "url": "https://n.news.naver.com/mnews/article/001/0016291390"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012251241"
+      "title": "TV보다 로봇이 눈에 띄었다…베를린 휩쓴 中 피지컬 AI[IFA 2026]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003129308"
     },
     {
-      "title": "7월 경상수지 421억弗… 韓銀 \"中이어 세계 2위\"",
-      "url": "https://n.news.naver.com/mnews/article/009/0005730685"
+      "title": "삼전 DX노조, 이재용 회장 자택 앞 집회 예고…\"보상 격차 해소\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000903028"
     },
     {
-      "title": "“떨어지는 칼날을 잡지 말라”…재정 불안에 외면받는 日국채",
-      "url": "https://n.news.naver.com/mnews/article/011/0004658465"
+      "title": "AI 열풍으로 전 세계 ‘1조원 부자’ 3795명",
+      "url": "https://n.news.naver.com/mnews/article/005/0001871054"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6687.21,
+      "change": 107.73,
+      "change_pct": 1.64
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 813.5,
+      "change": 23.29,
+      "change_pct": 2.95
     },
     "nasdaq": {
       "value": 26506.99,
@@ -58,17 +58,17 @@
       "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1345.99,
-      "change": -12.4,
-      "change_pct": -0.91
+      "value": 1351.1,
+      "change": -4.31,
+      "change_pct": -0.32
     }
   },
   "gold": {
-    "price_usd": 4477.2,
-    "price_krw": 6026266,
-    "change": -14.5,
-    "change_pct": -0.32
+    "price_usd": 4429.8,
+    "price_krw": 5985102,
+    "change": -61.9,
+    "change_pct": -1.38
   },
-  "updated": "2026-09-05 07:46",
+  "updated": "2026-09-06 07:38",
   "error": null
 }
