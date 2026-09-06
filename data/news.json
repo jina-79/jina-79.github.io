@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "정용진, 美 ‘파운드리 스쿨’ 출범식 참석",
-      "url": "https://n.news.naver.com/mnews/article/020/0003745915"
+      "title": "사망신고 다음 날부터 고인 명의 금융거래 막는다…11일부터 전 금융권 시행",
+      "url": "https://n.news.naver.com/mnews/article/009/0005730942"
     },
     {
-      "title": "LG전자 “AI홈 에이전트 ‘씽큐 클로’ 연내 출시”…커머스·구독도 검토",
-      "url": "https://n.news.naver.com/mnews/article/018/0006364078"
+      "title": "벌써 작년 '7000억 달러' 기록 넘은 수출, '1조 달러' 성큼",
+      "url": "https://n.news.naver.com/mnews/article/469/0000952369"
     },
     {
-      "title": "\"미대륙 사탕수수밭이 K철강 생산거점으로\" 현대-포스코 美제철소 부지 미리 가보니[르포]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014171540"
+      "title": "이대로 가면 관악·노원·중랑도 종부세 낸다",
+      "url": "https://n.news.naver.com/mnews/article/005/0001871168"
     },
     {
-      "title": "\"100만명 위해 130억원 투입\"…20년 넘게 축제 여는 한화",
-      "url": "https://n.news.naver.com/mnews/article/448/0000637641"
+      "title": "\"야구장 포장·배달 1위는 물회·육회\"…대표 메뉴 치킨은 3위로",
+      "url": "https://n.news.naver.com/mnews/article/422/0000903239"
     },
     {
-      "title": "LG전자, IFA 최고 브랜드상…올레드TV·오디오도 최우수상",
-      "url": "https://n.news.naver.com/mnews/article/018/0006363969"
+      "title": "AI 데이터센터 구축 빨라진다…LG유플러스, PMDC 표준모델 개발",
+      "url": "https://n.news.naver.com/mnews/article/119/0003129497"
     },
     {
-      "title": "\"고맙다 반도체\"  9월 초 누적수출액 7094억달러…작년 실적 넘었다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005571396"
+      "title": "2030년 적자성 채무 1312조 원, 나랏빚 이자 53조 원",
+      "url": "https://n.news.naver.com/mnews/article/421/0009153212"
     },
     {
-      "title": "주유소 기름값 16주째 하락…휘발유 1천860원·경유 1천845원",
-      "url": "https://n.news.naver.com/mnews/article/001/0016291390"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002403199"
     },
     {
-      "title": "TV보다 로봇이 눈에 띄었다…베를린 휩쓴 中 피지컬 AI[IFA 2026]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003129308"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012251696"
     },
     {
-      "title": "삼전 DX노조, 이재용 회장 자택 앞 집회 예고…\"보상 격차 해소\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000903028"
+      "title": "삼성 약진에 中 CXMT 진출… HBM시장 요동",
+      "url": "https://n.news.naver.com/mnews/article/022/0004156862"
     },
     {
-      "title": "AI 열풍으로 전 세계 ‘1조원 부자’ 3795명",
-      "url": "https://n.news.naver.com/mnews/article/005/0001871054"
+      "title": "‘원화 가치’ 가파른 상승에 달러·엔 ‘예금도 환전도’ 최대치",
+      "url": "https://n.news.naver.com/mnews/article/028/0002821810"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1351.1,
-      "change": -4.31,
-      "change_pct": -0.32
+      "value": 1345.45,
+      "change": -9.96,
+      "change_pct": -0.73
     }
   },
   "gold": {
-    "price_usd": 4429.8,
-    "price_krw": 5985102,
-    "change": -61.9,
-    "change_pct": -1.38
+    "price_usd": 4476.6,
+    "price_krw": 6023041,
+    "change": 46.8,
+    "change_pct": 1.06
   },
-  "updated": "2026-09-06 07:38",
+  "updated": "2026-09-07 07:41",
   "error": null
 }
