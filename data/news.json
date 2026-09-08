@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "5세 이하 '꼬마 건물주' 179명…갓난아기도 임대소득 신고",
-      "url": "https://n.news.naver.com/mnews/article/421/0009154407"
+      "title": "주담대 막차 타는 토스뱅크…규제 속 대출 여력 관건",
+      "url": "https://n.news.naver.com/mnews/article/119/0003130519"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000509955"
+      "title": "유가 100달러 눈앞…연휴 끝낸 월가, '인플레 공포' 안고 문 연다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006365863"
     },
     {
-      "title": "'수도권 주택 공급' 위해 비축 공공토지 매입 공모한다...5000억원 규모",
-      "url": "https://n.news.naver.com/mnews/article/014/0005572388"
+      "title": "“국민소득 4만달러 유력”…돌파 땐 인구 5000만 이상 국가 중 6번째",
+      "url": "https://n.news.naver.com/mnews/article/025/0003550038"
     },
     {
-      "title": "서경배 회장 “새로운 아름다움 제시하자”",
-      "url": "https://n.news.naver.com/mnews/article/022/0004157208"
+      "title": "포스코 노조 창사 이래 첫 부분파업 시작…150명 참여 전망",
+      "url": "https://n.news.naver.com/mnews/article/079/0004187333"
     },
     {
-      "title": "삼성, 하반기 공채 돌입…반도체·AI 인재 확보",
-      "url": "https://n.news.naver.com/mnews/article/092/0002436464"
+      "title": "“우리도 순천만처럼…” 수백억 국가정원 경쟁 [심층기획-지차체는 ‘국가정원’ 경쟁]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004157535"
     },
     {
-      "title": "\"1시간 이내 배송합니다\"…롯데슈퍼, 쿠팡이츠 손잡고 퀵커머스 도전장",
-      "url": "https://n.news.naver.com/mnews/article/008/0005410177"
+      "title": "'영끌족' 버티기 한계?…주담대 연체 3년반 만에 2.2배로",
+      "url": "https://n.news.naver.com/mnews/article/055/0001386564"
     },
     {
-      "title": "스포츠 용품 대표 기업이었는데…고점서 78% 하락한 나이키 주가",
-      "url": "https://n.news.naver.com/mnews/article/009/0005731761"
+      "title": "SK하이닉스, 2028년 D램 공정에 High NA EUV 적용",
+      "url": "https://n.news.naver.com/mnews/article/014/0005572894"
     },
     {
-      "title": "현대위아, 완전 무인지게차 국내 첫 공급…“내년 기아 화성 오토랜드 투입”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005731538"
+      "title": "6억 성과급 받는데, 주거비 챙기려 서류까지 위조?…삼전 직원들 부정수급 논란",
+      "url": "https://n.news.naver.com/mnews/article/009/0005732238"
     },
     {
-      "title": "\"반도체 공급난 심화...1만2000피 간다\" 철석같은 골드만",
-      "url": "https://n.news.naver.com/mnews/article/008/0005410493"
+      "title": "이성훈 LH 사장 “3년간 서울 매입임대 2만가구 공급… 부천대장지구급”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001191107"
     },
     {
-      "title": "“당신, 이자 밀리면 가족까지 위험한 거 알지?”…‘영끌 가구’ 부실전이 확률 2배",
-      "url": "https://n.news.naver.com/mnews/article/009/0005731436"
+      "title": "최태원, 한·일 경제 공동체 또 강조… “하나로 뭉치면 세계 4위 경제권”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001191078"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6687.21,
+      "value": 6995.39,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 813.5,
+      "value": 822.19,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26506.99,
-      "change": -77.07,
-      "change_pct": -0.29
+      "value": 26421.41,
+      "change": -85.58,
+      "change_pct": -0.32
     },
     "usdkrw": {
-      "value": 1344.78,
-      "change": -0.28,
-      "change_pct": -0.02
+      "value": 1340.56,
+      "change": -3.01,
+      "change_pct": -0.22
     }
   },
   "gold": {
-    "price_usd": 4456.9,
-    "price_krw": 5993549,
-    "change": 27.1,
-    "change_pct": 0.61
+    "price_usd": 4397.5,
+    "price_krw": 5895112,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-08 08:16",
+  "updated": "2026-09-09 08:11",
   "error": null
 }
