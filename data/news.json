@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "주담대 막차 타는 토스뱅크…규제 속 대출 여력 관건",
-      "url": "https://n.news.naver.com/mnews/article/119/0003130519"
+      "title": "조정식 국회의장 최태원 SK회장 맞손, 경제대도약 힘 합친다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005411317"
     },
     {
-      "title": "유가 100달러 눈앞…연휴 끝낸 월가, '인플레 공포' 안고 문 연다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006365863"
+      "title": "기아 첫 PBV 'PV5' 올해 글로벌 4만대 판매…\"맞춤형 라인업 통했다\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014178311"
     },
     {
-      "title": "“국민소득 4만달러 유력”…돌파 땐 인구 5000만 이상 국가 중 6번째",
-      "url": "https://n.news.naver.com/mnews/article/025/0003550038"
+      "title": "삼성전자 초기업노조, 반도체 노조로 전환 추진…내달 6일 총회",
+      "url": "https://n.news.naver.com/mnews/article/001/0016298808"
     },
     {
-      "title": "포스코 노조 창사 이래 첫 부분파업 시작…150명 참여 전망",
-      "url": "https://n.news.naver.com/mnews/article/079/0004187333"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002404722"
     },
     {
-      "title": "“우리도 순천만처럼…” 수백억 국가정원 경쟁 [심층기획-지차체는 ‘국가정원’ 경쟁]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004157535"
+      "title": "미래에셋 \"9월부터 퇴직연금서 개인투자용 국채 투자 가능\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005814056"
     },
     {
-      "title": "'영끌족' 버티기 한계?…주담대 연체 3년반 만에 2.2배로",
-      "url": "https://n.news.naver.com/mnews/article/055/0001386564"
+      "title": "뉴욕증시, 유가 급등·美 국채금리 상승에 사흘째 하락 마감",
+      "url": "https://n.news.naver.com/mnews/article/366/0001191430"
     },
     {
-      "title": "SK하이닉스, 2028년 D램 공정에 High NA EUV 적용",
-      "url": "https://n.news.naver.com/mnews/article/014/0005572894"
+      "title": "포스코 노조 48시간 부분 파업 돌입… 창사 58년 만에 처음",
+      "url": "https://n.news.naver.com/mnews/article/469/0000952957"
     },
     {
-      "title": "6억 성과급 받는데, 주거비 챙기려 서류까지 위조?…삼전 직원들 부정수급 논란",
-      "url": "https://n.news.naver.com/mnews/article/009/0005732238"
+      "title": "삼성증권 '발행어음' 인가 획득⋯8개 종투사 경쟁구도 완성",
+      "url": "https://n.news.naver.com/mnews/article/031/0001056898"
     },
     {
-      "title": "이성훈 LH 사장 “3년간 서울 매입임대 2만가구 공급… 부천대장지구급”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001191107"
+      "title": "서서히 드러나는 ‘반도체 달러’의 위력…원화값 1300원이 보인다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003550216"
     },
     {
-      "title": "최태원, 한·일 경제 공동체 또 강조… “하나로 뭉치면 세계 4위 경제권”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001191078"
+      "title": "\"악~ 로봇이 사람같이 움직여\" 벡스코 전시장엔 스마트도시가…[르포]",
+      "url": "https://n.news.naver.com/mnews/article/008/0005411549"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6995.39,
+      "value": 6954.52,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 822.19,
+      "value": 811.88,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26421.41,
-      "change": -85.58,
-      "change_pct": -0.32
+      "value": 26253.34,
+      "change": -168.07,
+      "change_pct": -0.64
     },
     "usdkrw": {
-      "value": 1340.56,
-      "change": -3.01,
-      "change_pct": -0.22
+      "value": 1339.41,
+      "change": -4.16,
+      "change_pct": -0.31
     }
   },
   "gold": {
-    "price_usd": 4397.5,
-    "price_krw": 5895112,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4445.8,
+    "price_krw": 5954748,
+    "change": 51.9,
+    "change_pct": 1.18
   },
-  "updated": "2026-09-09 08:11",
+  "updated": "2026-09-10 07:55",
   "error": null
 }
