@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "조정식 국회의장 최태원 SK회장 맞손, 경제대도약 힘 합친다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005411317"
+      "title": "SK하이닉스 노사, 성과급 현금 50%·주식 50%로 조정..주택대출 대상도 확대",
+      "url": "https://n.news.naver.com/mnews/article/014/0005573824"
     },
     {
-      "title": "기아 첫 PBV 'PV5' 올해 글로벌 4만대 판매…\"맞춤형 라인업 통했다\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014178311"
+      "title": "신동빈 회장 “AI로 ‘롯데다움’ 브랜드 가치 키울 것”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003550470"
     },
     {
-      "title": "삼성전자 초기업노조, 반도체 노조로 전환 추진…내달 6일 총회",
-      "url": "https://n.news.naver.com/mnews/article/001/0016298808"
+      "title": "홈쇼핑 12곳 모두 방미통위 재승인…현대홈쇼핑 평가점수 1위",
+      "url": "https://n.news.naver.com/mnews/article/009/0005733365"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002404722"
+      "title": "[속보]바이백 확대에도 금리 ↑…유가도 오르며 뉴욕증시 하락 마감",
+      "url": "https://n.news.naver.com/mnews/article/277/0005814234"
     },
     {
-      "title": "미래에셋 \"9월부터 퇴직연금서 개인투자용 국채 투자 가능\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005814056"
+      "title": "한은 \"기업이익 늘고 명목임금 상승..주택 매입 수요 증대시킬 것\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005573898"
     },
     {
-      "title": "뉴욕증시, 유가 급등·美 국채금리 상승에 사흘째 하락 마감",
-      "url": "https://n.news.naver.com/mnews/article/366/0001191430"
+      "title": "우후죽순 짓던 지식산업센터…정부 '공급 브레이크' 건다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005331009"
     },
     {
-      "title": "포스코 노조 48시간 부분 파업 돌입… 창사 58년 만에 처음",
-      "url": "https://n.news.naver.com/mnews/article/469/0000952957"
+      "title": "신한·하나·우리·농협 예금금리 속속 인상…3%대 중반으로(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009163066"
     },
     {
-      "title": "삼성증권 '발행어음' 인가 획득⋯8개 종투사 경쟁구도 완성",
-      "url": "https://n.news.naver.com/mnews/article/031/0001056898"
+      "title": "삼성바이오로직스, 유럽 제약사와 3508억원 규모 신규 위탁생산 계약",
+      "url": "https://n.news.naver.com/mnews/article/029/0003047375"
     },
     {
-      "title": "서서히 드러나는 ‘반도체 달러’의 위력…원화값 1300원이 보인다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003550216"
+      "title": "약국부터 K뷰티 1만여 개 상품까지 한자리에…‘무신사 뷰티 홍대’ 개관",
+      "url": "https://n.news.naver.com/mnews/article/009/0005733351"
     },
     {
-      "title": "\"악~ 로봇이 사람같이 움직여\" 벡스코 전시장엔 스마트도시가…[르포]",
-      "url": "https://n.news.naver.com/mnews/article/008/0005411549"
+      "title": "삼전닉스 레버리지 58% 증발…한은 \"변동성 다시 커질 수 있다\"",
+      "url": "https://n.news.naver.com/mnews/article/629/0000532667"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6954.52,
+      "value": 7051.64,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 811.88,
+      "value": 830.37,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26253.34,
-      "change": -168.07,
-      "change_pct": -0.64
+      "value": 26081.72,
+      "change": -171.62,
+      "change_pct": -0.65
     },
     "usdkrw": {
-      "value": 1339.41,
-      "change": -4.16,
-      "change_pct": -0.31
+      "value": 1349.17,
+      "change": 9.96,
+      "change_pct": 0.74
     }
   },
   "gold": {
-    "price_usd": 4445.8,
-    "price_krw": 5954748,
-    "change": 51.9,
-    "change_pct": 1.18
+    "price_usd": 4356.2,
+    "price_krw": 5877254,
+    "change": -59.8,
+    "change_pct": -1.35
   },
-  "updated": "2026-09-10 07:55",
+  "updated": "2026-09-11 07:56",
   "error": null
 }
