@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "SK하이닉스 노사, 성과급 현금 50%·주식 50%로 조정..주택대출 대상도 확대",
-      "url": "https://n.news.naver.com/mnews/article/014/0005573824"
+      "title": "한빛 2호기도 멈춰…원전 4기 개점휴업에 전력수급 ‘빨간불’",
+      "url": "https://n.news.naver.com/mnews/article/011/0004660925"
     },
     {
-      "title": "신동빈 회장 “AI로 ‘롯데다움’ 브랜드 가치 키울 것”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003550470"
+      "title": "\"뻔한 선물은 이제 그만\" 추석 선물, 취향 따라 더 다채롭게 전한다",
+      "url": "https://n.news.naver.com/mnews/article/003/0014183545"
     },
     {
-      "title": "홈쇼핑 12곳 모두 방미통위 재승인…현대홈쇼핑 평가점수 1위",
-      "url": "https://n.news.naver.com/mnews/article/009/0005733365"
+      "title": "“세금 아닌 벌금” “과세 정상화”… 여야, 부동산 세제 정면충돌",
+      "url": "https://n.news.naver.com/mnews/article/023/0003998024"
     },
     {
-      "title": "[속보]바이백 확대에도 금리 ↑…유가도 오르며 뉴욕증시 하락 마감",
-      "url": "https://n.news.naver.com/mnews/article/277/0005814234"
+      "title": "신입사원 초봉 1.4억…마이크론, 대만 직원에 '역대급' 대우",
+      "url": "https://n.news.naver.com/mnews/article/015/0005331462"
     },
     {
-      "title": "한은 \"기업이익 늘고 명목임금 상승..주택 매입 수요 증대시킬 것\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005573898"
+      "title": "“우리 거 재탕 끝내면 알려줘”…삼성전자, 애플 폴더블 향해 직격탄 날렸다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005733641"
     },
     {
-      "title": "우후죽순 짓던 지식산업센터…정부 '공급 브레이크' 건다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005331009"
+      "title": "삼성E&A, 사우디서 4.7조원 규모 대형 비료 프로젝트 수주",
+      "url": "https://n.news.naver.com/mnews/article/277/0005814883"
     },
     {
-      "title": "신한·하나·우리·농협 예금금리 속속 인상…3%대 중반으로(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009163066"
+      "title": "'삼성전자, 드디어 터지나' 들썩…증권가서 '파격 전망' 나왔다 [분석+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005331192"
     },
     {
-      "title": "삼성바이오로직스, 유럽 제약사와 3508억원 규모 신규 위탁생산 계약",
-      "url": "https://n.news.naver.com/mnews/article/029/0003047375"
+      "title": "'대세론' 깨고 이재근 택한  KB금융 이사회의 '깜짝 반란'…세대교체 급물살",
+      "url": "https://n.news.naver.com/mnews/article/008/0005412670"
     },
     {
-      "title": "약국부터 K뷰티 1만여 개 상품까지 한자리에…‘무신사 뷰티 홍대’ 개관",
-      "url": "https://n.news.naver.com/mnews/article/009/0005733351"
+      "title": "비트코인 4거래일 연속 하락…8만弗 붕괴, ETF자금도 유출",
+      "url": "https://n.news.naver.com/mnews/article/009/0005734041"
     },
     {
-      "title": "삼전닉스 레버리지 58% 증발…한은 \"변동성 다시 커질 수 있다\"",
-      "url": "https://n.news.naver.com/mnews/article/629/0000532667"
+      "title": "“韓도 日처럼 잃어버린 30년 될수도”…李 ‘부동산 거품’ 경고에 힘 실은 김윤덕",
+      "url": "https://n.news.naver.com/mnews/article/009/0005734042"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7051.64,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 830.37,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26081.72,
-      "change": -171.62,
-      "change_pct": -0.65
+      "value": 26333.04,
+      "change": 251.31,
+      "change_pct": 0.96
     },
     "usdkrw": {
-      "value": 1349.17,
-      "change": 9.96,
-      "change_pct": 0.74
+      "value": 1341.05,
+      "change": 1.88,
+      "change_pct": 0.14
     }
   },
   "gold": {
-    "price_usd": 4356.2,
-    "price_krw": 5877254,
-    "change": -59.8,
-    "change_pct": -1.35
+    "price_usd": 4390.0,
+    "price_krw": 5887209,
+    "change": 25.5,
+    "change_pct": 0.58
   },
-  "updated": "2026-09-11 07:56",
+  "updated": "2026-09-12 07:57",
   "error": null
 }
