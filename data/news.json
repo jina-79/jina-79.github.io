@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "김정관 \"대미투자 선정, 이번주 합의·발표 목표…화상회의로 추가 논의\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009167327"
+      "title": "나란히 선 한미 차세대 여성 리더, 미래차 동맹 체결",
+      "url": "https://n.news.naver.com/mnews/article/018/0006369321"
     },
     {
-      "title": "서울 토허 신청 지난달 3012건…작년 전역 지정후 최저",
-      "url": "https://n.news.naver.com/mnews/article/020/0003747856"
+      "title": "삼성·LG, 추석 맞아 협력사 물품대금 조기 지급",
+      "url": "https://n.news.naver.com/mnews/article/056/0012256752"
     },
     {
-      "title": "'실적의 양종희' 대신 '변화의 이재근' 택한 KB…세대교체 막 올랐다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006368462"
+      "title": "이마트, 추석 선물세트 본판매 돌입…\"10만원 이하 선물세트 인기\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005816187"
     },
     {
-      "title": "최태원 \"SK이노, AIDC 전기화 솔루션·에너지 컨설팅으로 확대\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006368356"
+      "title": "\"국내 1등이 무슨 의미 있나\"…이재근, '리딩 KB' 새판 짠다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005413520"
     },
     {
-      "title": "7천피 찍고 밀린 코스피 美연준 '금리 결정' 촉각",
-      "url": "https://n.news.naver.com/mnews/article/008/0005413013"
+      "title": "생산적금융 1560조로 확대…수은·수협·삼성증권도 합류",
+      "url": "https://n.news.naver.com/mnews/article/016/0002697202"
     },
     {
-      "title": "기아 'PV5' 글로벌 판매 5만대 돌파",
-      "url": "https://n.news.naver.com/mnews/article/015/0005331780"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/214/0001523973"
     },
     {
-      "title": "올 추석엔 3만원 미만 건강식품·돼지고기 선물세트 인기",
-      "url": "https://n.news.naver.com/mnews/article/023/0003998210"
+      "title": "美국채 10년물 금리 ‘심리적 저항선’ 5% 터치...2023년 이후 처음",
+      "url": "https://n.news.naver.com/mnews/article/011/0004661802"
     },
     {
-      "title": "내년 법인세 수입, 15년만에 소득세 추월한다…'삼전닉스' 효과",
-      "url": "https://n.news.naver.com/mnews/article/001/0016307677"
+      "title": "중동 위기에도 원유 도입 9.8%↑…정유업계, 수급 안정 지켰다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006368714"
     },
     {
-      "title": "베트남 거친 韓 수출…美·中 수요 다 잡았다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005331765"
+      "title": "AI 감속론에 국채금리까지 ‘비상’…美 증시 동반 하락",
+      "url": "https://n.news.naver.com/mnews/article/119/0003132614"
     },
     {
-      "title": "갓 돌 지났는데 이자만 4000만원…'금수저' 미성년자 1600명 돌파",
-      "url": "https://n.news.naver.com/mnews/article/018/0006368361"
+      "title": "\"퇴근길 주식 거래\" 애프터마켓 첫날 앱 켰더니...잇단 전산장애",
+      "url": "https://n.news.naver.com/mnews/article/008/0005413587"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6909.91,
-      "change": -124.01,
-      "change_pct": -1.76
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 820.64,
-      "change": -16.28,
-      "change_pct": -1.95
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26333.04,
-      "change": 251.32,
-      "change_pct": 0.96
+      "value": 26186.41,
+      "change": -146.62,
+      "change_pct": -0.56
     },
     "usdkrw": {
-      "value": 1342.97,
-      "change": -5.2,
-      "change_pct": -0.39
+      "value": 1346.57,
+      "change": 1.93,
+      "change_pct": 0.14
     }
   },
   "gold": {
-    "price_usd": 4377.1,
-    "price_krw": 5878314,
-    "change": 10.9,
-    "change_pct": 0.25
+    "price_usd": 4330.9,
+    "price_krw": 5831859,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-14 07:51",
+  "updated": "2026-09-15 08:40",
   "error": null
 }
