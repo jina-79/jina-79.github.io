@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "나란히 선 한미 차세대 여성 리더, 미래차 동맹 체결",
-      "url": "https://n.news.naver.com/mnews/article/018/0006369321"
+      "title": "FOMC 앞두고 美 10년물 5% 돌파…유가 100달러에 뉴욕증시 이틀째 하락 [투자360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002697837"
     },
     {
-      "title": "삼성·LG, 추석 맞아 협력사 물품대금 조기 지급",
-      "url": "https://n.news.naver.com/mnews/article/056/0012256752"
+      "title": "분양가 20억인데 대출은 4억…더 멀어진 '내집마련'",
+      "url": "https://n.news.naver.com/mnews/article/031/0001058558"
     },
     {
-      "title": "이마트, 추석 선물세트 본판매 돌입…\"10만원 이하 선물세트 인기\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005816187"
+      "title": "아시아나 마일리지 10년 보장… 미주·유럽 보너스 좌석도 늘린다",
+      "url": "https://n.news.naver.com/mnews/article/469/0000954140"
     },
     {
-      "title": "\"국내 1등이 무슨 의미 있나\"…이재근, '리딩 KB' 새판 짠다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005413520"
+      "title": "안성호 에이스경암 이사장, 추석 맞아 2억 상당 쌀 기부",
+      "url": "https://n.news.naver.com/mnews/article/014/0005576080"
     },
     {
-      "title": "생산적금융 1560조로 확대…수은·수협·삼성증권도 합류",
-      "url": "https://n.news.naver.com/mnews/article/016/0002697202"
+      "title": "주가조작 합동대응단, 코스닥 바이오사 압수수색…미공개 정보 부당이득 혐의",
+      "url": "https://n.news.naver.com/mnews/article/055/0001388380"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001523973"
+      "title": "KRX 애프터마켓 첫날 VI 1637회…거래소 “변동성은 정규장보다 낮아”(종합)",
+      "url": "https://n.news.naver.com/mnews/article/018/0006369929"
     },
     {
-      "title": "美국채 10년물 금리 ‘심리적 저항선’ 5% 터치...2023년 이후 처음",
-      "url": "https://n.news.naver.com/mnews/article/011/0004661802"
+      "title": "현대ENG, 카자흐와 가스플랜트 사업이행합의서 체결…협력 다져",
+      "url": "https://n.news.naver.com/mnews/article/003/0014192580"
     },
     {
-      "title": "중동 위기에도 원유 도입 9.8%↑…정유업계, 수급 안정 지켰다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006368714"
+      "title": "기상청, 천리안위성 성능 검정 위해 유럽기상위성센터와 협력",
+      "url": "https://n.news.naver.com/mnews/article/001/0016312257"
     },
     {
-      "title": "AI 감속론에 국채금리까지 ‘비상’…美 증시 동반 하락",
-      "url": "https://n.news.naver.com/mnews/article/119/0003132614"
+      "title": "이찬진 “금융지주 자회사 CEO 승계, 공정성·투명성 강화해야”",
+      "url": "https://n.news.naver.com/mnews/article/082/0001398401"
     },
     {
-      "title": "\"퇴근길 주식 거래\" 애프터마켓 첫날 앱 켰더니...잇단 전산장애",
-      "url": "https://n.news.naver.com/mnews/article/008/0005413587"
+      "title": "롯데카드 382억원 대규모 현금배당…MBK 요청에 첫 중간배당",
+      "url": "https://n.news.naver.com/mnews/article/001/0016312818"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6909.91,
+      "value": 6684.37,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 820.64,
+      "value": 806.79,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26186.41,
-      "change": -146.62,
-      "change_pct": -0.56
+      "value": 25981.57,
+      "change": -204.84,
+      "change_pct": -0.78
     },
     "usdkrw": {
-      "value": 1346.57,
-      "change": 1.93,
-      "change_pct": 0.14
+      "value": 1363.77,
+      "change": 18.16,
+      "change_pct": 1.35
     }
   },
   "gold": {
-    "price_usd": 4330.9,
-    "price_krw": 5831859,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4326.6,
+    "price_krw": 5900487,
+    "change": -25.3,
+    "change_pct": -0.58
   },
-  "updated": "2026-09-15 08:40",
+  "updated": "2026-09-16 08:23",
   "error": null
 }
