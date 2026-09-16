@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "FOMC 앞두고 美 10년물 5% 돌파…유가 100달러에 뉴욕증시 이틀째 하락 [투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002697837"
+      "title": "SK하이닉스, 임단협 수정안 57.1% 찬성 '가결'…성과급 현금 50%",
+      "url": "https://n.news.naver.com/mnews/article/277/0005816972"
     },
     {
-      "title": "분양가 20억인데 대출은 4억…더 멀어진 '내집마련'",
-      "url": "https://n.news.naver.com/mnews/article/031/0001058558"
+      "title": "현대차, 운수사·충전 사업자·유관 기관과 협력해 수소버스 보급 활성화",
+      "url": "https://n.news.naver.com/mnews/article/421/0009173374"
     },
     {
-      "title": "아시아나 마일리지 10년 보장… 미주·유럽 보너스 좌석도 늘린다",
-      "url": "https://n.news.naver.com/mnews/article/469/0000954140"
+      "title": "원·달러 환율, 5.2원 오른 1364.6원",
+      "url": "https://n.news.naver.com/mnews/article/366/0001192660"
     },
     {
-      "title": "안성호 에이스경암 이사장, 추석 맞아 2억 상당 쌀 기부",
-      "url": "https://n.news.naver.com/mnews/article/014/0005576080"
+      "title": "쿠팡, '1인당 10만 원 배상' 소비자원 조정안 거부",
+      "url": "https://n.news.naver.com/mnews/article/052/0002407780"
     },
     {
-      "title": "주가조작 합동대응단, 코스닥 바이오사 압수수색…미공개 정보 부당이득 혐의",
-      "url": "https://n.news.naver.com/mnews/article/055/0001388380"
+      "title": "농식품부, 태백에 '스마트 산란계단지' 조성…320만 마리 규모",
+      "url": "https://n.news.naver.com/mnews/article/422/0000906637"
     },
     {
-      "title": "KRX 애프터마켓 첫날 VI 1637회…거래소 “변동성은 정규장보다 낮아”(종합)",
-      "url": "https://n.news.naver.com/mnews/article/018/0006369929"
+      "title": "대구·부산·양양 등 지방 공항서 중국 신규 노선 확대",
+      "url": "https://n.news.naver.com/mnews/article/011/0004662258"
     },
     {
-      "title": "현대ENG, 카자흐와 가스플랜트 사업이행합의서 체결…협력 다져",
-      "url": "https://n.news.naver.com/mnews/article/003/0014192580"
+      "title": "한남3구역, 5970가구 대단지 탈바꿈…통합심의 통과",
+      "url": "https://n.news.naver.com/mnews/article/421/0009173015"
     },
     {
-      "title": "기상청, 천리안위성 성능 검정 위해 유럽기상위성센터와 협력",
-      "url": "https://n.news.naver.com/mnews/article/001/0016312257"
+      "title": "공화당도 이탈…트럼프 이해충돌에 ‘클래리티법’ 초당 협상 파국",
+      "url": "https://n.news.naver.com/mnews/article/011/0004662438"
     },
     {
-      "title": "이찬진 “금융지주 자회사 CEO 승계, 공정성·투명성 강화해야”",
-      "url": "https://n.news.naver.com/mnews/article/082/0001398401"
+      "title": "\"연 19% 적금이라더니\"… 청년미래적금, 2차 가입 전 따져볼 변수는?",
+      "url": "https://n.news.naver.com/mnews/article/029/0003048429"
     },
     {
-      "title": "롯데카드 382억원 대규모 현금배당…MBK 요청에 첫 중간배당",
-      "url": "https://n.news.naver.com/mnews/article/001/0016312818"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000533384"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6684.37,
+      "value": 6627.26,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 806.79,
+      "value": 812.41,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25981.57,
-      "change": -204.84,
-      "change_pct": -0.78
+      "value": 25978.42,
+      "change": -3.15,
+      "change_pct": -0.01
     },
     "usdkrw": {
-      "value": 1363.77,
-      "change": 18.16,
-      "change_pct": 1.35
+      "value": 1377.06,
+      "change": 13.49,
+      "change_pct": 0.99
     }
   },
   "gold": {
-    "price_usd": 4326.6,
-    "price_krw": 5900487,
-    "change": -25.3,
-    "change_pct": -0.58
+    "price_usd": 4309.3,
+    "price_krw": 5934164,
+    "change": -23.5,
+    "change_pct": -0.54
   },
-  "updated": "2026-09-16 08:23",
+  "updated": "2026-09-17 08:32",
   "error": null
 }
