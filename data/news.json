@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "SK하이닉스, 임단협 수정안 57.1% 찬성 '가결'…성과급 현금 50%",
-      "url": "https://n.news.naver.com/mnews/article/277/0005816972"
+      "title": "더본코리아, 온라인 커뮤니티 이용자들 무더기 고소",
+      "url": "https://n.news.naver.com/mnews/article/056/0012259433"
     },
     {
-      "title": "현대차, 운수사·충전 사업자·유관 기관과 협력해 수소버스 보급 활성화",
-      "url": "https://n.news.naver.com/mnews/article/421/0009173374"
+      "title": "구광모 LG 회장 “AI 승부 이기려면 ‘집요한 실행력’ 갖춰야”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004662809"
     },
     {
-      "title": "원·달러 환율, 5.2원 오른 1364.6원",
-      "url": "https://n.news.naver.com/mnews/article/366/0001192660"
+      "title": "금리 올랐는데 비트코인 가격 왜 안 떨어질까?",
+      "url": "https://n.news.naver.com/mnews/article/024/0000108286"
     },
     {
-      "title": "쿠팡, '1인당 10만 원 배상' 소비자원 조정안 거부",
-      "url": "https://n.news.naver.com/mnews/article/052/0002407780"
+      "title": "추석 차례상 물가 5.1%↑…폭염에 채소류 껑충·과일은 비교적 안정",
+      "url": "https://n.news.naver.com/mnews/article/001/0016319367"
     },
     {
-      "title": "농식품부, 태백에 '스마트 산란계단지' 조성…320만 마리 규모",
-      "url": "https://n.news.naver.com/mnews/article/422/0000906637"
-    },
-    {
-      "title": "대구·부산·양양 등 지방 공항서 중국 신규 노선 확대",
-      "url": "https://n.news.naver.com/mnews/article/011/0004662258"
-    },
-    {
-      "title": "한남3구역, 5970가구 대단지 탈바꿈…통합심의 통과",
-      "url": "https://n.news.naver.com/mnews/article/421/0009173015"
-    },
-    {
-      "title": "공화당도 이탈…트럼프 이해충돌에 ‘클래리티법’ 초당 협상 파국",
-      "url": "https://n.news.naver.com/mnews/article/011/0004662438"
-    },
-    {
-      "title": "\"연 19% 적금이라더니\"… 청년미래적금, 2차 가입 전 따져볼 변수는?",
-      "url": "https://n.news.naver.com/mnews/article/029/0003048429"
+      "title": "수조원 넣고도 '돈만 대는 주주' 되나…웨스팅하우스 투자 실익 관건[Why&Next]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005817805"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000533384"
+      "url": "https://n.news.naver.com/mnews/article/055/0001389035"
+    },
+    {
+      "title": "서울 아파트값, 7월에도 상승세…1년 새 14.6% 올라",
+      "url": "https://n.news.naver.com/mnews/article/057/0001969607"
+    },
+    {
+      "title": "유류세 인하 2개월 연장...ℓ당 휘발유 122원·경유 145원 유지",
+      "url": "https://n.news.naver.com/mnews/article/011/0004663199"
+    },
+    {
+      "title": "인천시금고 선정 오늘 판가름… ‘48점 승부처’ 전산망 PT 하루 만에 검증 가능할까",
+      "url": "https://n.news.naver.com/mnews/article/016/0002698437"
+    },
+    {
+      "title": "SK온, 엘앤에프 ‘LFP 양극재’ 1600억 규모 조달…ESS 시장 공략 박차",
+      "url": "https://n.news.naver.com/mnews/article/011/0004663084"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6627.26,
+      "value": 6717.97,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 812.41,
+      "value": 815.98,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25978.42,
-      "change": -3.15,
-      "change_pct": -0.01
+      "value": 26418.3,
+      "change": 439.87,
+      "change_pct": 1.69
     },
     "usdkrw": {
-      "value": 1377.06,
-      "change": 13.49,
-      "change_pct": 0.99
+      "value": 1380.33,
+      "change": 3.73,
+      "change_pct": 0.27
     }
   },
   "gold": {
-    "price_usd": 4309.3,
-    "price_krw": 5934164,
-    "change": -23.5,
-    "change_pct": -0.54
+    "price_usd": 4384.3,
+    "price_krw": 6051780,
+    "change": -3.2,
+    "change_pct": -0.07
   },
-  "updated": "2026-09-17 08:32",
+  "updated": "2026-09-18 08:21",
   "error": null
 }
