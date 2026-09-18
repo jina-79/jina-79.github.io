@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "더본코리아, 온라인 커뮤니티 이용자들 무더기 고소",
-      "url": "https://n.news.naver.com/mnews/article/056/0012259433"
+      "title": "정부, 휘발유·경유·부탄 유류세 인하 2개월 연장",
+      "url": "https://n.news.naver.com/mnews/article/003/0014198524"
     },
     {
-      "title": "구광모 LG 회장 “AI 승부 이기려면 ‘집요한 실행력’ 갖춰야”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004662809"
+      "title": "미 SEC, '토큰 주식' 거래 문턱 낮춘다…24시간 거래 확대되나",
+      "url": "https://n.news.naver.com/mnews/article/055/0001389290"
     },
     {
-      "title": "금리 올랐는데 비트코인 가격 왜 안 떨어질까?",
-      "url": "https://n.news.naver.com/mnews/article/024/0000108286"
-    },
-    {
-      "title": "추석 차례상 물가 5.1%↑…폭염에 채소류 껑충·과일은 비교적 안정",
-      "url": "https://n.news.naver.com/mnews/article/001/0016319367"
-    },
-    {
-      "title": "수조원 넣고도 '돈만 대는 주주' 되나…웨스팅하우스 투자 실익 관건[Why&Next]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005817805"
+      "title": "‘지능형 위성’으로 우주 AI 시대 연다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002699341"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001389035"
+      "url": "https://n.news.naver.com/mnews/article/422/0000907580"
     },
     {
-      "title": "서울 아파트값, 7월에도 상승세…1년 새 14.6% 올라",
-      "url": "https://n.news.naver.com/mnews/article/057/0001969607"
+      "title": "한화금융, 아부다비와 맞손…디지털금융·스테이블코인 협력 강화",
+      "url": "https://n.news.naver.com/mnews/article/119/0003134440"
     },
     {
-      "title": "유류세 인하 2개월 연장...ℓ당 휘발유 122원·경유 145원 유지",
-      "url": "https://n.news.naver.com/mnews/article/011/0004663199"
+      "title": "\"LG전자 주총 확 바꿨다\" 박원재 IR담당 상무, 베스트 IRO상 수상",
+      "url": "https://n.news.naver.com/mnews/article/050/0000111112"
     },
     {
-      "title": "인천시금고 선정 오늘 판가름… ‘48점 승부처’ 전산망 PT 하루 만에 검증 가능할까",
-      "url": "https://n.news.naver.com/mnews/article/016/0002698437"
+      "title": "“언제부터 반도체 회사였지?”…3조 넘게 쏟아붓고 랠리 합류한 이 그룹",
+      "url": "https://n.news.naver.com/mnews/article/009/0005737526"
     },
     {
-      "title": "SK온, 엘앤에프 ‘LFP 양극재’ 1600억 규모 조달…ESS 시장 공략 박차",
-      "url": "https://n.news.naver.com/mnews/article/011/0004663084"
+      "title": "고유가·美금리에 환율 1400원대 올라서나",
+      "url": "https://n.news.naver.com/mnews/article/016/0002699301"
+    },
+    {
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/449/0000361344"
+    },
+    {
+      "title": "'월 50만원 더 내라고?'…5년 전 영끌족 '날벼락'",
+      "url": "https://n.news.naver.com/mnews/article/374/0000533855"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6717.97,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 815.98,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26418.3,
-      "change": 439.87,
-      "change_pct": 1.69
+      "value": 26522.54,
+      "change": 104.24,
+      "change_pct": 0.39
     },
     "usdkrw": {
-      "value": 1380.33,
-      "change": 3.73,
-      "change_pct": 0.27
+      "value": 1385.95,
+      "change": 9.35,
+      "change_pct": 0.68
     }
   },
   "gold": {
-    "price_usd": 4384.3,
-    "price_krw": 6051780,
-    "change": -3.2,
-    "change_pct": -0.07
+    "price_usd": 4415.9,
+    "price_krw": 6120216,
+    "change": 16.2,
+    "change_pct": 0.37
   },
-  "updated": "2026-09-18 08:21",
+  "updated": "2026-09-19 08:00",
   "error": null
 }
