@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "정부, 휘발유·경유·부탄 유류세 인하 2개월 연장",
-      "url": "https://n.news.naver.com/mnews/article/003/0014198524"
+      "title": "국제유가 다시 120弗인데…최고가격제 7개월째 지속, 가격은 ‘동결’[Pick코노미]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004663554"
     },
     {
-      "title": "미 SEC, '토큰 주식' 거래 문턱 낮춘다…24시간 거래 확대되나",
-      "url": "https://n.news.naver.com/mnews/article/055/0001389290"
-    },
-    {
-      "title": "‘지능형 위성’으로 우주 AI 시대 연다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002699341"
+      "title": "계좌 연속성: \"내 연금, 끝까지 나를 따라오라\"[김병철의 퇴직연금 개혁 시나리오]16",
+      "url": "https://n.news.naver.com/mnews/article/018/0006372382"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000907580"
+      "url": "https://n.news.naver.com/mnews/article/437/0000511861"
     },
     {
-      "title": "한화금융, 아부다비와 맞손…디지털금융·스테이블코인 협력 강화",
-      "url": "https://n.news.naver.com/mnews/article/119/0003134440"
+      "title": "혼조세 마감…반도체 강세 속 '속슬' 8% 급등[뉴욕증시]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005578159"
     },
     {
-      "title": "\"LG전자 주총 확 바꿨다\" 박원재 IR담당 상무, 베스트 IRO상 수상",
-      "url": "https://n.news.naver.com/mnews/article/050/0000111112"
+      "title": "'반등도 AI부터…' AI·반도체 ETF 출시 이어진다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005416076"
     },
     {
-      "title": "“언제부터 반도체 회사였지?”…3조 넘게 쏟아붓고 랠리 합류한 이 그룹",
-      "url": "https://n.news.naver.com/mnews/article/009/0005737526"
+      "title": "일본 금리 올렸는데 엔화는 급락…당국 ‘레이트 체크’로 개입 경고",
+      "url": "https://n.news.naver.com/mnews/article/032/0003471461"
     },
     {
-      "title": "고유가·美금리에 환율 1400원대 올라서나",
-      "url": "https://n.news.naver.com/mnews/article/016/0002699301"
+      "title": "22년 전 파산 위기였던 레고…올 9조원 잭팟 터뜨린 ‘신의 한수’",
+      "url": "https://n.news.naver.com/mnews/article/025/0003552476"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/449/0000361344"
+      "title": "추석 준비 한창…제수용품·선물 할인 잇따라[이번주뭘살까]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016321911"
     },
     {
-      "title": "'월 50만원 더 내라고?'…5년 전 영끌족 '날벼락'",
-      "url": "https://n.news.naver.com/mnews/article/374/0000533855"
+      "title": "K-뷰티 수출 하반기도 '날개'…브랜드·ODM·용기 실적 '쑥'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009180744"
+    },
+    {
+      "title": "삼성전자 초기업노조, '반도체 노조' 전환…DX 간부 2명 불신임",
+      "url": "https://n.news.naver.com/mnews/article/001/0016322087"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6894.23,
+      "change": 178.82,
+      "change_pct": 2.66
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 827.12,
+      "change": 4.94,
+      "change_pct": 0.6
     },
     "nasdaq": {
       "value": 26522.54,
@@ -58,17 +58,17 @@
       "change_pct": 0.39
     },
     "usdkrw": {
-      "value": 1385.95,
-      "change": 9.35,
-      "change_pct": 0.68
+      "value": 1385.0,
+      "change": 5.47,
+      "change_pct": 0.4
     }
   },
   "gold": {
-    "price_usd": 4415.9,
-    "price_krw": 6120216,
-    "change": 16.2,
-    "change_pct": 0.37
+    "price_usd": 4424.9,
+    "price_krw": 6128486,
+    "change": 25.2,
+    "change_pct": 0.57
   },
-  "updated": "2026-09-19 08:00",
+  "updated": "2026-09-20 07:39",
   "error": null
 }
