@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "우버, 배민 인수 본격화...공정위 기업결합 사전심사 개시",
-      "url": "https://n.news.naver.com/mnews/article/437/0000512313"
+      "title": "금융지주 CEO 승계, 또 경고한 이찬진 금감원장",
+      "url": "https://n.news.naver.com/mnews/article/011/0004665056"
     },
     {
-      "title": "신한금융, 자회사 CEO 12명 승계절차 착수…정상혁 행장 포함",
-      "url": "https://n.news.naver.com/mnews/article/018/0006374038"
+      "title": "“추석 코앞인데, 이건 재앙이야”…업데이트 후 작동 멈춰버린 삼성냉장고",
+      "url": "https://n.news.naver.com/mnews/article/009/0005739429"
+    },
+    {
+      "title": "“감기로 응급실 갔다간 88분”…추석엔 어디로 갈까",
+      "url": "https://n.news.naver.com/mnews/article/018/0006374932"
+    },
+    {
+      "title": "OECD \"올해 한국 성장률 전망치 3.7%로 '껑충'\"…한은 3.3%보다도 높아",
+      "url": "https://n.news.naver.com/mnews/article/437/0000512546"
+    },
+    {
+      "title": "신한은행, 추석 귀성길 이동점포 '뱅버드' 운영",
+      "url": "https://n.news.naver.com/mnews/article/003/0014211289"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000908686"
+      "url": "https://n.news.naver.com/mnews/article/001/0016331764"
     },
     {
-      "title": "2030년 고도제한 변수 만난 목동 재건축… “인허가 속도 내며 단지 간 협력해야”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001193905"
+      "title": "원유 중동 의존도 2035년까지 50% 이하로… 비축시설 2000만 배럴 확대",
+      "url": "https://n.news.naver.com/mnews/article/469/0000955736"
     },
     {
-      "title": "수협은행장 후보 못낸 행추위...정부와 수협, 표심 갈렸다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006374481"
+      "title": "트럼프 “디젤 수출 금지할 것”…사상 최고 유가에 대응",
+      "url": "https://n.news.naver.com/mnews/article/011/0004665061"
     },
     {
-      "title": "이찬진, 5대 은행장 인사 앞두고 \"계파나 친소관계 매몰되지 말라\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005335458"
+      "title": "포스코, 잭니클라우스GC 매각 추진…비핵심자산 정리 속도",
+      "url": "https://n.news.naver.com/mnews/article/081/0003683196"
     },
     {
-      "title": "홍지선 국토장관 첫 행보…\"주택공급은 계획보다 실행이 중요\"",
-      "url": "https://n.news.naver.com/mnews/article/629/0000536389"
-    },
-    {
-      "title": "메타 AI에이전트 뮤즈 돌풍에 AMD 시총 1조 달러 돌파",
-      "url": "https://n.news.naver.com/mnews/article/055/0001390209"
-    },
-    {
-      "title": "전기차 싸지게 ‘배터리 구독제’ 하자는데…업계·국회가 띄우는 이유",
-      "url": "https://n.news.naver.com/mnews/article/009/0005739283"
-    },
-    {
-      "title": "인구 고령화에 사망자 3년 만에 최다…10∼40대 '자살'·50대 이상 '암' 1위",
-      "url": "https://n.news.naver.com/mnews/article/660/0000117705"
+      "title": "현대로템, 세계 최대 철도박람회서 차세대 고속철도 콘셉트 공개",
+      "url": "https://n.news.naver.com/mnews/article/001/0016331473"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7007.72,
+      "value": 7080.92,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 836.27,
+      "value": 844.48,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27244.28,
-      "change": 122.19,
-      "change_pct": 0.45
+      "value": 26936.04,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "usdkrw": {
-      "value": 1354.82,
-      "change": -18.86,
-      "change_pct": -1.37
+      "value": 1365.05,
+      "change": 14.69,
+      "change_pct": 1.09
     }
   },
   "gold": {
-    "price_usd": 4403.3,
-    "price_krw": 5965678,
-    "change": 19.4,
-    "change_pct": 0.44
+    "price_usd": 4328.2,
+    "price_krw": 5908209,
+    "change": -48.2,
+    "change_pct": -1.1
   },
-  "updated": "2026-09-23 08:29",
+  "updated": "2026-09-24 08:25",
   "error": null
 }
