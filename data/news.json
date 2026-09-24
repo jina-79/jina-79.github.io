@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "금융지주 CEO 승계, 또 경고한 이찬진 금감원장",
-      "url": "https://n.news.naver.com/mnews/article/011/0004665056"
+      "title": "이소영 “온누리상품권 혜택, 전통시장에 더 줘야”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003750519"
     },
     {
-      "title": "“추석 코앞인데, 이건 재앙이야”…업데이트 후 작동 멈춰버린 삼성냉장고",
-      "url": "https://n.news.naver.com/mnews/article/009/0005739429"
+      "title": "손주에게 삼성전자 주식 2000만원 줘도 세금 0원?…추석에 알아둘 증여법",
+      "url": "https://n.news.naver.com/mnews/article/138/0002242659"
     },
     {
-      "title": "“감기로 응급실 갔다간 88분”…추석엔 어디로 갈까",
-      "url": "https://n.news.naver.com/mnews/article/018/0006374932"
+      "title": "서울 아파트 임대차 거래 52%가 월세… 평균 164만원",
+      "url": "https://n.news.naver.com/mnews/article/020/0003750499"
     },
     {
-      "title": "OECD \"올해 한국 성장률 전망치 3.7%로 '껑충'\"…한은 3.3%보다도 높아",
-      "url": "https://n.news.naver.com/mnews/article/437/0000512546"
+      "title": "서울 아파트값 85주째 상승…文 정부 때와 어깨 나란히",
+      "url": "https://n.news.naver.com/mnews/article/366/0001194321"
     },
     {
-      "title": "신한은행, 추석 귀성길 이동점포 '뱅버드' 운영",
-      "url": "https://n.news.naver.com/mnews/article/003/0014211289"
+      "title": "日 엔화 다시 급락…금리인상 사흘 만에 약발 끝났나",
+      "url": "https://n.news.naver.com/mnews/article/015/0005335843"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/001/0016331764"
+      "title": "“삼전닉스 레버리지, 변동성 주범 아냐\"…원조의 항변",
+      "url": "https://n.news.naver.com/mnews/article/215/0001267141"
     },
     {
-      "title": "원유 중동 의존도 2035년까지 50% 이하로… 비축시설 2000만 배럴 확대",
-      "url": "https://n.news.naver.com/mnews/article/469/0000955736"
+      "title": "中 CXMT, 최신 D램 양산 이어 낸드까지…K메모리 추격 전선 넓힌다",
+      "url": "https://n.news.naver.com/mnews/article/081/0003683332"
     },
     {
-      "title": "트럼프 “디젤 수출 금지할 것”…사상 최고 유가에 대응",
-      "url": "https://n.news.naver.com/mnews/article/011/0004665061"
+      "title": "“초록병 소주 넘어 K술로”…CJ가 美서 프리미엄 증류주 도전하는 이유",
+      "url": "https://n.news.naver.com/mnews/article/018/0006375435"
     },
     {
-      "title": "포스코, 잭니클라우스GC 매각 추진…비핵심자산 정리 속도",
-      "url": "https://n.news.naver.com/mnews/article/081/0003683196"
+      "title": "연준 인사들, 금리 인상 뒤에도 잇딴 인플레 경고...“추가 긴축이 도움”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004665110"
     },
     {
-      "title": "현대로템, 세계 최대 철도박람회서 차세대 고속철도 콘셉트 공개",
-      "url": "https://n.news.naver.com/mnews/article/001/0016331473"
+      "title": "“6개월간 주식 450억 굴려” 김수용이 공개한 계좌…26년차 ‘개미 대표’의 수익은",
+      "url": "https://n.news.naver.com/mnews/article/011/0004665084"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26936.04,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 26939.37,
+      "change": 3.33,
+      "change_pct": 0.01
     },
     "usdkrw": {
-      "value": 1365.05,
-      "change": 14.69,
-      "change_pct": 1.09
+      "value": 1367.59,
+      "change": 5.09,
+      "change_pct": 0.37
     }
   },
   "gold": {
-    "price_usd": 4328.2,
-    "price_krw": 5908209,
-    "change": -48.2,
-    "change_pct": -1.1
+    "price_usd": 4308.0,
+    "price_krw": 5891577,
+    "change": -10.4,
+    "change_pct": -0.24
   },
-  "updated": "2026-09-24 08:25",
+  "updated": "2026-09-25 08:45",
   "error": null
 }
