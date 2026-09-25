@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "이소영 “온누리상품권 혜택, 전통시장에 더 줘야”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003750519"
+      "title": "AI 훈풍에 ‘유턴’…서학개미 美주식 2000억 달러 턱밑",
+      "url": "https://n.news.naver.com/mnews/article/082/0001399877"
     },
     {
-      "title": "손주에게 삼성전자 주식 2000만원 줘도 세금 0원?…추석에 알아둘 증여법",
-      "url": "https://n.news.naver.com/mnews/article/138/0002242659"
+      "title": "코스닥서 ‘시총미달 상폐’ 속출…내달부터 동전주까지 무더기 위기",
+      "url": "https://n.news.naver.com/mnews/article/366/0001194389"
     },
     {
-      "title": "서울 아파트 임대차 거래 52%가 월세… 평균 164만원",
-      "url": "https://n.news.naver.com/mnews/article/020/0003750499"
+      "title": "美 스테이블코인 발행 규제 확정…연준, 준비자산·은행기준 마련",
+      "url": "https://n.news.naver.com/mnews/article/018/0006375441"
     },
     {
-      "title": "서울 아파트값 85주째 상승…文 정부 때와 어깨 나란히",
-      "url": "https://n.news.naver.com/mnews/article/366/0001194321"
+      "title": "HBM 다음은 '추론'…삼성전자·SK하이닉스, 차세대 메모리 승부",
+      "url": "https://n.news.naver.com/mnews/article/003/0014213106"
     },
     {
-      "title": "日 엔화 다시 급락…금리인상 사흘 만에 약발 끝났나",
-      "url": "https://n.news.naver.com/mnews/article/015/0005335843"
+      "title": "뉴욕증시, 미·이란 협상 기대에 상승…AI·반도체주 강세(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016336656"
     },
     {
-      "title": "“삼전닉스 레버리지, 변동성 주범 아냐\"…원조의 항변",
-      "url": "https://n.news.naver.com/mnews/article/215/0001267141"
+      "title": "\"월세 더 오른다\" 전문가 한목소리…'전세의 월세화'도 가속",
+      "url": "https://n.news.naver.com/mnews/article/421/0009191969"
     },
     {
-      "title": "中 CXMT, 최신 D램 양산 이어 낸드까지…K메모리 추격 전선 넓힌다",
-      "url": "https://n.news.naver.com/mnews/article/081/0003683332"
+      "title": "'금융위기급' 5% 금리에도 증시 탄탄…AI 투자 시대 금리는 '조연'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009191963"
     },
     {
-      "title": "“초록병 소주 넘어 K술로”…CJ가 美서 프리미엄 증류주 도전하는 이유",
-      "url": "https://n.news.naver.com/mnews/article/018/0006375435"
+      "title": "탈세 유명 유튜버 정조준...지난해 239억원 추징, 1인당 14억원",
+      "url": "https://n.news.naver.com/mnews/article/666/0000124862"
     },
     {
-      "title": "연준 인사들, 금리 인상 뒤에도 잇딴 인플레 경고...“추가 긴축이 도움”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004665110"
+      "title": "택배 문자 한 통에 1000억 넘게 털렸다…역대급 추석 보이스피싱",
+      "url": "https://n.news.naver.com/mnews/article/011/0004665266"
     },
     {
-      "title": "“6개월간 주식 450억 굴려” 김수용이 공개한 계좌…26년차 ‘개미 대표’의 수익은",
-      "url": "https://n.news.naver.com/mnews/article/011/0004665084"
+      "title": "'월가 거물' 일제히 \"한국 AI·반도체 관심\"…李 “왜 투자 안 했나 후회할 것”",
+      "url": "https://n.news.naver.com/mnews/article/243/0000103538"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 7080.92,
-      "change": 0.0,
-      "change_pct": 0.0
+      "change": 63.01,
+      "change_pct": 0.9
     },
     "kosdaq": {
       "value": 844.48,
-      "change": 0.0,
-      "change_pct": 0.0
+      "change": 10.1,
+      "change_pct": 1.21
     },
     "nasdaq": {
-      "value": 26939.37,
-      "change": 3.33,
-      "change_pct": 0.01
+      "value": 27068.72,
+      "change": 129.35,
+      "change_pct": 0.48
     },
     "usdkrw": {
-      "value": 1367.59,
-      "change": 5.09,
-      "change_pct": 0.37
+      "value": 1355.28,
+      "change": -7.22,
+      "change_pct": -0.53
     }
   },
   "gold": {
-    "price_usd": 4308.0,
-    "price_krw": 5891577,
-    "change": -10.4,
-    "change_pct": -0.24
+    "price_usd": 4320.5,
+    "price_krw": 5855487,
+    "change": 22.5,
+    "change_pct": 0.52
   },
-  "updated": "2026-09-25 08:45",
+  "updated": "2026-09-26 08:48",
   "error": null
 }
