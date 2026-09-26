@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "AI 훈풍에 ‘유턴’…서학개미 美주식 2000억 달러 턱밑",
-      "url": "https://n.news.naver.com/mnews/article/082/0001399877"
+      "title": "162조원 미래기금·821조원 예산…나라살림 통제력 쟁점 [미리보는 국감-기획예산]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003136394"
     },
     {
-      "title": "코스닥서 ‘시총미달 상폐’ 속출…내달부터 동전주까지 무더기 위기",
-      "url": "https://n.news.naver.com/mnews/article/366/0001194389"
+      "title": "명절 앞둔 원산지 표시위반 단속 적발 중 42%는 '김치·돼지고기'",
+      "url": "https://n.news.naver.com/mnews/article/055/0001391162"
     },
     {
-      "title": "美 스테이블코인 발행 규제 확정…연준, 준비자산·은행기준 마련",
-      "url": "https://n.news.naver.com/mnews/article/018/0006375441"
+      "title": "달러 팔고 엔화로…은행 돈 흐름 확 바뀌었다",
+      "url": "https://n.news.naver.com/mnews/article/374/0000534904"
     },
     {
-      "title": "HBM 다음은 '추론'…삼성전자·SK하이닉스, 차세대 메모리 승부",
-      "url": "https://n.news.naver.com/mnews/article/003/0014213106"
+      "title": "치솟은 유류할증료 동남아 직격…일본·중국 항공여객은 20%대↑",
+      "url": "https://n.news.naver.com/mnews/article/001/0016336732"
     },
     {
-      "title": "뉴욕증시, 미·이란 협상 기대에 상승…AI·반도체주 강세(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016336656"
+      "title": "국내 주유소 기름값 19주째 하락",
+      "url": "https://n.news.naver.com/mnews/article/052/0002411288"
     },
     {
-      "title": "\"월세 더 오른다\" 전문가 한목소리…'전세의 월세화'도 가속",
-      "url": "https://n.news.naver.com/mnews/article/421/0009191969"
+      "title": "\"10년 전 1억 주고 샀는데 지금 138억?…\" 최고 수익률 1위는",
+      "url": "https://n.news.naver.com/mnews/article/018/0006375724"
     },
     {
-      "title": "'금융위기급' 5% 금리에도 증시 탄탄…AI 투자 시대 금리는 '조연'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009191963"
+      "title": "은행 고정형 주담대, 아무리 싸게 빌려도 연 5%…월 200은 이자로 나간다[머니뭐니]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002701964"
     },
     {
-      "title": "탈세 유명 유튜버 정조준...지난해 239억원 추징, 1인당 14억원",
-      "url": "https://n.news.naver.com/mnews/article/666/0000124862"
+      "title": "공동주택 하자심사 208일 빨라졌지만…판정률 79%→45%",
+      "url": "https://n.news.naver.com/mnews/article/656/0000187804"
     },
     {
-      "title": "택배 문자 한 통에 1000억 넘게 털렸다…역대급 추석 보이스피싱",
-      "url": "https://n.news.naver.com/mnews/article/011/0004665266"
+      "title": "[단독] 한국예탁결제원도 단일종목 레버리지 ETF 제안 안 했다",
+      "url": "https://n.news.naver.com/mnews/article/023/0004000449"
     },
     {
-      "title": "'월가 거물' 일제히 \"한국 AI·반도체 관심\"…李 “왜 투자 안 했나 후회할 것”",
-      "url": "https://n.news.naver.com/mnews/article/243/0000103538"
+      "title": "전동화 내실 다지는 독일車…프리미엄·헤리티지로 '반격 모색' [전기차 五國志⑤]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014214072"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.48
     },
     "usdkrw": {
-      "value": 1355.28,
-      "change": -7.22,
-      "change_pct": -0.53
+      "value": 1354.4,
+      "change": -12.96,
+      "change_pct": -0.95
     }
   },
   "gold": {
-    "price_usd": 4320.5,
-    "price_krw": 5855487,
-    "change": 22.5,
-    "change_pct": 0.52
+    "price_usd": 4321.2,
+    "price_krw": 5852633,
+    "change": 23.2,
+    "change_pct": 0.54
   },
-  "updated": "2026-09-26 08:48",
+  "updated": "2026-09-27 08:22",
   "error": null
 }
