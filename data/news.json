@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "162조원 미래기금·821조원 예산…나라살림 통제력 쟁점 [미리보는 국감-기획예산]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003136394"
+      "title": "“지금 쉬면 몇억 날아간다”…삼성전자·SK하이닉스 육아휴직 동반 첫 감소",
+      "url": "https://n.news.naver.com/mnews/article/029/0003049926"
     },
     {
-      "title": "명절 앞둔 원산지 표시위반 단속 적발 중 42%는 '김치·돼지고기'",
-      "url": "https://n.news.naver.com/mnews/article/055/0001391162"
+      "title": "농심, '2026 K-EXPO 멕시코'서 신라면 부스 운영…K-라면 알렸다",
+      "url": "https://n.news.naver.com/mnews/article/421/0009193037"
     },
     {
-      "title": "달러 팔고 엔화로…은행 돈 흐름 확 바뀌었다",
-      "url": "https://n.news.naver.com/mnews/article/374/0000534904"
+      "title": "韓 기업, 북미 관문 멕시코서 '미래산업 동맹'…항공우주·車소재 MOU 잇따라",
+      "url": "https://n.news.naver.com/mnews/article/030/0003470068"
     },
     {
-      "title": "치솟은 유류할증료 동남아 직격…일본·중국 항공여객은 20%대↑",
-      "url": "https://n.news.naver.com/mnews/article/001/0016336732"
+      "title": "금융당국, 서민금융·고정금리 대출 확대 고심",
+      "url": "https://n.news.naver.com/mnews/article/014/0005581193"
     },
     {
-      "title": "국내 주유소 기름값 19주째 하락",
-      "url": "https://n.news.naver.com/mnews/article/052/0002411288"
+      "title": "한화에어로, 나이·학력 제한 '경력직 채용 지침' 사과‥\"재발방지책 마련\"",
+      "url": "https://n.news.naver.com/mnews/article/214/0001526006"
     },
     {
-      "title": "\"10년 전 1억 주고 샀는데 지금 138억?…\" 최고 수익률 1위는",
-      "url": "https://n.news.naver.com/mnews/article/018/0006375724"
+      "title": "담관암 신약 FDA 승인 … 반전 모멘텀 찾은 HLB",
+      "url": "https://n.news.naver.com/mnews/article/009/0005740348"
     },
     {
-      "title": "은행 고정형 주담대, 아무리 싸게 빌려도 연 5%…월 200은 이자로 나간다[머니뭐니]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002701964"
+      "title": "기업경기 한 달 만에 꺾였다…10월 BSI 98.6, 수출 5개월만에 '부정적'",
+      "url": "https://n.news.naver.com/mnews/article/030/0003470133"
     },
     {
-      "title": "공동주택 하자심사 208일 빨라졌지만…판정률 79%→45%",
-      "url": "https://n.news.naver.com/mnews/article/656/0000187804"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002411607"
     },
     {
-      "title": "[단독] 한국예탁결제원도 단일종목 레버리지 ETF 제안 안 했다",
-      "url": "https://n.news.naver.com/mnews/article/023/0004000449"
+      "title": "초과 세수 50조 넘는다…'200조' 미래대응기금에 '나랏빚 상환' 논란",
+      "url": "https://n.news.naver.com/mnews/article/469/0000956145"
     },
     {
-      "title": "전동화 내실 다지는 독일車…프리미엄·헤리티지로 '반격 모색' [전기차 五國志⑤]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014214072"
+      "title": "올해 주요 재테크 수익률 1위는? 코스피200 ETF…예금 수익률 40배",
+      "url": "https://n.news.naver.com/mnews/article/366/0001194556"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.48
     },
     "usdkrw": {
-      "value": 1354.4,
-      "change": -12.96,
-      "change_pct": -0.95
+      "value": 1354.88,
+      "change": -12.48,
+      "change_pct": -0.91
     }
   },
   "gold": {
-    "price_usd": 4321.2,
-    "price_krw": 5852633,
-    "change": 23.2,
-    "change_pct": 0.54
+    "price_usd": 4298.8,
+    "price_krw": 5824357,
+    "change": -22.4,
+    "change_pct": -0.52
   },
-  "updated": "2026-09-27 08:22",
+  "updated": "2026-09-28 08:38",
   "error": null
 }
