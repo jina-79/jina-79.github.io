@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "“지금 쉬면 몇억 날아간다”…삼성전자·SK하이닉스 육아휴직 동반 첫 감소",
-      "url": "https://n.news.naver.com/mnews/article/029/0003049926"
+      "title": "[속보] 은행 9시 30분 문연다…내년 4월부터 ‘영업시간 30분 단축’",
+      "url": "https://n.news.naver.com/mnews/article/025/0003554244"
     },
     {
-      "title": "농심, '2026 K-EXPO 멕시코'서 신라면 부스 운영…K-라면 알렸다",
-      "url": "https://n.news.naver.com/mnews/article/421/0009193037"
+      "title": "5년내 두 번 담합 땐 시장서 퇴출",
+      "url": "https://n.news.naver.com/mnews/article/015/0005336781"
     },
     {
-      "title": "韓 기업, 북미 관문 멕시코서 '미래산업 동맹'…항공우주·車소재 MOU 잇따라",
-      "url": "https://n.news.naver.com/mnews/article/030/0003470068"
+      "title": "삼성전기, AI 호조에 영업이익률 10% 후반 찍나…실적 눈높이 높아진다",
+      "url": "https://n.news.naver.com/mnews/article/029/0003050087"
     },
     {
-      "title": "금융당국, 서민금융·고정금리 대출 확대 고심",
-      "url": "https://n.news.naver.com/mnews/article/014/0005581193"
+      "title": "한은 넥타이 멘 이형일 “경제·통화정책 조화 모색”…신현송 “물가·금융안정이 전제”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002702533"
     },
     {
-      "title": "한화에어로, 나이·학력 제한 '경력직 채용 지침' 사과‥\"재발방지책 마련\"",
-      "url": "https://n.news.naver.com/mnews/article/214/0001526006"
+      "title": "명륜진사갈비, 오너일가 대부업체에 3000억 저리대출…이종근 회장 檢고발",
+      "url": "https://n.news.naver.com/mnews/article/018/0006376302"
     },
     {
-      "title": "담관암 신약 FDA 승인 … 반전 모멘텀 찾은 HLB",
-      "url": "https://n.news.naver.com/mnews/article/009/0005740348"
+      "title": "CPTPP 가입시 GDP 0.38%↑…농림수산업은 연 8500억 감소",
+      "url": "https://n.news.naver.com/mnews/article/079/0004193345"
     },
     {
-      "title": "기업경기 한 달 만에 꺾였다…10월 BSI 98.6, 수출 5개월만에 '부정적'",
-      "url": "https://n.news.naver.com/mnews/article/030/0003470133"
+      "title": "\"LG전자, 하반기 AI데이터센터 공조 최대 3조원 수주\" 대신證",
+      "url": "https://n.news.naver.com/mnews/article/014/0005581943"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002411607"
+      "title": "삼성 6개사, 미국 헬릭스에 10억달러 투자…인공지능 인프라 협력",
+      "url": "https://n.news.naver.com/mnews/article/422/0000910647"
     },
     {
-      "title": "초과 세수 50조 넘는다…'200조' 미래대응기금에 '나랏빚 상환' 논란",
-      "url": "https://n.news.naver.com/mnews/article/469/0000956145"
+      "title": "에너지 수급 불안에 세계는 ‘수소’ 확대하는데 한국만 ‘축소’",
+      "url": "https://n.news.naver.com/mnews/article/005/0001875500"
     },
     {
-      "title": "올해 주요 재테크 수익률 1위는? 코스피200 ETF…예금 수익률 40배",
-      "url": "https://n.news.naver.com/mnews/article/366/0001194556"
+      "title": "LG, 새 브랜드 캠페인 '스마일 프로젝트' 시작…미소로 고객 접점 확대",
+      "url": "https://n.news.naver.com/mnews/article/277/0005821412"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7080.92,
-      "change": 63.01,
-      "change_pct": 0.9
+      "value": 6868.14,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 844.48,
-      "change": 10.1,
-      "change_pct": 1.21
+      "value": 841.26,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27068.72,
-      "change": 129.35,
-      "change_pct": 0.48
+      "value": 26820.38,
+      "change": -248.34,
+      "change_pct": -0.92
     },
     "usdkrw": {
-      "value": 1354.88,
-      "change": -12.48,
-      "change_pct": -0.91
+      "value": 1359.38,
+      "change": 4.87,
+      "change_pct": 0.36
     }
   },
   "gold": {
-    "price_usd": 4298.8,
-    "price_krw": 5824357,
-    "change": -22.4,
-    "change_pct": -0.52
+    "price_usd": 4155.6,
+    "price_krw": 5649039,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-28 08:38",
+  "updated": "2026-09-29 09:48",
   "error": null
 }
