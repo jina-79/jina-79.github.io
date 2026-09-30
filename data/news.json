@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "[속보] 은행 9시 30분 문연다…내년 4월부터 ‘영업시간 30분 단축’",
-      "url": "https://n.news.naver.com/mnews/article/025/0003554244"
+      "title": "이재용 “축하해, 친구”…뉴욕 타임스스퀘어에 젠슨황 띄운 사연",
+      "url": "https://n.news.naver.com/mnews/article/020/0003751327"
     },
     {
-      "title": "5년내 두 번 담합 땐 시장서 퇴출",
-      "url": "https://n.news.naver.com/mnews/article/015/0005336781"
+      "title": "삼성전자, 능률협 평가서 25년 연속 최다 부문 1위",
+      "url": "https://n.news.naver.com/mnews/article/082/0001400435"
     },
     {
-      "title": "삼성전기, AI 호조에 영업이익률 10% 후반 찍나…실적 눈높이 높아진다",
-      "url": "https://n.news.naver.com/mnews/article/029/0003050087"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/449/0000362444"
     },
     {
-      "title": "한은 넥타이 멘 이형일 “경제·통화정책 조화 모색”…신현송 “물가·금융안정이 전제”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002702533"
+      "title": "고속도로 출구 잘못 나갔어도 괜찮다…15분 내 재진입하면 기본요금 면제",
+      "url": "https://n.news.naver.com/mnews/article/025/0003554494"
     },
     {
-      "title": "명륜진사갈비, 오너일가 대부업체에 3000억 저리대출…이종근 회장 檢고발",
-      "url": "https://n.news.naver.com/mnews/article/018/0006376302"
+      "title": "ISA 가입자 1000만명 돌파…성인 4명 중 1명 가입",
+      "url": "https://n.news.naver.com/mnews/article/016/0002702995"
     },
     {
-      "title": "CPTPP 가입시 GDP 0.38%↑…농림수산업은 연 8500억 감소",
-      "url": "https://n.news.naver.com/mnews/article/079/0004193345"
+      "title": "LG이노텍, 자율주행차로 도로 데이터 수집",
+      "url": "https://n.news.naver.com/mnews/article/081/0003684596"
     },
     {
-      "title": "\"LG전자, 하반기 AI데이터센터 공조 최대 3조원 수주\" 대신證",
-      "url": "https://n.news.naver.com/mnews/article/014/0005581943"
+      "title": "조각투자 장외거래소 준비법인 넥스체인지 출범",
+      "url": "https://n.news.naver.com/mnews/article/277/0005822459"
     },
     {
-      "title": "삼성 6개사, 미국 헬릭스에 10억달러 투자…인공지능 인프라 협력",
-      "url": "https://n.news.naver.com/mnews/article/422/0000910647"
+      "title": "주병기, 쿠팡 현장조사 재착수 시사…\"무너진 정의 다시 세울것\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016342420"
     },
     {
-      "title": "에너지 수급 불안에 세계는 ‘수소’ 확대하는데 한국만 ‘축소’",
-      "url": "https://n.news.naver.com/mnews/article/005/0001875500"
+      "title": "전남광주시의회서 농지 조사 토론회 \"실경작 농민 보호해야\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016344200"
     },
     {
-      "title": "LG, 새 브랜드 캠페인 '스마일 프로젝트' 시작…미소로 고객 접점 확대",
-      "url": "https://n.news.naver.com/mnews/article/277/0005821412"
+      "title": "\"체인 이동없이 담보로…비트코인 디파이 장기성장\"[일문일답]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006377352"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6868.14,
+      "value": 6870.81,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 841.26,
+      "value": 849.8,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26820.38,
-      "change": -248.34,
-      "change_pct": -0.92
+      "value": 26797.54,
+      "change": -22.84,
+      "change_pct": -0.09
     },
     "usdkrw": {
-      "value": 1359.38,
-      "change": 4.87,
-      "change_pct": 0.36
+      "value": 1351.98,
+      "change": -7.58,
+      "change_pct": -0.56
     }
   },
   "gold": {
-    "price_usd": 4155.6,
-    "price_krw": 5649039,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4218.4,
+    "price_krw": 5703192,
+    "change": 50.0,
+    "change_pct": 1.2
   },
-  "updated": "2026-09-29 09:48",
+  "updated": "2026-09-30 09:03",
   "error": null
 }
