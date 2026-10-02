@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "2차 국민참여성장펀드 첫날 2140억 판매… 모집액 35.7% 소진",
-      "url": "https://n.news.naver.com/mnews/article/366/0001195421"
+      "title": "이건희 컬렉션, 英서 글로벌 협력의 장으로 확장..이재용 \"예술과 문화, 함께 나눠야\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005583789"
     },
     {
-      "title": "현대모비스, 램프사업 매각 마무리 수순…프랑스 OP와 본계약 체결",
-      "url": "https://n.news.naver.com/mnews/article/055/0001392170"
+      "title": "[속보] 9월 소비자물가 상승률 2.9%…2%대로 내려와",
+      "url": "https://n.news.naver.com/mnews/article/015/0005338432"
     },
     {
-      "title": "美 2분기 성장률 2.2%로 상향…PCE 물가는 5.0%로 하향",
-      "url": "https://n.news.naver.com/mnews/article/016/0002703955"
+      "title": "국세청장, 여야 국회의원에 “배달기사 원천징수 세율 인하 협조해달라”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001195679"
     },
     {
-      "title": "한화생명, 애큐온캐피탈 4400억원에 인수…여신금융까지 보폭 확대",
-      "url": "https://n.news.naver.com/mnews/article/030/0003471332"
+      "title": "文정부 기록 넘었다...서울 아파트값 86주째 상승 '역대 최장'",
+      "url": "https://n.news.naver.com/mnews/article/008/0005421333"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012265481"
+      "title": "APR1400 美 건설 준비 본격화…'팀코리아' 대응체계 구축",
+      "url": "https://n.news.naver.com/mnews/article/014/0005583816"
     },
     {
-      "title": "하나금융, 계열사 CEO 승계 절차 개시…은행 임추위 역할 확대",
-      "url": "https://n.news.naver.com/mnews/article/648/0000051209"
+      "title": "정의경 국토2차관…교통·국토 등 거친 정통 관료[프로필]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016350393"
     },
     {
-      "title": "\"최대 10%할인에 알리페이 가능\"…온누리상품권 18년만 개편",
-      "url": "https://n.news.naver.com/mnews/article/003/0014225454"
+      "title": "일본시장 공들이는 현대해상, 20년 새 13배 성장",
+      "url": "https://n.news.naver.com/mnews/article/025/0003555265"
     },
     {
-      "title": "올해 국세수입 '역대 최대' 478.6조 전망‥4월 추경보다 63조↑",
-      "url": "https://n.news.naver.com/mnews/article/214/0001526502"
+      "title": "9월 수출 1200억달러 첫 돌파…반도체만 600억달러 넘었다",
+      "url": "https://n.news.naver.com/mnews/article/654/0000203375"
     },
     {
-      "title": "스마트워크센터에 5G까지…건물 전체가 ‘협업 플랫폼’",
-      "url": "https://n.news.naver.com/mnews/article/011/0004667000"
+      "title": "정부, 초과세수 활용해 이달 국고채 발행 규모 5兆 줄이기로",
+      "url": "https://n.news.naver.com/mnews/article/366/0001195722"
     },
     {
-      "title": "美무역수장 \"과잉생산 관세, 각국 상한선 고려\"…韓 '15%' 안 넘길듯",
-      "url": "https://n.news.naver.com/mnews/article/003/0014225022"
+      "title": "한화오션, 임원 15명 승진…북미·제조 AX 역량 강화",
+      "url": "https://n.news.naver.com/mnews/article/421/0009204897"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6802.92,
+      "value": 6946.25,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 853.11,
+      "value": 902.27,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26861.06,
-      "change": 63.53,
-      "change_pct": 0.24
+      "value": 26871.6,
+      "change": 10.54,
+      "change_pct": 0.04
     },
     "usdkrw": {
-      "value": 1357.36,
-      "change": 6.86,
-      "change_pct": 0.51
+      "value": 1364.34,
+      "change": 7.5,
+      "change_pct": 0.55
     }
   },
   "gold": {
-    "price_usd": 4182.1,
-    "price_krw": 5676615,
-    "change": 2.4,
-    "change_pct": 0.06
+    "price_usd": 4198.3,
+    "price_krw": 5727908,
+    "change": 11.6,
+    "change_pct": 0.28
   },
-  "updated": "2026-10-01 09:20",
+  "updated": "2026-10-02 09:30",
   "error": null
 }
