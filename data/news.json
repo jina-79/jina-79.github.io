@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "“동물학대범, 최대 5년 동물 못 키운다”…‘사육금지명령’ 국회 통과",
-      "url": "https://n.news.naver.com/mnews/article/662/0000105502"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000912103"
     },
     {
-      "title": "최태원 회장, SK지분 9440억원 매각…재산분할 자금 마련 (1보)",
-      "url": "https://n.news.naver.com/mnews/article/014/0005584401"
+      "title": "현대캐피탈서 주택대출 받을랬더니…146명 개인정보 털렸다",
+      "url": "https://n.news.naver.com/mnews/article/021/0002822918"
     },
     {
-      "title": "韓, G20서 \"과잉생산 시장원칙 따라 대응…국제공조 필요\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005584177"
-    },
-    {
-      "title": "은행·저축은행 고객정보 줄줄이 유출…AI 해킹 공포에 금융권 초비상",
-      "url": "https://n.news.naver.com/mnews/article/008/0005421775"
-    },
-    {
-      "title": "삼성전자, 자사주 계획 물량 모두 매입...수급 우려 제기",
-      "url": "https://n.news.naver.com/mnews/article/052/0002413886"
-    },
-    {
-      "title": "기름값 20주 연속 내림세…휘발유 L당 1857.6원",
-      "url": "https://n.news.naver.com/mnews/article/021/0002822873"
-    },
-    {
-      "title": "1~9월 K뷰티 수출 111억달러…작년 연간 실적 육박",
-      "url": "https://n.news.naver.com/mnews/article/374/0000536141"
-    },
-    {
-      "title": "[속보]\"개미들 1.7조 팔았다\"…코스피 7000 지켜낸 '뜻밖의 큰손'",
-      "url": "https://n.news.naver.com/mnews/article/018/0006379710"
+      "title": "AI가 돈을 쓸 때 필요한 것...스테이블코인이 ‘기계의 화폐’로 주목받는 이유[엠블록레터]",
+      "url": "https://n.news.naver.com/mnews/article/009/0005743467"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/023/0004001756"
+      "url": "https://n.news.naver.com/mnews/article/056/0012267344"
     },
     {
-      "title": "하나금융, '4000명 새 둥지' 청라 시대 열었다…\"새로운 100년 시작\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014229380"
+      "title": "메가특구 사회적 대화 2차 실무협의…정부, 노사에 특별법 설명",
+      "url": "https://n.news.naver.com/mnews/article/001/0016354857"
+    },
+    {
+      "title": "美 9월 비농업 고용, 예상보다 크게 둔화…연준 금리 결정 영향 주목(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009207597"
+    },
+    {
+      "title": "연휴 중 금융권 해킹 비상…이억원, 내일 전 업권 CEO 긴급 소집",
+      "url": "https://n.news.naver.com/mnews/article/629/0000539267"
+    },
+    {
+      "title": "\"20주째 내렸다는데 고작 0.4원\"…서울 휘발유 여전히 1900원",
+      "url": "https://n.news.naver.com/mnews/article/015/0005338835"
+    },
+    {
+      "title": "영화 ‘암살자(들)’ 300억 투자 논란에…기업은행·산업은행 “외부 요청 없었다”",
+      "url": "https://n.news.naver.com/mnews/article/022/0004163799"
+    },
+    {
+      "title": "첫 수출 17년 만에 '종주국' 美 문 열었다…K원전 새 분기점",
+      "url": "https://n.news.naver.com/mnews/article/003/0014231346"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 7003.74,
+      "change": 32.39,
+      "change_pct": 0.46
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 893.29,
+      "change": -1.0,
+      "change_pct": -0.11
     },
     "nasdaq": {
       "value": 27190.86,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4172.1,
-    "price_krw": 5601086,
-    "change": -30.2,
-    "change_pct": -0.72
+    "price_usd": 4162.3,
+    "price_krw": 5587929,
+    "change": -40.0,
+    "change_pct": -0.95
   },
-  "updated": "2026-10-03 09:09",
+  "updated": "2026-10-04 08:30",
   "error": null
 }
