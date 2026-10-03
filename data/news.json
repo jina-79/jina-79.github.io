@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "이건희 컬렉션, 英서 글로벌 협력의 장으로 확장..이재용 \"예술과 문화, 함께 나눠야\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005583789"
+      "title": "“동물학대범, 최대 5년 동물 못 키운다”…‘사육금지명령’ 국회 통과",
+      "url": "https://n.news.naver.com/mnews/article/662/0000105502"
     },
     {
-      "title": "[속보] 9월 소비자물가 상승률 2.9%…2%대로 내려와",
-      "url": "https://n.news.naver.com/mnews/article/015/0005338432"
+      "title": "최태원 회장, SK지분 9440억원 매각…재산분할 자금 마련 (1보)",
+      "url": "https://n.news.naver.com/mnews/article/014/0005584401"
     },
     {
-      "title": "국세청장, 여야 국회의원에 “배달기사 원천징수 세율 인하 협조해달라”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001195679"
+      "title": "韓, G20서 \"과잉생산 시장원칙 따라 대응…국제공조 필요\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005584177"
     },
     {
-      "title": "文정부 기록 넘었다...서울 아파트값 86주째 상승 '역대 최장'",
-      "url": "https://n.news.naver.com/mnews/article/008/0005421333"
+      "title": "은행·저축은행 고객정보 줄줄이 유출…AI 해킹 공포에 금융권 초비상",
+      "url": "https://n.news.naver.com/mnews/article/008/0005421775"
     },
     {
-      "title": "APR1400 美 건설 준비 본격화…'팀코리아' 대응체계 구축",
-      "url": "https://n.news.naver.com/mnews/article/014/0005583816"
+      "title": "삼성전자, 자사주 계획 물량 모두 매입...수급 우려 제기",
+      "url": "https://n.news.naver.com/mnews/article/052/0002413886"
     },
     {
-      "title": "정의경 국토2차관…교통·국토 등 거친 정통 관료[프로필]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016350393"
+      "title": "기름값 20주 연속 내림세…휘발유 L당 1857.6원",
+      "url": "https://n.news.naver.com/mnews/article/021/0002822873"
     },
     {
-      "title": "일본시장 공들이는 현대해상, 20년 새 13배 성장",
-      "url": "https://n.news.naver.com/mnews/article/025/0003555265"
+      "title": "1~9월 K뷰티 수출 111억달러…작년 연간 실적 육박",
+      "url": "https://n.news.naver.com/mnews/article/374/0000536141"
     },
     {
-      "title": "9월 수출 1200억달러 첫 돌파…반도체만 600억달러 넘었다",
-      "url": "https://n.news.naver.com/mnews/article/654/0000203375"
+      "title": "[속보]\"개미들 1.7조 팔았다\"…코스피 7000 지켜낸 '뜻밖의 큰손'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006379710"
     },
     {
-      "title": "정부, 초과세수 활용해 이달 국고채 발행 규모 5兆 줄이기로",
-      "url": "https://n.news.naver.com/mnews/article/366/0001195722"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/023/0004001756"
     },
     {
-      "title": "한화오션, 임원 15명 승진…북미·제조 AX 역량 강화",
-      "url": "https://n.news.naver.com/mnews/article/421/0009204897"
+      "title": "하나금융, '4000명 새 둥지' 청라 시대 열었다…\"새로운 100년 시작\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014229380"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6946.25,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 902.27,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26871.6,
-      "change": 10.54,
-      "change_pct": 0.04
+      "value": 27190.86,
+      "change": 319.26,
+      "change_pct": 1.19
     },
     "usdkrw": {
-      "value": 1364.34,
-      "change": 7.5,
-      "change_pct": 0.55
+      "value": 1342.51,
+      "change": -14.33,
+      "change_pct": -1.06
     }
   },
   "gold": {
-    "price_usd": 4198.3,
-    "price_krw": 5727908,
-    "change": 11.6,
-    "change_pct": 0.28
+    "price_usd": 4172.1,
+    "price_krw": 5601086,
+    "change": -30.2,
+    "change_pct": -0.72
   },
-  "updated": "2026-10-02 09:30",
+  "updated": "2026-10-03 09:09",
   "error": null
 }
