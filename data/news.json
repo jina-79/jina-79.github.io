@@ -2,43 +2,43 @@
   "news": [
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000912103"
+      "url": "https://n.news.naver.com/mnews/article/214/0001527140"
     },
     {
-      "title": "현대캐피탈서 주택대출 받을랬더니…146명 개인정보 털렸다",
-      "url": "https://n.news.naver.com/mnews/article/021/0002822918"
+      "title": "대한항공·아시아나 과태료 합병 승인조건 위반 185억",
+      "url": "https://n.news.naver.com/mnews/article/009/0005743836"
     },
     {
-      "title": "AI가 돈을 쓸 때 필요한 것...스테이블코인이 ‘기계의 화폐’로 주목받는 이유[엠블록레터]",
-      "url": "https://n.news.naver.com/mnews/article/009/0005743467"
+      "title": "민간 아파트 부정청약 5년간 1699건… 위장전입이 83%",
+      "url": "https://n.news.naver.com/mnews/article/366/0001196047"
+    },
+    {
+      "title": "AI發 무차별 해킹 피해 확산…금융당국, 오늘 금융권 긴급 소집",
+      "url": "https://n.news.naver.com/mnews/article/421/0009208888"
+    },
+    {
+      "title": "솔리다임 자금조달 해법 고심하는 SK하이닉스",
+      "url": "https://n.news.naver.com/mnews/article/082/0001401057"
+    },
+    {
+      "title": "AI로 인류멸망? 전 오픈AI 안전담당 \"원전처럼 다뤄야\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004195518"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012267344"
+      "url": "https://n.news.naver.com/mnews/article/052/0002414578"
     },
     {
-      "title": "메가특구 사회적 대화 2차 실무협의…정부, 노사에 특별법 설명",
-      "url": "https://n.news.naver.com/mnews/article/001/0016354857"
+      "title": "트럼프 압박까지…대미투자, 알래스카 LNG 암초에 산 넘어 산",
+      "url": "https://n.news.naver.com/mnews/article/001/0016356178"
     },
     {
-      "title": "美 9월 비농업 고용, 예상보다 크게 둔화…연준 금리 결정 영향 주목(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009207597"
+      "title": "인천 청라에 '아크원푸르지오'…아파트 868가구·오피스텔 987실",
+      "url": "https://n.news.naver.com/mnews/article/015/0005339002"
     },
     {
-      "title": "연휴 중 금융권 해킹 비상…이억원, 내일 전 업권 CEO 긴급 소집",
-      "url": "https://n.news.naver.com/mnews/article/629/0000539267"
-    },
-    {
-      "title": "\"20주째 내렸다는데 고작 0.4원\"…서울 휘발유 여전히 1900원",
-      "url": "https://n.news.naver.com/mnews/article/015/0005338835"
-    },
-    {
-      "title": "영화 ‘암살자(들)’ 300억 투자 논란에…기업은행·산업은행 “외부 요청 없었다”",
-      "url": "https://n.news.naver.com/mnews/article/022/0004163799"
-    },
-    {
-      "title": "첫 수출 17년 만에 '종주국' 美 문 열었다…K원전 새 분기점",
-      "url": "https://n.news.naver.com/mnews/article/003/0014231346"
+      "title": "LG전자 노사 손잡고 아동복지시설 봉사... \"사회적 책임 실천\"",
+      "url": "https://n.news.naver.com/mnews/article/469/0000957570"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 1.19
     },
     "usdkrw": {
-      "value": 1342.51,
-      "change": -14.33,
-      "change_pct": -1.06
+      "value": 1343.0,
+      "change": -17.59,
+      "change_pct": -1.29
     }
   },
   "gold": {
-    "price_usd": 4162.3,
-    "price_krw": 5587929,
-    "change": -40.0,
-    "change_pct": -0.95
+    "price_usd": 4172.7,
+    "price_krw": 5603936,
+    "change": 10.4,
+    "change_pct": 0.25
   },
-  "updated": "2026-10-04 08:30",
+  "updated": "2026-10-05 08:49",
   "error": null
 }
