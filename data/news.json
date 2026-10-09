@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "HD현대重, 누리호 5차 발사 성공 지원… 발사대시스템 안정적 운용",
-      "url": "https://n.news.naver.com/mnews/article/011/0004669042"
+      "title": "삼성전자 역대급 실적에도 코스피 6600선 후퇴…외국인 2조원 순매도",
+      "url": "https://n.news.naver.com/mnews/article/025/0003556666"
     },
     {
-      "title": "‘돈나무 언니’ 캐시 우드 “비트코인 2030년에 20억 된다”",
-      "url": "https://n.news.naver.com/mnews/article/023/0004002530"
+      "title": "'44조 담합 의혹' SK에너지 \"국민께 송구\"…공정위 발표 하루 만에 사과",
+      "url": "https://n.news.naver.com/mnews/article/215/0001268575"
+    },
+    {
+      "title": "HD현대, 글로벌 선박엔진 MRO社 '골텐스' 3315억에 인수(상보)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009218168"
+    },
+    {
+      "title": "野 \"레버리지 ETF, 청와대가 주범\"…與 \"설계 아쉽지만 도입 불가피\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005423918"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001393934"
+      "url": "https://n.news.naver.com/mnews/article/052/0002416302"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000913635"
+      "title": "美증시, 국채금리 다시 치솟자 꺾였다…다우 341p 하락",
+      "url": "https://n.news.naver.com/mnews/article/119/0003140652"
     },
     {
-      "title": "국내 첫 GLP-1 계열 ‘K비만약’ 탄생…한미 ‘에페’ 허가",
-      "url": "https://n.news.naver.com/mnews/article/029/0003052049"
+      "title": "中, 한국 금융권 해커 '광둥성 26세' 의혹에 \"구체적 상황 몰라\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005826467"
     },
     {
-      "title": "LG에너지솔루션 3분기 매출 9조6434억원…\"분기 최대 매출\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005586541"
+      "title": "LG엔솔 3분기 매출 9조6천억 '역대 최대'",
+      "url": "https://n.news.naver.com/mnews/article/014/0005586939"
     },
     {
-      "title": "“살 걸 그랬나”…올해 90% 뛴 주식, 증권가는 “더 간다”[종목e슈]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006383249"
+      "title": "도미노피자도 오른다…외식 프랜차이즈 ‘가격 인상’ 행렬",
+      "url": "https://n.news.naver.com/mnews/article/018/0006383359"
     },
     {
-      "title": "포스코홀딩스, 아르헨티나 염수리튬 2공장 준공",
-      "url": "https://n.news.naver.com/mnews/article/629/0000539964"
-    },
-    {
-      "title": "“연봉 8천인데 성과급 7.5억 나옵니다”…삼전 과장, 퇴근길 어깨편다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005745394"
-    },
-    {
-      "title": "8월 경상수지 461억 1천만달러 '흑자'…역대 2위",
-      "url": "https://n.news.naver.com/mnews/article/215/0001268519"
+      "title": "심상찮은 농어촌 민심에…농지조사 ‘보완’ CPTPP 가입 ‘보류’",
+      "url": "https://n.news.naver.com/mnews/article/028/0002826701"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6785.66,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 889.19,
+      "value": 898.43,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27538.69,
-      "change": -61.1,
-      "change_pct": -0.22
+      "value": 27193.34,
+      "change": -345.35,
+      "change_pct": -1.25
     },
     "usdkrw": {
-      "value": 1338.38,
-      "change": -1.36,
-      "change_pct": -0.1
+      "value": 1344.64,
+      "change": 5.56,
+      "change_pct": 0.42
     }
   },
   "gold": {
-    "price_usd": 4131.0,
-    "price_krw": 5528847,
-    "change": -56.1,
-    "change_pct": -1.34
+    "price_usd": 4168.9,
+    "price_krw": 5605669,
+    "change": 28.2,
+    "change_pct": 0.68
   },
-  "updated": "2026-10-08 09:42",
+  "updated": "2026-10-09 09:57",
   "error": null
 }
