@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/448/0000643892"
+      "title": "韓 금융권 해킹 때문?…中 침투용 AI ‘아르텍스’ 비공개 전환",
+      "url": "https://n.news.naver.com/mnews/article/020/0003754006"
     },
     {
-      "title": "최태원 “호남 반도체, 용인의 3분의 2 규모… 전력·용수 늦어도 먼저 착공”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001197057"
+      "title": "\"국세 체납 116조 넘어…법인세 등 지연 가산세 5년여간 22조\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016368619"
     },
     {
-      "title": "해외발 금융권 해킹 10건 중 9건 “공격 주체 파악 못해”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005746274"
+      "title": "'탱크데이' 스타벅스 논란 5개월 만에 투썸 제치고 1위 탈환",
+      "url": "https://n.news.naver.com/mnews/article/660/0000118811"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002416615"
+      "title": "'8단 자동·교차로 감속' 현대차 신형 투싼 45㎞ 타보니[카미경]",
+      "url": "https://n.news.naver.com/mnews/article/293/0000091412"
     },
     {
-      "title": "쿠팡 한밤중 먹통…“서비스 업그레이드 과정서 발생”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003556808"
+      "title": "은행권 금리 경쟁…1년만기 예금 3%대 후반으로 속속 인상",
+      "url": "https://n.news.naver.com/mnews/article/001/0016367992"
     },
     {
-      "title": "디자인 보고 현대차 '발칵' 뒤집혔는데…극찬 쏟아진 車 [최수진의 모빌리티톡]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005340781"
+      "title": "반도체 호황에도 중기엔 그늘…생산 줄고 수출비중 축소",
+      "url": "https://n.news.naver.com/mnews/article/422/0000914333"
     },
     {
-      "title": "정인섭 한화오션 사장 \"크레인 아닌 협상장서 논의 이어가야\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005340878"
+      "title": "전국 휘발유값 21주 연속 하락…ℓ당 1857.6원",
+      "url": "https://n.news.naver.com/mnews/article/119/0003141284"
     },
     {
-      "title": "“ETF 수익률 10개 중 8개가 2차전지” ESS·AI데이터센터 호재 효과 [투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002707281"
+      "title": "삼전 '107조' 잔치에도 주가는 '주춤'…코스피 반등 열쇠는",
+      "url": "https://n.news.naver.com/mnews/article/215/0001268741"
     },
     {
-      "title": "경상수지 흑자 3개월 연속 400억弗 웃돌아",
-      "url": "https://n.news.naver.com/mnews/article/022/0004165294"
+      "title": "서울 피해 경기 가려했는데…여기도 10억, '어디로 가나'",
+      "url": "https://n.news.naver.com/mnews/article/374/0000537059"
     },
     {
-      "title": "100원부터 경매, 전국 떡볶이 맛보기…공주에 모인 전통시장 120곳",
-      "url": "https://n.news.naver.com/mnews/article/081/0003687634"
+      "title": "IMF 韓 성장률 얼마나 올리나...美 인플레이션 지표 관건",
+      "url": "https://n.news.naver.com/mnews/hotissue/article/011/0004669892?type=series&cid=2002803"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.64
     },
     "usdkrw": {
-      "value": 1340.02,
-      "change": 0.94,
-      "change_pct": 0.07
+      "value": 1340.9,
+      "change": -2.09,
+      "change_pct": -0.16
     }
   },
   "gold": {
-    "price_usd": 4220.3,
-    "price_krw": 5655286,
-    "change": 63.3,
-    "change_pct": 1.52
+    "price_usd": 4216.3,
+    "price_krw": 5653636,
+    "change": 59.3,
+    "change_pct": 1.43
   },
-  "updated": "2026-10-10 09:29",
+  "updated": "2026-10-11 09:05",
   "error": null
 }
