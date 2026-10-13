@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "중국 승용차 수출 비중 1년 새 20%→38%…유럽서도 10대 중 1대",
-      "url": "https://n.news.naver.com/mnews/article/088/0001033414"
+      "title": "李대통령 \"부산을 북극항로 핵심 허브로…가덕 신공항 등 속도 내야\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014249244"
     },
     {
-      "title": "LH \"향후 3년간 서울 25개 자치구에 2만가구 이상 공급\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016368955"
+      "title": "'헤리티지의 전동화' 앞세운 佛 브랜드…\"유럽 위한 차\" 강조한 中[파리모터쇼 2026]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014248485"
     },
     {
-      "title": "김승연 \"낙관주의 설 자리 없다\"…'200년 한화' 준비할 혁신 당부",
-      "url": "https://n.news.naver.com/mnews/article/015/0005341218"
+      "title": "[속보] 코스피 급락, 매도 사이드카 발동…4%대 급락",
+      "url": "https://n.news.naver.com/mnews/article/022/0004166190"
     },
     {
-      "title": "'좀비 추심' 제동…밀린 빚 '소멸시효' 완성해야 금융사 세제 혜택",
-      "url": "https://n.news.naver.com/mnews/article/421/0009220959"
+      "title": "반도체 급락장에도 호남 테마주 강세…금호전기 20% 급등 [핫종목]",
+      "url": "https://n.news.naver.com/mnews/article/421/0009224034"
     },
     {
-      "title": "롯데百, 외국인 멤버십 25만장 돌파…'체크인서울' 연계해 혜택 확대",
-      "url": "https://n.news.naver.com/mnews/article/421/0009220979"
+      "title": "서울시, 정비사업조합·시공사와 협약…\"3만 호 연내 착공\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001394981"
     },
     {
-      "title": "현대차, 인도 진출 30년 만에 1000만 대 고지 ‘눈앞’",
-      "url": "https://n.news.naver.com/mnews/article/082/0001401945"
+      "title": "르노그룹 \"2028년 레벨2++ 수준 전기차 韓 출시\"…그랑 콜레오스 유럽 수출 검토[파리모터쇼 2026]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014248323"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012271537"
+      "title": "'MLCC 핵심기술 개발 주도' 김위헌 삼성전기 상무, 산업포장 수상",
+      "url": "https://n.news.naver.com/mnews/article/421/0009223926"
     },
     {
-      "title": "\"앤트로픽, 아이렌과 클라우드 계약\"…데이터센터 확보 속도전",
-      "url": "https://n.news.naver.com/mnews/article/001/0016369680"
+      "title": "6천선 위태롭다…美반도체 부진 속 코스피 4%대 하락",
+      "url": "https://n.news.naver.com/mnews/article/079/0004197971"
     },
     {
-      "title": "\"日 고령자 고용해법 벤치마킹해야… 정년 연장 아닌 단계적 재고용 필요\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000958774"
+      "title": "LS일렉트릭, 美 빅테크 데이터센터에 1853억원 규모 배전솔루션 공급한다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006386893"
     },
     {
-      "title": "셀트리온, 3분기 매출 1.5조 ‘분기 최대’…영업익 사상 첫 5000억 돌파",
-      "url": "https://n.news.naver.com/mnews/article/016/0002707794"
+      "title": "이성훈 LH 사장, 여야 질타에도 \"지금 집 안 사도 손해 안 봐\"",
+      "url": "https://n.news.naver.com/mnews/article/088/0001033817"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6625.93,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 5976.58,
+      "change": -407.66,
+      "change_pct": -6.39
     },
     "kosdaq": {
-      "value": 892.27,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 809.39,
+      "change": -39.8,
+      "change_pct": -4.69
     },
     "nasdaq": {
-      "value": 27366.17,
-      "change": 172.83,
-      "change_pct": 0.64
+      "value": 27245.9,
+      "change": -120.27,
+      "change_pct": -0.44
     },
     "usdkrw": {
-      "value": 1338.38,
-      "change": -4.61,
-      "change_pct": -0.34
+      "value": 1338.88,
+      "change": 0.0,
+      "change_pct": 0.0
     }
   },
   "gold": {
-    "price_usd": 4217.4,
-    "price_krw": 5644483,
-    "change": 1.1,
-    "change_pct": 0.03
+    "price_usd": 4192.1,
+    "price_krw": 5612718,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-10-12 09:13",
+  "updated": "2026-10-13 11:24",
   "error": null
 }
