@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "필리 반도체지수 5거래일 연속 하락…누적 낙폭 7.6%",
-      "url": "https://n.news.naver.com/mnews/article/029/0003052948"
+      "title": "송미령 “농지 임대차 적법화 특례…농지은행 매입 확대 검토”",
+      "url": "https://n.news.naver.com/mnews/article/029/0003053092"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001528762"
+      "title": "삼성·SK, AI 메모리 기술 총출동…美·中 추격 속 반도체대전 개막[SEDEX2026]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003142430"
     },
     {
-      "title": "정부, 18개국 1.7만 명 ‘피부 데이터뱅크’ AI로 제공",
-      "url": "https://n.news.naver.com/mnews/article/056/0012273190"
+      "title": "韓日 중소기업계 ‘셔틀교류’ 본궤도…실질 협력 확대",
+      "url": "https://n.news.naver.com/mnews/article/029/0003053049"
     },
     {
-      "title": "김정아 이노션 대표 \"시네마바이브랜드, 영화 산업 새 돌파구 역할\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009223756"
+      "title": "국토부, 전국 정비사업장 특별점검",
+      "url": "https://n.news.naver.com/mnews/article/011/0004671295"
     },
     {
-      "title": "삼성전자, 美서 HBM5 등 차세대 메모리 전략 공개",
-      "url": "https://n.news.naver.com/mnews/article/014/0005588181"
+      "title": "\"가는 곳마다 대박\"...신세계백화점이 만든 'K브랜드 등용문'",
+      "url": "https://n.news.naver.com/mnews/article/008/0005426238"
     },
     {
-      "title": "새마을금고, 400명대 정보 유출 확인 당국에 신고",
-      "url": "https://n.news.naver.com/mnews/article/374/0000537578"
+      "title": "AI로 전시회 통합·대형화…2030년 글로벌 대표 전시회 5개 육성",
+      "url": "https://n.news.naver.com/mnews/article/119/0003142461"
     },
     {
-      "title": "中 반도체 추격 충격 지속…호실적 은행주도 흔들[뉴욕마감]",
-      "url": "https://n.news.naver.com/mnews/article/008/0005425915"
+      "title": "'경영 복귀' 조현범 회장, 젊은 직원과 소통…\"현장서 문제 찾고 실행해야\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006387890"
     },
     {
-      "title": "LG전자·애플, AI홈 동맹…카메라·도어락 등 7종 선보인다",
-      "url": "https://n.news.naver.com/mnews/article/032/0003476140"
+      "title": "SK하닉 안현 “AI 인프라 폭증… HBM만으론 부족”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001878768"
     },
     {
-      "title": "“비트코인 폭락 끝났다”…10만 달러 간다는 큰손",
-      "url": "https://n.news.naver.com/mnews/article/018/0006387482"
+      "title": "“한국 철강 위상 뽐냈다” 2027년 세계철강 총회 서울서 열린다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005748247"
     },
     {
-      "title": "오유경 식약처장 \"부작용 피해구제 위해 미프진 합법화 필요\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000915183"
+      "title": "관세 110%·세계 3위 車시장… 정의선, 현지 생산으로 '승부'",
+      "url": "https://n.news.naver.com/mnews/article/014/0005589275"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27204.38,
-      "change": -41.52,
-      "change_pct": -0.15
+      "value": 26692.87,
+      "change": -511.51,
+      "change_pct": -1.88
     },
     "usdkrw": {
-      "value": 1339.48,
-      "change": 5.35,
-      "change_pct": 0.4
+      "value": 1341.01,
+      "change": 0.7,
+      "change_pct": 0.05
     }
   },
   "gold": {
-    "price_usd": 4177.8,
-    "price_krw": 5596079,
-    "change": -12.8,
-    "change_pct": -0.31
+    "price_usd": 4123.6,
+    "price_krw": 5529788,
+    "change": -53.7,
+    "change_pct": -1.29
   },
-  "updated": "2026-10-14 09:08",
+  "updated": "2026-10-15 08:40",
   "error": null
 }
