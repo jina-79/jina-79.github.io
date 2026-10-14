@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "李대통령 \"부산을 북극항로 핵심 허브로…가덕 신공항 등 속도 내야\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014249244"
+      "title": "필리 반도체지수 5거래일 연속 하락…누적 낙폭 7.6%",
+      "url": "https://n.news.naver.com/mnews/article/029/0003052948"
     },
     {
-      "title": "'헤리티지의 전동화' 앞세운 佛 브랜드…\"유럽 위한 차\" 강조한 中[파리모터쇼 2026]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014248485"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/214/0001528762"
     },
     {
-      "title": "[속보] 코스피 급락, 매도 사이드카 발동…4%대 급락",
-      "url": "https://n.news.naver.com/mnews/article/022/0004166190"
+      "title": "정부, 18개국 1.7만 명 ‘피부 데이터뱅크’ AI로 제공",
+      "url": "https://n.news.naver.com/mnews/article/056/0012273190"
     },
     {
-      "title": "반도체 급락장에도 호남 테마주 강세…금호전기 20% 급등 [핫종목]",
-      "url": "https://n.news.naver.com/mnews/article/421/0009224034"
+      "title": "김정아 이노션 대표 \"시네마바이브랜드, 영화 산업 새 돌파구 역할\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009223756"
     },
     {
-      "title": "서울시, 정비사업조합·시공사와 협약…\"3만 호 연내 착공\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001394981"
+      "title": "삼성전자, 美서 HBM5 등 차세대 메모리 전략 공개",
+      "url": "https://n.news.naver.com/mnews/article/014/0005588181"
     },
     {
-      "title": "르노그룹 \"2028년 레벨2++ 수준 전기차 韓 출시\"…그랑 콜레오스 유럽 수출 검토[파리모터쇼 2026]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014248323"
+      "title": "새마을금고, 400명대 정보 유출 확인 당국에 신고",
+      "url": "https://n.news.naver.com/mnews/article/374/0000537578"
     },
     {
-      "title": "'MLCC 핵심기술 개발 주도' 김위헌 삼성전기 상무, 산업포장 수상",
-      "url": "https://n.news.naver.com/mnews/article/421/0009223926"
+      "title": "中 반도체 추격 충격 지속…호실적 은행주도 흔들[뉴욕마감]",
+      "url": "https://n.news.naver.com/mnews/article/008/0005425915"
     },
     {
-      "title": "6천선 위태롭다…美반도체 부진 속 코스피 4%대 하락",
-      "url": "https://n.news.naver.com/mnews/article/079/0004197971"
+      "title": "LG전자·애플, AI홈 동맹…카메라·도어락 등 7종 선보인다",
+      "url": "https://n.news.naver.com/mnews/article/032/0003476140"
     },
     {
-      "title": "LS일렉트릭, 美 빅테크 데이터센터에 1853억원 규모 배전솔루션 공급한다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006386893"
+      "title": "“비트코인 폭락 끝났다”…10만 달러 간다는 큰손",
+      "url": "https://n.news.naver.com/mnews/article/018/0006387482"
     },
     {
-      "title": "이성훈 LH 사장, 여야 질타에도 \"지금 집 안 사도 손해 안 봐\"",
-      "url": "https://n.news.naver.com/mnews/article/088/0001033817"
+      "title": "오유경 식약처장 \"부작용 피해구제 위해 미프진 합법화 필요\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000915183"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5976.58,
-      "change": -407.66,
-      "change_pct": -6.39
-    },
-    "kosdaq": {
-      "value": 809.39,
-      "change": -39.8,
-      "change_pct": -4.69
-    },
-    "nasdaq": {
-      "value": 27245.9,
-      "change": -120.27,
-      "change_pct": -0.44
-    },
-    "usdkrw": {
-      "value": 1338.88,
+      "value": 6035.35,
       "change": 0.0,
       "change_pct": 0.0
+    },
+    "kosdaq": {
+      "value": 837.03,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "nasdaq": {
+      "value": 27204.38,
+      "change": -41.52,
+      "change_pct": -0.15
+    },
+    "usdkrw": {
+      "value": 1339.48,
+      "change": 5.35,
+      "change_pct": 0.4
     }
   },
   "gold": {
-    "price_usd": 4192.1,
-    "price_krw": 5612718,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4177.8,
+    "price_krw": 5596079,
+    "change": -12.8,
+    "change_pct": -0.31
   },
-  "updated": "2026-10-13 11:24",
+  "updated": "2026-10-14 09:08",
   "error": null
 }
