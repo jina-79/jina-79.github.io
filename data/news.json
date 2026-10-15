@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "송미령 “농지 임대차 적법화 특례…농지은행 매입 확대 검토”",
-      "url": "https://n.news.naver.com/mnews/article/029/0003053092"
+      "title": "수출물가 두 달째 하락…유가 급등에 수입물가는 반등",
+      "url": "https://n.news.naver.com/mnews/article/123/0002391977"
     },
     {
-      "title": "삼성·SK, AI 메모리 기술 총출동…美·中 추격 속 반도체대전 개막[SEDEX2026]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003142430"
+      "title": "눈여겨 본 그 옷, 그 자리서 바로…지그재그, 성수 팝업 운영",
+      "url": "https://n.news.naver.com/mnews/article/138/0002244862"
     },
     {
-      "title": "韓日 중소기업계 ‘셔틀교류’ 본궤도…실질 협력 확대",
-      "url": "https://n.news.naver.com/mnews/article/029/0003053049"
+      "title": "대한항공, 3분기 영업익 12% 증가한 4212억원… 연료비 급증에 시장 기대 밑돌아",
+      "url": "https://n.news.naver.com/mnews/article/366/0001198234"
     },
     {
-      "title": "국토부, 전국 정비사업장 특별점검",
-      "url": "https://n.news.naver.com/mnews/article/011/0004671295"
+      "title": "\"AI·스타트업에 4조 이상 투자\" 장재훈 현대차 부회장 간담회",
+      "url": "https://n.news.naver.com/mnews/article/014/0005589953"
     },
     {
-      "title": "\"가는 곳마다 대박\"...신세계백화점이 만든 'K브랜드 등용문'",
-      "url": "https://n.news.naver.com/mnews/article/008/0005426238"
+      "title": "\"가계대출 2.2조원 줄었다\"…9개월만 첫 순감..주담대는 3.3조 늘어",
+      "url": "https://n.news.naver.com/mnews/article/014/0005589665"
     },
     {
-      "title": "AI로 전시회 통합·대형화…2030년 글로벌 대표 전시회 5개 육성",
-      "url": "https://n.news.naver.com/mnews/article/119/0003142461"
+      "title": "HMM, 2조 원 들여 컨선 12척 추가 확보",
+      "url": "https://n.news.naver.com/mnews/article/011/0004671683"
     },
     {
-      "title": "'경영 복귀' 조현범 회장, 젊은 직원과 소통…\"현장서 문제 찾고 실행해야\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006387890"
+      "title": "코스피 급락에 긴급 점검회의…이억원 \"리스크 관리에 만전\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016379518"
     },
     {
-      "title": "SK하닉 안현 “AI 인프라 폭증… HBM만으론 부족”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001878768"
+      "title": "트럼프 불확실성에 금 몰리는 런던…보관량 1만t 육박",
+      "url": "https://n.news.naver.com/mnews/article/018/0006388642"
     },
     {
-      "title": "“한국 철강 위상 뽐냈다” 2027년 세계철강 총회 서울서 열린다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005748247"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/214/0001529246"
     },
     {
-      "title": "관세 110%·세계 3위 車시장… 정의선, 현지 생산으로 '승부'",
-      "url": "https://n.news.naver.com/mnews/article/014/0005589275"
+      "title": "대전 찾은 이소영 “지역 강점이 성장으로 이어지는 창업생태계 뒷받침”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002709984"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6035.35,
+      "value": 6008.81,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 837.03,
+      "value": 823.88,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26692.87,
-      "change": -511.51,
-      "change_pct": -1.88
+      "value": 26713.03,
+      "change": 20.16,
+      "change_pct": 0.08
     },
     "usdkrw": {
-      "value": 1341.01,
-      "change": 0.7,
-      "change_pct": 0.05
+      "value": 1340.65,
+      "change": 1.3,
+      "change_pct": 0.1
     }
   },
   "gold": {
-    "price_usd": 4123.6,
-    "price_krw": 5529788,
-    "change": -53.7,
-    "change_pct": -1.29
+    "price_usd": 4184.4,
+    "price_krw": 5609815,
+    "change": 76.5,
+    "change_pct": 1.86
   },
-  "updated": "2026-10-15 08:40",
+  "updated": "2026-10-16 08:32",
   "error": null
 }
