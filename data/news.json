@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "'모두의카드' 시스템 개편…26일까지 카드정보 확인해주세요",
-      "url": "https://n.news.naver.com/mnews/article/008/0005428695"
+      "title": "1~9월 서울 아파트 월세 비중 50% 첫 돌파…전세 급감 여파",
+      "url": "https://n.news.naver.com/mnews/article/005/0001879805"
     },
     {
-      "title": "정부 \"브라질산 계란 관련 악성 게시물 3건 법적 대응\"",
-      "url": "https://n.news.naver.com/mnews/article/079/0004200410"
+      "title": "1만원 에어프라이어…이마트, ‘와우샵’ 본격 확대",
+      "url": "https://n.news.naver.com/mnews/article/092/0002441708"
     },
     {
-      "title": "‘할리스’ 개인정보 유출…“비밀번호 즉시 변경해달라”",
-      "url": "https://n.news.naver.com/mnews/article/662/0000106385"
+      "title": "솔리다임 나스닥 상장, 제동 못 거는 금융당국… 해외 중복상장 규제 사각지대",
+      "url": "https://n.news.naver.com/mnews/article/469/0000960611"
     },
     {
-      "title": "핵심 기술 새어 나갈라… 정부, 산업기술 유출 엄정 대응",
-      "url": "https://n.news.naver.com/mnews/article/469/0000960296"
+      "title": "수은 행장 \"KAI 지분 매각 계획 없어\"…KAI 대표 \"독과점 문제\"(종합2보)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016389589"
     },
     {
-      "title": "메르세데스-벤츠, 차세대 전기차 시리즈 국내 공개",
-      "url": "https://n.news.naver.com/mnews/article/422/0000917186"
+      "title": "개미 한숨 커지는데…\"삼전 67만·하닉 470만 간다\" 파격 전망 [분석+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005344688"
     },
     {
-      "title": "SK하이닉스 협력사에 2조원 금융지원…상생금융 본격화",
-      "url": "https://n.news.naver.com/mnews/article/277/0005830512"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012277019"
     },
     {
-      "title": "구광모 LG 회장 ‘AI 승부수’…전 계열사 사업보고회 돌입",
-      "url": "https://n.news.naver.com/mnews/article/020/0003755940"
+      "title": "달러 올랐는데 원화도 강세…환율 ‘3대 공식’ 깨졌다 [이슈&뷰]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002711776"
     },
     {
-      "title": "현대위아, 방산 '모태' 특수사업부 현대로템에 3584억에 판다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005428219"
+      "title": "세라젬 창업주, 전문경영인 양자로 입양해 지분 승계",
+      "url": "https://n.news.naver.com/mnews/article/001/0016387282"
     },
     {
-      "title": "베트남 진출 韓기업 부가세 환급 길 열려",
-      "url": "https://n.news.naver.com/mnews/article/011/0004672839"
+      "title": "스페이스X, AI 매출 9배 급증에 분기 흑자 전환…“테슬라·스페이스X 합병 좋은 생각\"",
+      "url": "https://n.news.naver.com/mnews/article/023/0004005026"
     },
     {
-      "title": "취업 준비에 월평균 58만원… 구직 청년 등골 빼먹는 ‘취업비’",
-      "url": "https://n.news.naver.com/mnews/article/005/0001879564"
+      "title": "“혹시 부도 날라” “저가 매수 기회”…월가의 상반된 AI 대응법",
+      "url": "https://n.news.naver.com/mnews/article/023/0004004856"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26430.89,
-      "change": 290.86,
-      "change_pct": 1.11
+      "value": 26424.82,
+      "change": -6.07,
+      "change_pct": -0.02
     },
     "usdkrw": {
-      "value": 1327.39,
-      "change": -6.04,
-      "change_pct": -0.45
+      "value": 1325.53,
+      "change": -4.47,
+      "change_pct": -0.34
     }
   },
   "gold": {
-    "price_usd": 4151.1,
-    "price_krw": 5510128,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4135.0,
+    "price_krw": 5481066,
+    "change": -25.1,
+    "change_pct": -0.6
   },
-  "updated": "2026-10-20 09:05",
+  "updated": "2026-10-21 08:36",
   "error": null
 }
