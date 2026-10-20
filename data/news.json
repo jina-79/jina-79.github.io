@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "국민연금도 ‘반도체 쇼크’…삼전닉스 131조 증발했다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003558629"
+      "title": "'모두의카드' 시스템 개편…26일까지 카드정보 확인해주세요",
+      "url": "https://n.news.naver.com/mnews/article/008/0005428695"
     },
     {
-      "title": "롯데, 임직원-가족 초청 페스티벌",
-      "url": "https://n.news.naver.com/mnews/article/020/0003755786"
+      "title": "정부 \"브라질산 계란 관련 악성 게시물 3건 법적 대응\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004200410"
     },
     {
-      "title": "年 4% 정기예금, 5% 발행어음… 고금리 상품 다시 뜬다",
-      "url": "https://n.news.naver.com/mnews/article/023/0004004540"
+      "title": "‘할리스’ 개인정보 유출…“비밀번호 즉시 변경해달라”",
+      "url": "https://n.news.naver.com/mnews/article/662/0000106385"
     },
     {
-      "title": "반도체가 끌었다…韓 잠재성장률, 2년 연속 상승 전망",
-      "url": "https://n.news.naver.com/mnews/article/011/0004672332"
+      "title": "핵심 기술 새어 나갈라… 정부, 산업기술 유출 엄정 대응",
+      "url": "https://n.news.naver.com/mnews/article/469/0000960296"
     },
     {
-      "title": "인허가 늘고 강남 집값 내려…정부 “중장기적으로 시장 안정”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004672424"
+      "title": "메르세데스-벤츠, 차세대 전기차 시리즈 국내 공개",
+      "url": "https://n.news.naver.com/mnews/article/422/0000917186"
     },
     {
-      "title": "“AI 일자리 충격 대응”…IPO 앞둔 앤트로픽, 지분 5% 공익기금에 출연",
-      "url": "https://n.news.naver.com/mnews/article/009/0005750337"
+      "title": "SK하이닉스 협력사에 2조원 금융지원…상생금융 본격화",
+      "url": "https://n.news.naver.com/mnews/article/277/0005830512"
     },
     {
-      "title": "빚투 3천억 강제청산…\"증시 무너져도 정부 '예의 주시' 말뿐\" [분석+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005343587"
+      "title": "구광모 LG 회장 ‘AI 승부수’…전 계열사 사업보고회 돌입",
+      "url": "https://n.news.naver.com/mnews/article/020/0003755940"
     },
     {
-      "title": "IMF 총재 \"미래대응기금 등 韓재정·통화 정책 적절\"",
-      "url": "https://n.news.naver.com/mnews/article/082/0001402913"
+      "title": "현대위아, 방산 '모태' 특수사업부 현대로템에 3584억에 판다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005428219"
     },
     {
-      "title": "최태원 “대학 졸업장 필요 없다…20대로 돌아간다면 무조건 창업”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002710767"
+      "title": "베트남 진출 韓기업 부가세 환급 길 열려",
+      "url": "https://n.news.naver.com/mnews/article/011/0004672839"
     },
     {
-      "title": "경기 아파트값 토허구역 지정 후 상승률 3배",
-      "url": "https://n.news.naver.com/mnews/article/023/0004004522"
+      "title": "취업 준비에 월평균 58만원… 구직 청년 등골 빼먹는 ‘취업비’",
+      "url": "https://n.news.naver.com/mnews/article/005/0001879564"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5668.05,
-      "change": 113.83,
-      "change_pct": 2.05
+      "value": 5768.01,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 794.78,
-      "change": 33.96,
-      "change_pct": 4.46
+      "value": 808.89,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26140.03,
-      "change": -573.0,
-      "change_pct": -2.15
+      "value": 26430.89,
+      "change": 290.86,
+      "change_pct": 1.11
     },
     "usdkrw": {
-      "value": 1334.66,
-      "change": -6.29,
-      "change_pct": -0.47
+      "value": 1327.39,
+      "change": -6.04,
+      "change_pct": -0.45
     }
   },
   "gold": {
-    "price_usd": 4197.8,
-    "price_krw": 5602635,
-    "change": 16.7,
-    "change_pct": 0.4
+    "price_usd": 4151.1,
+    "price_krw": 5510128,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-10-19 07:45",
+  "updated": "2026-10-20 09:05",
   "error": null
 }
