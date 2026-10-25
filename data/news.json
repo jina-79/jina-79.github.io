@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "취임 4주년 이재용, 최대실적 삼성전자 발판 기술투자·M&A 구상",
-      "url": "https://n.news.naver.com/mnews/article/001/0016398394"
+      "title": "롯데, 베트남 하노이 5개 대학 찾아 인재 채용 설명회 개최",
+      "url": "https://n.news.naver.com/mnews/article/008/0005431220"
     },
     {
-      "title": "포스코 노사 '임금 협상' 결렬...노조, 다음 달 2일부터 무기한 파업",
-      "url": "https://n.news.naver.com/mnews/article/052/0002423075"
+      "title": "서른 살 햇반, 밥맛으로 지킨 1위… 잡곡밥·미국 시장 키운다",
+      "url": "https://n.news.naver.com/mnews/article/005/0001880770"
     },
     {
-      "title": "'D램'은 창신, '낸드'는 양쯔…분업 끝? 경쟁 나서는 中 '탑2' 메모리사",
-      "url": "https://n.news.naver.com/mnews/article/008/0005431127"
+      "title": "삼성·하이닉스 3분기 합산 영업익 180조 돌파 전망…반도체 호황, 주가 반등 이끌까",
+      "url": "https://n.news.naver.com/mnews/article/021/0002827545"
     },
     {
-      "title": "PHP 취약점 악용한 공격 계획 포착…북한 해킹조직 연계 여부 주목",
-      "url": "https://n.news.naver.com/mnews/article/030/0003478234"
+      "title": "반포푸르지오 리모델링 … 삼성물산, 1250억에 수주",
+      "url": "https://n.news.naver.com/mnews/article/009/0005753619"
     },
     {
-      "title": "HD현대, 美조선소 건립은 인수 실패 탓… 투자 지역·규모도 미정 [biz-플러스]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004674657"
+      "title": "인기 캐릭터 굿즈 950여종…신세계百, '캐릭터 페스타' 연다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005833149"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000539565"
+      "url": "https://n.news.naver.com/mnews/article/422/0000919392"
     },
     {
-      "title": "솔리다임 상장 취소에 SK하이닉스 반등했지만… 개미들 “사기 치려다 후퇴한 수준”",
-      "url": "https://n.news.naver.com/mnews/article/022/0004169318"
+      "title": "주병기 \"조사 거부 때 과징금, 전체 매출의 1% 정도로 강화\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002423362"
     },
     {
-      "title": "\"이건 꼭 봐야 해\" 엄마 아빠도 줄 섰다…핫플 된 의외의 동네 [류은혁의 유통기한]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005346096"
+      "title": "10대그룹 시총 1100조 증발...흔들리는 증시에 정부 손 쓸까 外 [한강로 경제브리핑]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004169607"
     },
     {
-      "title": "점심에 계란 프라이 하나 더?…여름엔 ‘금값’ 계란, 가을지나 가격 ‘뚝’[경제뭔데]",
-      "url": "https://n.news.naver.com/mnews/article/032/0003478264"
+      "title": "李, 대규모 경상흑자에 “우리 경제에도 큰 기회의 물결 일고 있다”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003560312"
     },
     {
-      "title": "송미령 농식품장관, 한식대축제 방문…\"한식은 소중한 문화유산\"",
-      "url": "https://n.news.naver.com/mnews/article/448/0000646726"
+      "title": "청년들이 중소기업 꺼리는 이유",
+      "url": "https://n.news.naver.com/mnews/article/050/0000112349"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.21
     },
     "usdkrw": {
-      "value": 1325.4,
-      "change": -0.59,
-      "change_pct": -0.04
+      "value": 1323.4,
+      "change": -2.59,
+      "change_pct": -0.2
     }
   },
   "gold": {
-    "price_usd": 4007.9,
-    "price_krw": 5312070,
-    "change": -52.5,
-    "change_pct": -1.29
+    "price_usd": 4016.1,
+    "price_krw": 5314906,
+    "change": 8.2,
+    "change_pct": 0.2
   },
-  "updated": "2026-10-25 07:53",
+  "updated": "2026-10-26 08:00",
   "error": null
 }
