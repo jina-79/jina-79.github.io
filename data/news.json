@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "청년 6명 중 1명은 판매나 서빙...300만원 이상 받는 근로자 50% 넘었다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003560880"
+      "title": "LG화학, LG엔솔 지분 2.5조원 어치 매각.…재무건전성 강화·주주환원 재원 마련",
+      "url": "https://n.news.naver.com/mnews/article/366/0001200991"
     },
     {
-      "title": "민간소비는 뒷걸음, 수출·투자는 질주…3분기 GDP 1.0%↑",
-      "url": "https://n.news.naver.com/mnews/article/123/0002392637"
+      "title": "30년 수집한 여행가방 7816점 … '이랜드 컬렉션' 기네스북 올랐다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005755509"
     },
     {
-      "title": "‘AI 시대 대비’ 원전 재가동… “노후 원전 재가동만으론 한계”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001881293"
+      "title": "역대급 실적 쌓은 SK하이닉스…'연간 100조' 주주환원 보따리 푼다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005834481"
     },
     {
-      "title": "이형일 \"올해 1인당 국민소득 4만달러 진입 전망\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000919961"
+      "title": "'기금형 퇴직연금' 활성화…노후자금 수익률 높인다",
+      "url": "https://n.news.naver.com/mnews/article/374/0000540456"
     },
     {
-      "title": "\"아마존 고객 5명 중 1명이 K뷰티 구매...개척할 시장 많아\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005595198"
+      "title": "LG전자, 3분기 누적 영업이익 전년비 55.9% ↑",
+      "url": "https://n.news.naver.com/mnews/article/082/0001404505"
     },
     {
-      "title": "고사양 게임 성능 강조하더니…삼성전자, 기만 광고로 201억 과징금",
-      "url": "https://n.news.naver.com/mnews/article/656/0000190696"
+      "title": "무신사, 사진 한 장으로 옷 찾는다…AI 이미지 검색 '무신사 렌즈' 도입",
+      "url": "https://n.news.naver.com/mnews/article/003/0014286034"
     },
     {
-      "title": "전자복권 1등 당첨, '완전 무작위' 아니었다…동행복권, 알고도 '쉬쉬'",
-      "url": "https://n.news.naver.com/mnews/article/014/0005595451"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002425205"
     },
     {
-      "title": "하닉, 자사주소각 60조·배당 30조…3분기 이익 사상최대[오피셜]",
-      "url": "https://n.news.naver.com/mnews/article/021/0002828348"
+      "title": "공정위, 라면 담합 정조준…농심·삼양·팔도·오뚜기 현장조사",
+      "url": "https://n.news.naver.com/mnews/article/055/0001398855"
     },
     {
-      "title": "HD현대중 노사, 임단협 타결…1인당 평균 4136만원 지급",
-      "url": "https://n.news.naver.com/mnews/article/079/0004203624"
+      "title": "미래에셋, 일본 산코증권 인수…日 증권업 면허 확보",
+      "url": "https://n.news.naver.com/mnews/article/008/0005433341"
     },
     {
-      "title": "LG에너지솔루션, 에너직스와 손잡고 유럽∙북미 ESS 사업 확대",
-      "url": "https://n.news.naver.com/mnews/article/011/0004675608"
+      "title": "금호타이어, 日 굿 디자인 어워드 본상 수상…세계 4대 디자인상 석권",
+      "url": "https://n.news.naver.com/mnews/article/138/0002246385"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5638.34,
+      "value": 6016.68,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 743.83,
+      "value": 762.62,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26477.81,
-      "change": 308.43,
-      "change_pct": 1.18
+      "value": 26549.85,
+      "change": 72.04,
+      "change_pct": 0.27
     },
     "usdkrw": {
-      "value": 1327.02,
-      "change": 2.25,
-      "change_pct": 0.17
+      "value": 1336.08,
+      "change": 9.27,
+      "change_pct": 0.7
     }
   },
   "gold": {
-    "price_usd": 4077.4,
-    "price_krw": 5410791,
-    "change": 39.0,
-    "change_pct": 0.97
+    "price_usd": 4057.9,
+    "price_krw": 5421678,
+    "change": -16.7,
+    "change_pct": -0.41
   },
-  "updated": "2026-10-28 09:14",
+  "updated": "2026-10-29 09:35",
   "error": null
 }
