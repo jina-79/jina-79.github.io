@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "73년 역사 日산코증권 인수… 미래에셋, 글로벌 전략 시동",
-      "url": "https://n.news.naver.com/mnews/article/021/0002828818"
+      "title": "홍지선, 재개발 현장 상계2구역서 “조기 착공 땐 세제 혜택”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006399765"
     },
     {
-      "title": "빗썸·프라뱅 잇단 해킹… 가상자산 ‘보안 비상’",
-      "url": "https://n.news.naver.com/mnews/article/022/0004170987"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012284590"
     },
     {
-      "title": "체코 원전 수주한 ‘팀코리아’ 깨졌다…한수원, 시공사 교체 결정",
-      "url": "https://n.news.naver.com/mnews/article/020/0003758720"
+      "title": "롯데렌탈 매각 마침표…롯데 1.3조 확보해 체질 개선 박차",
+      "url": "https://n.news.naver.com/mnews/article/586/0000141287"
     },
     {
-      "title": "2.7조 깜짝 실적 냈는데.. 현대차 목표가 55만→45만원으로 깎인 이유",
-      "url": "https://n.news.naver.com/mnews/article/014/0005596867"
+      "title": "LS전선 자회사 KMW 3455억 투자 희토류 영구자석 국내 생산",
+      "url": "https://n.news.naver.com/mnews/article/015/0005348364"
     },
     {
-      "title": "삼성SDI, ESS로 날았다…영업익 3년만에 최대",
-      "url": "https://n.news.naver.com/mnews/article/215/0001270915"
+      "title": "20분새 8조원 털려 … 美보안업체, 바이비트 공격한 北조직 지목",
+      "url": "https://n.news.naver.com/mnews/article/009/0005756798"
     },
     {
-      "title": "서울 그린벨트 토허구역, 송파 일부 빼고 푼다…아파트 규제는 유지 [부동산360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002716054"
+      "title": "“역대급 실적에도 아직 멀었다”…삼성전자 반도체 수장의 경고",
+      "url": "https://n.news.naver.com/mnews/article/018/0006399666"
     },
     {
-      "title": "MS는 25조 흑자·구글은 12조 적자…현금흐름에 주가 엇갈려",
-      "url": "https://n.news.naver.com/mnews/article/003/0014287848"
+      "title": "샤힌 추가 비용에 이익 감소…DL이앤씨, 3분기 영업익 1073억원",
+      "url": "https://n.news.naver.com/mnews/article/008/0005434484"
     },
     {
-      "title": "멈춰선 계층이동… 소득 이동성 4년째 하락",
-      "url": "https://n.news.naver.com/mnews/article/023/0004006662"
+      "title": "체코 원전 시공계약 결렬 후폭풍…테믈린 2기 추가 수주 흔드나",
+      "url": "https://n.news.naver.com/mnews/article/277/0005835852"
     },
     {
-      "title": "올 9월 은행 주담대 금리 4.88%…14년 5개월 만에 최고 수준",
-      "url": "https://n.news.naver.com/mnews/article/020/0003758685"
+      "title": "막 오른 11월 쇼핑대전…할인상품 담아볼까[이번주뭘살까]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016413063"
     },
     {
-      "title": "호실적에도 ‘주가 급락’ 너무 흔해졌다...돈 잘 번 아마존 된서리 맞은 이유는",
-      "url": "https://n.news.naver.com/mnews/article/009/0005756328"
+      "title": "자산 유출로 번진 ‘금융권 해킹’…프라뱅서 돌연 1억 빠져나갔다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003561595"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5707.95,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 727.71,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26184.72,
-      "change": -365.12,
-      "change_pct": -1.38
+      "value": 25437.0,
+      "change": -747.72,
+      "change_pct": -2.86
     },
     "usdkrw": {
-      "value": 1339.18,
-      "change": -1.16,
-      "change_pct": -0.09
+      "value": 1337.98,
+      "change": -2.36,
+      "change_pct": -0.18
     }
   },
   "gold": {
-    "price_usd": 4020.0,
-    "price_krw": 5383503,
-    "change": -31.6,
-    "change_pct": -0.78
+    "price_usd": 3884.9,
+    "price_krw": 5197918,
+    "change": -146.5,
+    "change_pct": -3.63
   },
-  "updated": "2026-10-30 09:36",
+  "updated": "2026-10-31 09:21",
   "error": null
 }
