@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "삼성 사장단에 '30만원 키보드' 선물한 올트먼…어떤 제품이길래",
-      "url": "https://n.news.naver.com/mnews/article/018/0006400787"
+      "title": "‘매달 퇴직연금 현금납입’... 소상공인 “탁상행정” 분노",
+      "url": "https://n.news.naver.com/mnews/article/023/0004007134"
     },
     {
-      "title": "퇴직연금 판 키우는 정부, 증권사엔 반쪽짜리 기회?",
-      "url": "https://n.news.naver.com/mnews/article/119/0003149714"
+      "title": "갤러리아 명품관에 로로피아나 크리스마스 트리",
+      "url": "https://n.news.naver.com/mnews/article/277/0005836450"
     },
     {
-      "title": "인텔 주가 털리고 삼성전자 가전도 적자… 반도체 초호황 속 'IT 잔혹사'",
-      "url": "https://n.news.naver.com/mnews/article/469/0000962782"
+      "title": "'챗GPT 아버지' 올트먼 만난 삼성 사장단…AX 속도 낸다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006401438"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012284567"
-    },
-    {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002426340"
-    },
-    {
-      "title": "SK 사장단 인사… 반도체는 ‘안정’ 에너지는 ‘쇄신’",
-      "url": "https://n.news.naver.com/mnews/article/023/0004007010"
-    },
-    {
-      "title": "한화디펜스, 미 해군 함정 건조 첫 수주…3천600억 원 규모 상륙함",
-      "url": "https://n.news.naver.com/mnews/article/056/0012284666"
-    },
-    {
-      "title": "누가 사나 했는데 “한국서 2만대 넘게 팔려” 중국차의 질주…현대차·기아 中 성적표는",
-      "url": "https://n.news.naver.com/mnews/article/011/0004677330"
-    },
-    {
-      "title": "'6천피' 찍자 레버리지 ETF로…서학개미 순매수액 11개월 만 최대",
-      "url": "https://n.news.naver.com/mnews/article/082/0001404942"
+      "title": "예산정책처 “반도체 호황 추가세수, 2029년이면 끊길 것”",
+      "url": "https://n.news.naver.com/mnews/article/032/0003479953"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012284580"
+      "url": "https://n.news.naver.com/mnews/article/422/0000921693"
+    },
+    {
+      "title": "올해 자사주 취득도 삼전닉스 효과…전년보다 5.7배 급증",
+      "url": "https://n.news.naver.com/mnews/article/001/0016413564"
+    },
+    {
+      "title": "체코 원전 사업 산업부 장·차관 직접 관리체계 가동",
+      "url": "https://n.news.naver.com/mnews/article/001/0016414605"
+    },
+    {
+      "title": "영광·래블업·이에스티 등 상장[증시캘린더]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006401113"
+    },
+    {
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012285096"
+    },
+    {
+      "title": "한국 수출 첫 9천억달러 돌파…10월 1천153억달러",
+      "url": "https://n.news.naver.com/mnews/article/055/0001399733"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 5730.74,
-      "change": -206.92,
-      "change_pct": -3.48
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 724.38,
-      "change": -28.85,
-      "change_pct": -3.83
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
       "value": 25437.0,
@@ -58,17 +58,17 @@
       "change_pct": -2.86
     },
     "usdkrw": {
-      "value": 1335.1,
-      "change": -2.88,
-      "change_pct": -0.22
+      "value": 1337.98,
+      "change": 0.0,
+      "change_pct": 0.0
     }
   },
   "gold": {
-    "price_usd": 3898.9,
-    "price_krw": 5205421,
-    "change": -132.5,
-    "change_pct": -3.29
+    "price_usd": 3910.7,
+    "price_krw": 5232438,
+    "change": 11.8,
+    "change_pct": 0.3
   },
-  "updated": "2026-11-01 08:56",
+  "updated": "2026-11-02 09:13",
   "error": null
 }
