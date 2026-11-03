@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "‘매달 퇴직연금 현금납입’... 소상공인 “탁상행정” 분노",
-      "url": "https://n.news.naver.com/mnews/article/023/0004007134"
+      "title": "삼성바이오, 美제약사 공급 규모 2배 늘었다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002718094"
     },
     {
-      "title": "갤러리아 명품관에 로로피아나 크리스마스 트리",
-      "url": "https://n.news.naver.com/mnews/article/277/0005836450"
+      "title": "“어제 2% 올랐는데 하루 만에 급락”…코스피 3.3%↓, 반도체주 와르르",
+      "url": "https://n.news.naver.com/mnews/article/138/0002247025"
     },
     {
-      "title": "'챗GPT 아버지' 올트먼 만난 삼성 사장단…AX 속도 낸다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006401438"
+      "title": "효성굿스프링스, '데이터센터 코리아' 참가…펌프 솔루션 전시",
+      "url": "https://n.news.naver.com/mnews/article/008/0005435658"
     },
     {
-      "title": "예산정책처 “반도체 호황 추가세수, 2029년이면 끊길 것”",
-      "url": "https://n.news.naver.com/mnews/article/032/0003479953"
+      "title": "현대차 울산 5공장 제네시스 라인 중단…신차 인력 배치 두고 노사 마찰",
+      "url": "https://n.news.naver.com/mnews/article/011/0004677812"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000921693"
+      "title": "피치, 프랑스 전망 '부정적'으로…예정 없던 긴급 평가",
+      "url": "https://n.news.naver.com/mnews/article/018/0006402305"
     },
     {
-      "title": "올해 자사주 취득도 삼전닉스 효과…전년보다 5.7배 급증",
-      "url": "https://n.news.naver.com/mnews/article/001/0016413564"
+      "title": "국제유가 급락에도 기술주 매도세 지속…나스닥 1.07%↓ [뉴욕증시 브리핑]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005349474"
     },
     {
-      "title": "체코 원전 사업 산업부 장·차관 직접 관리체계 가동",
-      "url": "https://n.news.naver.com/mnews/article/001/0016414605"
+      "title": "한은 “11월 물가 상승률도 2%후반 이어갈 것”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004678106"
     },
     {
-      "title": "영광·래블업·이에스티 등 상장[증시캘린더]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006401113"
+      "title": "\"LG 스마트 TV로 조선왕실 문화 감상해 보세요\"",
+      "url": "https://n.news.naver.com/mnews/article/092/0002443567"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012285096"
+      "title": "해수부, 부산서 해양수산 국제협력 콘퍼런스",
+      "url": "https://n.news.naver.com/mnews/article/001/0016417978"
     },
     {
-      "title": "한국 수출 첫 9천억달러 돌파…10월 1천153억달러",
-      "url": "https://n.news.naver.com/mnews/article/055/0001399733"
+      "title": "호반그룹, 한진칼 최대주주됐나...공정위에 기업결합 신고",
+      "url": "https://n.news.naver.com/mnews/article/052/0002427218"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5730.74,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 5720.43,
+      "change": -138.65,
+      "change_pct": -2.37
     },
     "kosdaq": {
-      "value": 724.38,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 717.33,
+      "change": -17.03,
+      "change_pct": -2.32
     },
     "nasdaq": {
-      "value": 25437.0,
-      "change": -747.72,
-      "change_pct": -2.86
+      "value": 25164.36,
+      "change": -272.64,
+      "change_pct": -1.07
     },
     "usdkrw": {
-      "value": 1337.98,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 1340.78,
+      "change": 15.26,
+      "change_pct": 1.15
     }
   },
   "gold": {
-    "price_usd": 3910.7,
-    "price_krw": 5232438,
-    "change": 11.8,
-    "change_pct": 0.3
+    "price_usd": 3952.8,
+    "price_krw": 5299835,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-11-02 09:13",
+  "updated": "2026-11-03 11:45",
   "error": null
 }
