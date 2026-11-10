@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼성전자, 현대차 초청 감사 행사…경영진 총집결",
-      "url": "https://n.news.naver.com/mnews/article/374/0000542325"
+      "title": "대우건설 컨소, 가덕도신공항 부지조성공사 실시설계 착수…2035년 개항 목표",
+      "url": "https://n.news.naver.com/mnews/article/119/0003153228"
     },
     {
-      "title": "2팩 사는 데 3시간… ‘475m 라면 스트릿’ 북적",
-      "url": "https://n.news.naver.com/mnews/article/005/0001883808"
+      "title": "신도시 도로사업 16곳 인허가 속도낸다…과천 2곳은 착공",
+      "url": "https://n.news.naver.com/mnews/article/008/0005438933"
     },
     {
-      "title": "젬백스, 런던서 ‘GV1001’ 72주 임상 결과 발표…PSP 후속 글로벌 임상 준비",
-      "url": "https://n.news.naver.com/mnews/article/018/0006406463"
+      "title": "단숨에 '5200피'로…'삼전닉스' 급등에 매수 사이드카까지",
+      "url": "https://n.news.naver.com/mnews/article/629/0000550257"
     },
     {
-      "title": "코스피, IMF 때보다 빨리 무너졌다…“비중 확대 기회”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006406425"
+      "title": "LG, TV부터 배터리·로봇까지…CES 2027 혁신상 잇달아 수상",
+      "url": "https://n.news.naver.com/mnews/article/001/0016432365"
     },
     {
-      "title": "르투아·드킴 알린 kt알파 쇼핑…농구장서 브랜드 마케팅",
-      "url": "https://n.news.naver.com/mnews/article/018/0006406449"
+      "title": "“너무 떨어졌나” 美증시 반등…‘젠슨황 쇼크’ 엔비디아 4.3% 뚝 [월가월부]",
+      "url": "https://n.news.naver.com/mnews/article/009/0005761282"
     },
     {
-      "title": "당국·증권업계, 신용융자 담보비율 낮추고 반대매매 유예",
-      "url": "https://n.news.naver.com/mnews/article/011/0004679830"
+      "title": "제네시스, 초대형 전동화 SUV 'GV90' 출시…최고 2억3950만원",
+      "url": "https://n.news.naver.com/mnews/article/018/0006407053"
     },
     {
-      "title": "JTBC, 매각공고 게시…내년 1월 우선협상대상자 선정[시그널]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004680060"
+      "title": "골드만삭스 “폭락한 한국 반도체株, 두 배 뛸 수도”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004680228"
     },
     {
-      "title": "‘매출 46조’ 키트루다 시밀러…삼성바이오에피스, 글로벌 3상 동등성 입증",
-      "url": "https://n.news.naver.com/mnews/article/016/0002720565"
+      "title": "쿠팡이츠·배민, 6300억대 과징금에 반발… “소비자 혜택·시장 경쟁 노력 외면”",
+      "url": "https://n.news.naver.com/mnews/article/022/0004173854"
     },
     {
-      "title": "韓 코인과세 유예 추진…해외는 손실·보유기간 어떻게 반영하나",
-      "url": "https://n.news.naver.com/mnews/article/243/0000105383"
+      "title": "AI 올라탄 두산, 3분기 영업익 2배 급증…전자BG 날았다(종합)",
+      "url": "https://n.news.naver.com/mnews/article/018/0006406814"
     },
     {
-      "title": "돈 더 급한데 연금은 덜 받는다…은퇴 취약층의 '소득 절벽'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005351635"
+      "title": "염소농가에 FTA피해보전직불금 지급…691농가에 총 50억원",
+      "url": "https://n.news.naver.com/mnews/article/277/0005840480"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5024.43,
-      "change": -35.26,
-      "change_pct": -0.7
+      "value": 5242.97,
+      "change": 224.12,
+      "change_pct": 4.47
     },
     "kosdaq": {
-      "value": 637.18,
-      "change": -7.09,
-      "change_pct": -1.1
+      "value": 664.41,
+      "change": 25.44,
+      "change_pct": 3.98
     },
     "nasdaq": {
-      "value": 24579.43,
-      "change": 264.43,
-      "change_pct": 1.09
+      "value": 25253.14,
+      "change": 673.71,
+      "change_pct": 2.74
     },
     "usdkrw": {
-      "value": 1359.66,
-      "change": 3.32,
-      "change_pct": 0.24
+      "value": 1346.19,
+      "change": -16.51,
+      "change_pct": -1.21
     }
   },
   "gold": {
-    "price_usd": 4073.4,
-    "price_krw": 5538438,
-    "change": -1.5,
-    "change_pct": -0.04
+    "price_usd": 4120.1,
+    "price_krw": 5546437,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-11-09 09:32",
+  "updated": "2026-11-10 12:09",
   "error": null
 }
