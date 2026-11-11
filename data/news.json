@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "대우건설 컨소, 가덕도신공항 부지조성공사 실시설계 착수…2035년 개항 목표",
-      "url": "https://n.news.naver.com/mnews/article/119/0003153228"
+      "title": "[속보] 10월 취업자 13만9000명 늘어…넉달째 10만명대",
+      "url": "https://n.news.naver.com/mnews/article/009/0005761931"
     },
     {
-      "title": "신도시 도로사업 16곳 인허가 속도낸다…과천 2곳은 착공",
-      "url": "https://n.news.naver.com/mnews/article/008/0005438933"
+      "title": "2주택자와 결혼 뒤 ‘위장 미혼’ 무주택 청약… 의사 부부, 허위 퇴사해 저소득자 청약 당첨",
+      "url": "https://n.news.naver.com/mnews/article/023/0004008851"
     },
     {
-      "title": "단숨에 '5200피'로…'삼전닉스' 급등에 매수 사이드카까지",
-      "url": "https://n.news.naver.com/mnews/article/629/0000550257"
+      "title": "“3분기 웃었지만 4분기는 글쎄” 백화점 3사…명품·증시 꺾이며 ‘정점’ 경고등(종합)",
+      "url": "https://n.news.naver.com/mnews/article/018/0006407421"
     },
     {
-      "title": "LG, TV부터 배터리·로봇까지…CES 2027 혁신상 잇달아 수상",
-      "url": "https://n.news.naver.com/mnews/article/001/0016432365"
+      "title": "코어위브 실적에 쏠린 '눈'…AI 투자심리 반등 분수령 될까",
+      "url": "https://n.news.naver.com/mnews/article/003/0014312518"
     },
     {
-      "title": "“너무 떨어졌나” 美증시 반등…‘젠슨황 쇼크’ 엔비디아 4.3% 뚝 [월가월부]",
-      "url": "https://n.news.naver.com/mnews/article/009/0005761282"
+      "title": "동원산업, 3분기 영업익 1.1% 증가…식자재·물류 성장",
+      "url": "https://n.news.naver.com/mnews/article/018/0006407464"
     },
     {
-      "title": "제네시스, 초대형 전동화 SUV 'GV90' 출시…최고 2억3950만원",
-      "url": "https://n.news.naver.com/mnews/article/018/0006407053"
+      "title": "차세대 센서·액추에이터 등 초혁신경제 프로젝트 신규 지정",
+      "url": "https://n.news.naver.com/mnews/article/277/0005840946"
     },
     {
-      "title": "골드만삭스 “폭락한 한국 반도체株, 두 배 뛸 수도”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004680228"
+      "title": "정부, 부총리 직속 '양극화 TF' 가동…\"K자형 양극화 막는다\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009282400"
     },
     {
-      "title": "쿠팡이츠·배민, 6300억대 과징금에 반발… “소비자 혜택·시장 경쟁 노력 외면”",
-      "url": "https://n.news.naver.com/mnews/article/022/0004173854"
+      "title": "비트코인, 1억100만원선…美 물가지표에 촉각",
+      "url": "https://n.news.naver.com/mnews/article/003/0014311976"
     },
     {
-      "title": "AI 올라탄 두산, 3분기 영업익 2배 급증…전자BG 날았다(종합)",
-      "url": "https://n.news.naver.com/mnews/article/018/0006406814"
+      "title": "더본코리아, 우녹스 오븐에 한식 조리 프로그램 탑재 추진",
+      "url": "https://n.news.naver.com/mnews/article/001/0016434877"
     },
     {
-      "title": "염소농가에 FTA피해보전직불금 지급…691농가에 총 50억원",
-      "url": "https://n.news.naver.com/mnews/article/277/0005840480"
+      "title": "삼성화재, 2.3조원 투입해 캐노피우스 경영권 확보",
+      "url": "https://n.news.naver.com/mnews/article/215/0001272237"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5242.97,
-      "change": 224.12,
-      "change_pct": 4.47
+      "value": 5213.36,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 664.41,
-      "change": 25.44,
-      "change_pct": 3.98
+      "value": 686.84,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25253.14,
-      "change": 673.71,
-      "change_pct": 2.74
+      "value": 25065.88,
+      "change": -187.27,
+      "change_pct": -0.74
     },
     "usdkrw": {
-      "value": 1346.19,
-      "change": -16.51,
-      "change_pct": -1.21
+      "value": 1337.82,
+      "change": -6.02,
+      "change_pct": -0.45
     }
   },
   "gold": {
-    "price_usd": 4120.1,
-    "price_krw": 5546437,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4041.0,
+    "price_krw": 5406130,
+    "change": -73.5,
+    "change_pct": -1.79
   },
-  "updated": "2026-11-10 12:09",
+  "updated": "2026-11-11 09:59",
   "error": null
 }
