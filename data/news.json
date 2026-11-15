@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "국회, ‘체코 원전’ 시공사 교체 논란 청문회 추진 가닥",
-      "url": "https://n.news.naver.com/mnews/article/016/0002723137"
+      "title": "물가 잡으려 묶어둔 석유·전기·가스요금…불어난 청구서 '부담'",
+      "url": "https://n.news.naver.com/mnews/article/660/0000121385"
     },
     {
-      "title": "삼성메디슨, 홍천공장 증축…초음파 진단기기 시장서 '성장 질주'",
-      "url": "https://n.news.naver.com/mnews/article/079/0004209723"
-    },
-    {
-      "title": "농식품부, 김치·배추·무 수출 확대 추진…비축 배추 할인 공급",
-      "url": "https://n.news.naver.com/mnews/article/001/0016441087"
-    },
-    {
-      "title": "“엔비디아 급락이 기회”…서학개미, 한주간 1000억원 매수",
-      "url": "https://n.news.naver.com/mnews/article/029/0003059008"
-    },
-    {
-      "title": "온라인 장바구니 밖으로 나온 컬리…뷰티 브랜드와 소비자 잇는다[리얼로그M]",
-      "url": "https://n.news.naver.com/mnews/article/008/0005440999"
-    },
-    {
-      "title": "중기부 ‘모두의 창업’ 2기 사업도 개인정보 유출",
-      "url": "https://n.news.naver.com/mnews/article/020/0003762440"
-    },
-    {
-      "title": "年1천억씩 소멸되는 포인트로 골목상권 회생",
-      "url": "https://n.news.naver.com/mnews/article/009/0005763516"
+      "title": "중기부, 모두의창업 개인정보 유출 사흘 만에 \"진심으로 사과\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016441973"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000925995"
+      "url": "https://n.news.naver.com/mnews/article/052/0002432662"
     },
     {
-      "title": "은행연합회 회추위, 차기 회장 후보 6명 확정",
-      "url": "https://n.news.naver.com/mnews/article/030/0003485288"
+      "title": "중기중앙회 \"노란우산 개인정보 유출 가능성…주민번호 등 포함\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001403037"
     },
     {
-      "title": "롯데건설, 올해 3분기 누적 영업이익 2077억…전년비 126%↑",
-      "url": "https://n.news.naver.com/mnews/article/469/0000965429"
+      "title": "이번주 수출 1조달러 시대 열린다…수출 5위·무역흑자 2위",
+      "url": "https://n.news.naver.com/mnews/article/008/0005441140"
+    },
+    {
+      "title": "젠슨 황 없어도 약속은 지킨다?…“엔비디아, 한국 GPU 26만장 공급 약속 유지”",
+      "url": "https://n.news.naver.com/mnews/article/021/0002832724"
+    },
+    {
+      "title": "씨 마른 강남권 분양에…서울 1순위 청약자 4년 만에 최저",
+      "url": "https://n.news.naver.com/mnews/article/055/0001403087"
+    },
+    {
+      "title": "“크리스마스 기다리다 살찌겠네”…식품업계, 시즌 메뉴 승부",
+      "url": "https://n.news.naver.com/mnews/article/011/0004682179"
+    },
+    {
+      "title": "젠슨 황 쇼크에 4조달러 무너졌다…AMD·브로드컴도 급락",
+      "url": "https://n.news.naver.com/mnews/article/215/0001272734"
+    },
+    {
+      "title": "두산건설, 3분기 영업익 271억…전년比 39.4%↓",
+      "url": "https://n.news.naver.com/mnews/article/018/0006409889"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5290.53,
+      "change": -52.2,
+      "change_pct": -0.98
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 699.66,
+      "change": 3.13,
+      "change_pct": 0.45
     },
     "nasdaq": {
       "value": 25136.27,
@@ -58,17 +58,17 @@
       "change_pct": -0.91
     },
     "usdkrw": {
-      "value": 1333.78,
-      "change": -2.48,
-      "change_pct": -0.19
+      "value": 1336.2,
+      "change": 2.42,
+      "change_pct": 0.18
     }
   },
   "gold": {
-    "price_usd": 3887.6,
-    "price_krw": 5185203,
-    "change": 2.3,
-    "change_pct": 0.06
+    "price_usd": 3886.3,
+    "price_krw": 5192874,
+    "change": 1.0,
+    "change_pct": 0.03
   },
-  "updated": "2026-11-14 10:17",
+  "updated": "2026-11-15 09:45",
   "error": null
 }
