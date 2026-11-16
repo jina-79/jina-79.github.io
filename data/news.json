@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "물가 잡으려 묶어둔 석유·전기·가스요금…불어난 청구서 '부담'",
-      "url": "https://n.news.naver.com/mnews/article/660/0000121385"
+      "title": "\"내년 4000t 회복 어렵다\"...부진한 수요에 고민 깊어지는 시멘트 업계",
+      "url": "https://n.news.naver.com/mnews/article/018/0006409996"
     },
     {
-      "title": "중기부, 모두의창업 개인정보 유출 사흘 만에 \"진심으로 사과\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016441973"
+      "title": "1000대 기업 여성 CEO 47명뿐…3명 중 2명 오너家",
+      "url": "https://n.news.naver.com/mnews/article/018/0006410181"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002432662"
+      "title": "HLB테라퓨틱스, 신경영양성각막염 미국 임상3상 결과 유의성 미확보",
+      "url": "https://n.news.naver.com/mnews/article/008/0005441418"
     },
     {
-      "title": "중기중앙회 \"노란우산 개인정보 유출 가능성…주민번호 등 포함\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001403037"
+      "title": "알테오젠, 월 1회 비만약 개발 속도…동물실험서 ‘요요현상’ 억제",
+      "url": "https://n.news.naver.com/mnews/article/366/0001204932"
     },
     {
-      "title": "이번주 수출 1조달러 시대 열린다…수출 5위·무역흑자 2위",
-      "url": "https://n.news.naver.com/mnews/article/008/0005441140"
+      "title": "삼성SDI, 미국서 차세대 ESS·데이터센터 배터리 공개",
+      "url": "https://n.news.naver.com/mnews/article/001/0016442156"
     },
     {
-      "title": "젠슨 황 없어도 약속은 지킨다?…“엔비디아, 한국 GPU 26만장 공급 약속 유지”",
-      "url": "https://n.news.naver.com/mnews/article/021/0002832724"
+      "title": "최태원 “AI 반도체·AI 서비스… 선순환 구조 만들자”",
+      "url": "https://n.news.naver.com/mnews/article/023/0004009747"
     },
     {
-      "title": "씨 마른 강남권 분양에…서울 1순위 청약자 4년 만에 최저",
-      "url": "https://n.news.naver.com/mnews/article/055/0001403087"
+      "title": "“지속가능성 걱정 無”…에이피알, 국내외 ESG 평가 등급 ‘상향’",
+      "url": "https://n.news.naver.com/mnews/article/021/0002832949"
     },
     {
-      "title": "“크리스마스 기다리다 살찌겠네”…식품업계, 시즌 메뉴 승부",
-      "url": "https://n.news.naver.com/mnews/article/011/0004682179"
+      "title": "\"못 믿겠다, 일단 돈 빼자\"…개미 썰물처럼 빠져나간 코스닥",
+      "url": "https://n.news.naver.com/mnews/article/018/0006410013"
     },
     {
-      "title": "젠슨 황 쇼크에 4조달러 무너졌다…AMD·브로드컴도 급락",
-      "url": "https://n.news.naver.com/mnews/article/215/0001272734"
+      "title": "12년 앞당긴 SK하이닉스 '용인 팹' 가보니…14층 높이 반도체 공장 '우뚝'[현장]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014323630"
     },
     {
-      "title": "두산건설, 3분기 영업익 271억…전년比 39.4%↓",
-      "url": "https://n.news.naver.com/mnews/article/018/0006409889"
+      "title": "수도권 전세보증금 6년 새 38%↑…올해는 금리 상승 가세",
+      "url": "https://n.news.naver.com/mnews/article/023/0004009666"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5290.53,
-      "change": -52.2,
-      "change_pct": -0.98
+      "value": 5290.61,
+      "change": 0.08,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 699.66,
-      "change": 3.13,
-      "change_pct": 0.45
+      "value": 695.81,
+      "change": -3.85,
+      "change_pct": -0.55
     },
     "nasdaq": {
       "value": 25136.27,
@@ -58,17 +58,17 @@
       "change_pct": -0.91
     },
     "usdkrw": {
-      "value": 1336.2,
-      "change": 2.42,
-      "change_pct": 0.18
+      "value": 1334.78,
+      "change": 1.0,
+      "change_pct": 0.07
     }
   },
   "gold": {
-    "price_usd": 3886.3,
-    "price_krw": 5192874,
-    "change": 1.0,
-    "change_pct": 0.03
+    "price_usd": 3889.4,
+    "price_krw": 5191493,
+    "change": 3.1,
+    "change_pct": 0.08
   },
-  "updated": "2026-11-15 09:45",
+  "updated": "2026-11-16 09:45",
   "error": null
 }
