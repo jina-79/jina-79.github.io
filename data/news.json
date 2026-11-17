@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"내년 4000t 회복 어렵다\"...부진한 수요에 고민 깊어지는 시멘트 업계",
-      "url": "https://n.news.naver.com/mnews/article/018/0006409996"
+      "title": "K-디스플레이, 3년 만에 中에 내준 OLED 출하량 1위 탈환",
+      "url": "https://n.news.naver.com/mnews/article/016/0002724384"
     },
     {
-      "title": "1000대 기업 여성 CEO 47명뿐…3명 중 2명 오너家",
-      "url": "https://n.news.naver.com/mnews/article/018/0006410181"
+      "title": "\"집이 삶에 맞춰 진화한다\"…GS건설, 자이 미래 주거 비전 공개",
+      "url": "https://n.news.naver.com/mnews/article/629/0000552572"
     },
     {
-      "title": "HLB테라퓨틱스, 신경영양성각막염 미국 임상3상 결과 유의성 미확보",
-      "url": "https://n.news.naver.com/mnews/article/008/0005441418"
+      "title": "수능 영어듣기 때 공항 항공기 이착륙 통제…130편 시간 조정",
+      "url": "https://n.news.naver.com/mnews/article/374/0000544174"
     },
     {
-      "title": "알테오젠, 월 1회 비만약 개발 속도…동물실험서 ‘요요현상’ 억제",
-      "url": "https://n.news.naver.com/mnews/article/366/0001204932"
+      "title": "LS일렉트릭, 베트남 공장 증설...구자균 \"글로벌 초격차 확보\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005605278"
     },
     {
-      "title": "삼성SDI, 미국서 차세대 ESS·데이터센터 배터리 공개",
-      "url": "https://n.news.naver.com/mnews/article/001/0016442156"
+      "title": "올리브영, 'K색조' 키운다…홍대에 첫 특화매장",
+      "url": "https://n.news.naver.com/mnews/article/277/0005843581"
     },
     {
-      "title": "최태원 “AI 반도체·AI 서비스… 선순환 구조 만들자”",
-      "url": "https://n.news.naver.com/mnews/article/023/0004009747"
+      "title": "“한국산은 왜 이렇게 크고 달아?” 해외서 대박 난 K과일…첫 수출 1억달러 돌파",
+      "url": "https://n.news.naver.com/mnews/article/011/0004682938"
     },
     {
-      "title": "“지속가능성 걱정 無”…에이피알, 국내외 ESG 평가 등급 ‘상향’",
-      "url": "https://n.news.naver.com/mnews/article/021/0002832949"
+      "title": "배민, 음식·배달 별점 분리한다…가게 평균 별점엔 음식 평가만 반영",
+      "url": "https://n.news.naver.com/mnews/article/421/0009292907"
     },
     {
-      "title": "\"못 믿겠다, 일단 돈 빼자\"…개미 썰물처럼 빠져나간 코스닥",
-      "url": "https://n.news.naver.com/mnews/article/018/0006410013"
+      "title": "셀트리온 ‘허쥬마’, 7년 연속 브라질 연방정부 입찰 수주",
+      "url": "https://n.news.naver.com/mnews/article/016/0002724332"
     },
     {
-      "title": "12년 앞당긴 SK하이닉스 '용인 팹' 가보니…14층 높이 반도체 공장 '우뚝'[현장]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014323630"
+      "title": "아리바이오, 치매신약 15년 뚝심 통했다…남은 과제는",
+      "url": "https://n.news.naver.com/mnews/article/008/0005442177"
     },
     {
-      "title": "수도권 전세보증금 6년 새 38%↑…올해는 금리 상승 가세",
-      "url": "https://n.news.naver.com/mnews/article/023/0004009666"
+      "title": "SK이노, 에너지·사회문제 해결 AI스타트업 3곳 선정",
+      "url": "https://n.news.naver.com/mnews/article/029/0003059561"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5290.61,
-      "change": 0.08,
-      "change_pct": 0.0
+      "value": 5046.47,
+      "change": -54.03,
+      "change_pct": -1.06
     },
     "kosdaq": {
-      "value": 695.81,
-      "change": -3.85,
-      "change_pct": -0.55
+      "value": 659.66,
+      "change": -5.99,
+      "change_pct": -0.9
     },
     "nasdaq": {
-      "value": 25136.27,
-      "change": -229.82,
-      "change_pct": -0.91
+      "value": 24509.76,
+      "change": -626.51,
+      "change_pct": -2.49
     },
     "usdkrw": {
-      "value": 1334.78,
-      "change": 1.0,
-      "change_pct": 0.07
+      "value": 1338.53,
+      "change": 5.28,
+      "change_pct": 0.4
     }
   },
   "gold": {
-    "price_usd": 3889.4,
-    "price_krw": 5191493,
-    "change": 3.1,
-    "change_pct": 0.08
+    "price_usd": 3874.4,
+    "price_krw": 5186000,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-11-16 09:45",
+  "updated": "2026-11-17 12:22",
   "error": null
 }
