@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "K-디스플레이, 3년 만에 中에 내준 OLED 출하량 1위 탈환",
-      "url": "https://n.news.naver.com/mnews/article/016/0002724384"
+      "title": "AI 반도체부터 화장품까지…79개社 ‘세계일류상품’ 인증",
+      "url": "https://n.news.naver.com/mnews/article/011/0004683210"
     },
     {
-      "title": "\"집이 삶에 맞춰 진화한다\"…GS건설, 자이 미래 주거 비전 공개",
-      "url": "https://n.news.naver.com/mnews/article/629/0000552572"
+      "title": "최태원 \"사회문제 해결에 경제적 보상\"…새로운 자본주의 제안",
+      "url": "https://n.news.naver.com/mnews/article/417/0001164721"
     },
     {
-      "title": "수능 영어듣기 때 공항 항공기 이착륙 통제…130편 시간 조정",
-      "url": "https://n.news.naver.com/mnews/article/374/0000544174"
+      "title": "임무 성공률 99% ‘스팟’ 이어 ‘아틀라스’까지···자동차 넘어 반도체 공장 첫 실증",
+      "url": "https://n.news.naver.com/mnews/article/032/0003483366"
     },
     {
-      "title": "LS일렉트릭, 베트남 공장 증설...구자균 \"글로벌 초격차 확보\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005605278"
+      "title": "기관 넘어 큰손 고객으로…이지스, 부동산 투자 서비스 확장",
+      "url": "https://n.news.naver.com/mnews/article/015/0005355138"
     },
     {
-      "title": "올리브영, 'K색조' 키운다…홍대에 첫 특화매장",
-      "url": "https://n.news.naver.com/mnews/article/277/0005843581"
+      "title": "한수원, 체코 원전 신규 시공사 선정 과정 '주 단위' 관리",
+      "url": "https://n.news.naver.com/mnews/article/421/0009295676"
     },
     {
-      "title": "“한국산은 왜 이렇게 크고 달아?” 해외서 대박 난 K과일…첫 수출 1억달러 돌파",
-      "url": "https://n.news.naver.com/mnews/article/011/0004682938"
+      "title": "\"인체 데이터 기반 설계 통했다\"…LG전자, 2026 인간공학디자인상 4개 부문 석권",
+      "url": "https://n.news.naver.com/mnews/article/277/0005844236"
     },
     {
-      "title": "배민, 음식·배달 별점 분리한다…가게 평균 별점엔 음식 평가만 반영",
-      "url": "https://n.news.naver.com/mnews/article/421/0009292907"
+      "title": "삼성전기, 엔비디아와 AI 인프라 협력 강화…기판 이어 MLCC로 확대",
+      "url": "https://n.news.naver.com/mnews/article/030/0003486864"
     },
     {
-      "title": "셀트리온 ‘허쥬마’, 7년 연속 브라질 연방정부 입찰 수주",
-      "url": "https://n.news.naver.com/mnews/article/016/0002724332"
+      "title": "금융권 연결된 모든 시스템 보안점검 의무화…대형사는 연 2회",
+      "url": "https://n.news.naver.com/mnews/article/119/0003156383"
     },
     {
-      "title": "아리바이오, 치매신약 15년 뚝심 통했다…남은 과제는",
-      "url": "https://n.news.naver.com/mnews/article/008/0005442177"
+      "title": "아리바이오 \"AR1001, 글로벌 3상 성공 기준 충족...임상 실패는 오해\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005844128"
     },
     {
-      "title": "SK이노, 에너지·사회문제 해결 AI스타트업 3곳 선정",
-      "url": "https://n.news.naver.com/mnews/article/029/0003059561"
+      "title": "“엔비디아 호실적에 반전”…코스피 2.90% 급등, 5100선 탈환",
+      "url": "https://n.news.naver.com/mnews/article/138/0002248983"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5046.47,
-      "change": -54.03,
-      "change_pct": -1.06
+      "value": 4958.61,
+      "change": -9.87,
+      "change_pct": -0.2
     },
     "kosdaq": {
-      "value": 659.66,
-      "change": -5.99,
-      "change_pct": -0.9
+      "value": 647.4,
+      "change": -2.66,
+      "change_pct": -0.41
     },
     "nasdaq": {
-      "value": 24509.76,
-      "change": -626.51,
-      "change_pct": -2.49
+      "value": 24328.38,
+      "change": -181.38,
+      "change_pct": -0.74
     },
     "usdkrw": {
-      "value": 1338.53,
-      "change": 5.28,
-      "change_pct": 0.4
+      "value": 1328.98,
+      "change": -6.69,
+      "change_pct": -0.5
     }
   },
   "gold": {
-    "price_usd": 3874.4,
-    "price_krw": 5186000,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 3808.5,
+    "price_krw": 5061420,
+    "change": -44.5,
+    "change_pct": -1.15
   },
-  "updated": "2026-11-17 12:22",
+  "updated": "2026-11-18 11:43",
   "error": null
 }
