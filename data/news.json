@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "최태원 “AI 시대 대학 교육 새로 짜야”…한일 산학 협력 제안",
-      "url": "https://n.news.naver.com/mnews/article/277/0005845921"
+      "title": "11월 1~20일 수출 774억달러·반도체 385억달러 모두 ‘역대 최대’",
+      "url": "https://n.news.naver.com/mnews/article/366/0001206571"
     },
     {
-      "title": "\"대전 1억·대구 6천\"…과천·광명·수원도 억대 부담금 예고",
-      "url": "https://n.news.naver.com/mnews/article/001/0016455987"
+      "title": "‘긴급 대책’ 통했나… 코스피 블랙먼데이 우려 딛고 ‘선방’ 출발 [이런국장 저런주식]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004684986"
     },
     {
-      "title": "MBK, 갤럭시 S펜 핵심 공급사 와콤 인수…1조1천600억 규모",
-      "url": "https://n.news.naver.com/mnews/article/374/0000545074"
+      "title": "한전, 고객 개인정보까지 털렸다...주민·계좌번호 등 150만여건 유출",
+      "url": "https://n.news.naver.com/mnews/article/215/0001273544"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000928558"
+      "title": "은행연합회, 차기 회장 최종 후보에 박종복 전 SC제일은행장 추천",
+      "url": "https://n.news.naver.com/mnews/article/277/0005846169"
     },
     {
-      "title": "삼성전자, 주당 4601원씩 '30조 배당' 27일 지급…증시 반등 이끌까",
-      "url": "https://n.news.naver.com/mnews/article/123/0002394551"
+      "title": "\"전 제품 60여종 한곳에\"…지누스, 용인에 국내 첫 플래그십 매장",
+      "url": "https://n.news.naver.com/mnews/article/277/0005846188"
     },
     {
-      "title": "수소이온 거르고 700바 초고압 견딘다…수소경제 키우는 소재·부품 [K수소, 녹색성장의 판을 바꾸다]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014337245"
+      "title": "[속보] F4회의 \"AI 중장기 성장 기대 유효…과도한 불안심리·투매 경계\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005356793"
     },
     {
-      "title": "ETF 투자하는 서학개미야, 2027년 키워드는 ○○○야![주末머니]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005845835"
+      "title": "쌍용건설, '부산 거제2구역' 재건축 수주...2381억 규모",
+      "url": "https://n.news.naver.com/mnews/article/014/0005608080"
     },
     {
-      "title": "\"30대가 무슨 돈으로 12억을…\" 고가주택 보유자 70% 급증",
-      "url": "https://n.news.naver.com/mnews/article/015/0005356637"
+      "title": "한국 남녀 임금 격차 27.8%…여전히 OECD 최대",
+      "url": "https://n.news.naver.com/mnews/article/057/0001979399"
     },
     {
-      "title": "10개월 전으로 돌아간 코스피",
-      "url": "https://n.news.naver.com/mnews/article/023/0004010928"
+      "title": "“삼성운용 경쟁자는 구글…AI가 퇴직연금 시장 바꾼다”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006413769"
     },
     {
-      "title": "하나금융, 취약계층 어르신 1000명에 주거 안전용품·보행보조기 지원",
-      "url": "https://n.news.naver.com/mnews/article/030/0003488173"
+      "title": "FT \"아마존, AI 스타트업 '데카르트' 10조원에 인수 임박\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000545179"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4869.96,
-      "change": -267.93,
-      "change_pct": -5.21
+      "value": 4686.57,
+      "change": -183.39,
+      "change_pct": -3.77
     },
     "kosdaq": {
-      "value": 645.68,
-      "change": -39.13,
-      "change_pct": -5.71
+      "value": 631.09,
+      "change": -14.59,
+      "change_pct": -2.26
     },
     "nasdaq": {
       "value": 22617.73,
@@ -58,17 +58,17 @@
       "change_pct": -5.28
     },
     "usdkrw": {
-      "value": 1334.79,
-      "change": 4.39,
-      "change_pct": 0.33
+      "value": 1344.48,
+      "change": 9.69,
+      "change_pct": 0.73
     }
   },
   "gold": {
-    "price_usd": 3515.4,
-    "price_krw": 4692320,
-    "change": -170.1,
-    "change_pct": -4.62
+    "price_usd": 3607.0,
+    "price_krw": 4849539,
+    "change": 91.6,
+    "change_pct": 2.61
   },
-  "updated": "2026-11-22 09:56",
+  "updated": "2026-11-23 10:23",
   "error": null
 }
