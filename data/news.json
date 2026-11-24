@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "11월 1~20일 수출 774억달러·반도체 385억달러 모두 ‘역대 최대’",
-      "url": "https://n.news.naver.com/mnews/article/366/0001206571"
+      "title": "“기술유출은 미래 일자리 위협”…재계·학계, 경제안보 강화 한목소리 [2026 산업보안 컨퍼런스]",
+      "url": "https://n.news.naver.com/mnews/article/243/0000106130"
     },
     {
-      "title": "‘긴급 대책’ 통했나… 코스피 블랙먼데이 우려 딛고 ‘선방’ 출발 [이런국장 저런주식]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004684986"
+      "title": "코스피, 젠슨 황 복귀에 5%대 급반등…매수 사이드카 발동",
+      "url": "https://n.news.naver.com/mnews/article/030/0003488880"
     },
     {
-      "title": "한전, 고객 개인정보까지 털렸다...주민·계좌번호 등 150만여건 유출",
-      "url": "https://n.news.naver.com/mnews/article/215/0001273544"
+      "title": "신도시 교통대책 38개 집중 관리…\"광역교통시설 구축 속도\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016460077"
     },
     {
-      "title": "은행연합회, 차기 회장 최종 후보에 박종복 전 SC제일은행장 추천",
-      "url": "https://n.news.naver.com/mnews/article/277/0005846169"
+      "title": "바다와 금융의 미래…‘2026 부산 해양금융위크’ 개최",
+      "url": "https://n.news.naver.com/mnews/article/016/0002727708"
     },
     {
-      "title": "\"전 제품 60여종 한곳에\"…지누스, 용인에 국내 첫 플래그십 매장",
-      "url": "https://n.news.naver.com/mnews/article/277/0005846188"
+      "title": "삼성전자 임원 승진 30명 줄었는데…여성은 역대 최다",
+      "url": "https://n.news.naver.com/mnews/article/123/0002394682"
     },
     {
-      "title": "[속보] F4회의 \"AI 중장기 성장 기대 유효…과도한 불안심리·투매 경계\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005356793"
+      "title": "삼성SDI, 2027년 정기 인사…부사장 4명 등 11명 승진",
+      "url": "https://n.news.naver.com/mnews/article/015/0005357493"
     },
     {
-      "title": "쌍용건설, '부산 거제2구역' 재건축 수주...2381억 규모",
-      "url": "https://n.news.naver.com/mnews/article/014/0005608080"
+      "title": "현대로템, 무보·하나은행과 방산 협력사에 3020억원 금융지원",
+      "url": "https://n.news.naver.com/mnews/article/008/0005445430"
     },
     {
-      "title": "한국 남녀 임금 격차 27.8%…여전히 OECD 최대",
-      "url": "https://n.news.naver.com/mnews/article/057/0001979399"
+      "title": "성수동 무신사 사옥 매각 본격화…주관사에 에스원·JLL 선정 [시그널]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004685233"
     },
     {
-      "title": "“삼성운용 경쟁자는 구글…AI가 퇴직연금 시장 바꾼다”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006413769"
+      "title": "포스코그룹, 미국 셰일가스전 인수 완료…북미 생산거점 확보",
+      "url": "https://n.news.naver.com/mnews/article/011/0004685467"
     },
     {
-      "title": "FT \"아마존, AI 스타트업 '데카르트' 10조원에 인수 임박\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000545179"
+      "title": "3년6개월 걸리던 서울 정비사업 조합설립, 4개월 만에 끝냈다",
+      "url": "https://n.news.naver.com/mnews/article/003/0014341748"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4686.57,
-      "change": -183.39,
-      "change_pct": -3.77
+      "value": 5053.86,
+      "change": 345.32,
+      "change_pct": 7.33
     },
     "kosdaq": {
-      "value": 631.09,
-      "change": -14.59,
-      "change_pct": -2.26
+      "value": 668.63,
+      "change": 33.18,
+      "change_pct": 5.22
     },
     "nasdaq": {
-      "value": 22617.73,
-      "change": -1261.47,
-      "change_pct": -5.28
+      "value": 24089.56,
+      "change": 1471.83,
+      "change_pct": 6.51
     },
     "usdkrw": {
-      "value": 1344.48,
-      "change": 9.69,
-      "change_pct": 0.73
+      "value": 1341.87,
+      "change": -2.44,
+      "change_pct": -0.18
     }
   },
   "gold": {
-    "price_usd": 3607.0,
-    "price_krw": 4849539,
-    "change": 91.6,
-    "change_pct": 2.61
+    "price_usd": 3651.4,
+    "price_krw": 4899703,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-11-23 10:23",
+  "updated": "2026-11-24 14:07",
   "error": null
 }
