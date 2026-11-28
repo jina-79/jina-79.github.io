@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "월급서 보험료 떼고도…사장님 체납에 13만명 국민연금 못 받을 위기",
-      "url": "https://n.news.naver.com/mnews/article/374/0000546204"
+      "title": "'증안펀드 수혜' 소외주 주목…로봇·바이오·이차전지 강세 코스닥 6%↑",
+      "url": "https://n.news.naver.com/mnews/article/421/0009313897"
     },
     {
-      "title": "에이피알, 美 틱톡샵 뷰티 2위 닥터멜락신 품는다",
-      "url": "https://n.news.naver.com/mnews/article/119/0003159991"
+      "title": "2억5800만원짜리 스피커로 들으면 음질이 다를까… 하만의 ‘초고가 오디오’ 전략",
+      "url": "https://n.news.naver.com/mnews/article/366/0001207845"
     },
     {
-      "title": "영화 속 거북선 갑판을 직접 걷는다…‘한산 LBVR’ 베타 체험전 개최",
-      "url": "https://n.news.naver.com/mnews/article/277/0005848725"
+      "title": "현대차, 소형 전기 SUV '아이오닉 M' 내년 中 출격",
+      "url": "https://n.news.naver.com/mnews/article/015/0005359146"
     },
     {
-      "title": "개인사업자·가계 신용대출 부실채권비율 12년來 최고 [경제 레이더]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004178499"
+      "title": "iM금융 차기 회장 후보 3명 압축…황병우·외부 인사 2명 경쟁",
+      "url": "https://n.news.naver.com/mnews/article/119/0003160398"
     },
     {
-      "title": "현대차, 광저우 모터쇼서 소형 전기 SUV '머큐리 콘셉트' 세계 최초 공개",
-      "url": "https://n.news.naver.com/mnews/article/030/0003490669"
+      "title": "SK하이닉스, 자사주 일일 매수 주문량 두 배로…“주주가치 제고 차원”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001207888"
     },
     {
-      "title": "홈플러스 매각 새 국면…부동산·유통 컨소 인수의향서 제출[마켓인]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006416216"
+      "title": "KIC·산업은행, 코인거래소 지분 제한 예외…'관치' 논란 불씨",
+      "url": "https://n.news.naver.com/mnews/article/008/0005447319"
     },
     {
-      "title": "세종 스마트시티 첫 분양…‘세종스마트시티 엘 수자인’ 견본주택 개관",
-      "url": "https://n.news.naver.com/mnews/article/016/0002729378"
+      "title": "삼전·닉스 44조 배당 잔치…연말 증시 '단비' 될까",
+      "url": "https://n.news.naver.com/mnews/article/003/0014350397"
     },
     {
-      "title": "셀트리온, 日서 램시마SC 3상 발표…\"내년 출시해 시너지 극대화\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005447318"
+      "title": "송금업체 공격해 25억 빼갔다 … '자금 탈취 해킹'에 금융권 비상",
+      "url": "https://n.news.naver.com/mnews/article/009/0005770117"
     },
     {
-      "title": "“3259억 손실 위기”vs“자의적 추정”…고려아연 투자 논란 쟁점은[마켓인]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006415905"
+      "title": "‘해킹 피해’ 삼성증권 개인정보 유출 고객 1만 2168명…3927명 추가 확인",
+      "url": "https://n.news.naver.com/mnews/article/011/0004686973"
     },
     {
-      "title": "\"추가 긴축\" 한은… 주담대 금리 안정 기대에 물 끼얹나",
-      "url": "https://n.news.naver.com/mnews/article/014/0005610457"
+      "title": "정부 3차 ESS 입찰 결과는?…SK온 443㎿, 나머지는 삼성SDI 몫",
+      "url": "https://n.news.naver.com/mnews/article/032/0003485472"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4845.52,
-      "change": 134.31,
-      "change_pct": 2.85
+      "value": 4915.68,
+      "change": 204.47,
+      "change_pct": 4.34
     },
     "kosdaq": {
-      "value": 694.35,
-      "change": 38.64,
-      "change_pct": 5.89
+      "value": 708.99,
+      "change": 53.28,
+      "change_pct": 8.13
     },
     "nasdaq": {
-      "value": 23585.8,
-      "change": -147.74,
-      "change_pct": -0.62
+      "value": 24129.5,
+      "change": 543.7,
+      "change_pct": 2.31
     },
     "usdkrw": {
-      "value": 1340.88,
-      "change": -2.09,
-      "change_pct": -0.16
+      "value": 1343.53,
+      "change": 0.56,
+      "change_pct": 0.04
     }
   },
   "gold": {
-    "price_usd": 3660.9,
-    "price_krw": 4908827,
-    "change": 125.1,
-    "change_pct": 3.54
+    "price_usd": 3668.5,
+    "price_krw": 4928739,
+    "change": 132.7,
+    "change_pct": 3.75
   },
-  "updated": "2026-11-27 12:28",
+  "updated": "2026-11-28 12:05",
   "error": null
 }
